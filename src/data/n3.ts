@@ -5,7 +5,7 @@ export const n3Data: LevelData = {
   "subtitle": "中級 — Menengah",
   "description": "Level menengah bahasa Jepang. Mampu memahami percakapan sehari-hari dengan kecepatan alami dan membaca artikel sederhana.",
   "color": "amber",
-  "kanjiCount": "346",
+  "kanjiCount": "367",
   "vocabCount": "2299",
   "grammarCount": "110",
   "studyHours": "~700 jam",
@@ -17816,4504 +17816,4369 @@ export const n3Data: LevelData = {
     }
   ],
   "kanji": [
-    {
-      "kanji": "親",
-      "onyomi": "シン",
-      "kunyomi": "おや/した(しい)",
-      "meaning": "orang tua/akrab",
-      "strokes": 16,
-      "examples": [
-        "両親 (りょうしん) - orang tua",
-        "親友 (しんゆう) - sahabat/teman akrab",
-        "父親 (ちちおや) - ayah"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "祖",
-      "onyomi": "ソ",
-      "kunyomi": "—",
-      "meaning": "leluhur",
-      "strokes": 9,
-      "examples": [
-        "祖父 (そふ) - kakek",
-        "祖母 (そぼ) - nenek",
-        "先祖 (せんぞ) - leluhur/nenek moyang"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "孫",
-      "onyomi": "ソン",
-      "kunyomi": "まご",
-      "meaning": "cucu",
-      "strokes": 10,
-      "examples": [
-        "子孫 (しそん) - keturunan",
-        "孫娘 (まごむすめ) - cucu perempuan",
-        "初孫 (ういまご) - cucu pertama"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "僚",
-      "onyomi": "リョウ",
-      "kunyomi": "—",
-      "meaning": "kolega",
-      "strokes": 14,
-      "examples": [
-        "同僚 (どうりょう) - rekan kerja/kolega",
-        "官僚 (かんりょう) - birokrat/pejabat pemerintah",
-        "閣僚 (かくりょう) - anggota kabinet"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "臣",
-      "onyomi": "シン/ジン",
-      "kunyomi": "—",
-      "meaning": "menteri",
-      "strokes": 7,
-      "examples": [
-        "大臣 (だいじん) - menteri",
-        "総理大臣 (そうりだいじん) - perdana menteri",
-        "忠臣 (ちゅうしん) - abdi setia/pengikut setia"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "民",
-      "onyomi": "ミン",
-      "kunyomi": "たみ",
-      "meaning": "rakyat",
-      "strokes": 5,
-      "examples": [
-        "国民 (こくみん) - rakyat negara",
-        "民主主義 (みんしゅしゅぎ) - demokrasi",
-        "民間 (みんかん) - swasta/sipil"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "疑",
-      "onyomi": "ギ",
-      "kunyomi": "うたが(う)",
-      "meaning": "meragukan",
-      "strokes": 14,
-      "examples": [
-        "疑問 (ぎもん) - pertanyaan/keraguan",
-        "疑う (うたがう) - meragukan/mencurigai",
-        "容疑者 (ようぎしゃ) - tersangka"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "犯",
-      "onyomi": "ハン",
-      "kunyomi": "おか(す)",
-      "meaning": "melakukan kejahatan",
-      "strokes": 5,
-      "examples": [
-        "犯人 (はんにん) - pelaku kejahatan/penjahat",
-        "犯罪 (はんざい) - kejahatan/kriminalitas",
-        "犯す (おかす) - melakukan (kejahatan/kesalahan)"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "護",
-      "onyomi": "ゴ",
-      "kunyomi": "まも(る)",
-      "meaning": "melindungi",
-      "strokes": 20,
-      "examples": [
-        "保護 (ほご) - perlindungan",
-        "看護師 (かんごし) - perawat",
-        "弁護士 (べんごし) - pengacara"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "監",
-      "onyomi": "カン",
-      "kunyomi": "—",
-      "meaning": "mengawasi",
-      "strokes": 15,
-      "examples": [
-        "監督 (かんとく) - pengawas/pelatih/sutradara",
-        "監視 (かんし) - pengawasan/pemantauan",
-        "監獄 (かんごく) - penjara"
-      ],
-      "category": "Orang"
-    },
-    {
-      "kanji": "政",
-      "onyomi": "セイ",
-      "kunyomi": "まつりごと",
-      "meaning": "politik",
-      "strokes": 9,
-      "examples": [
-        "政治 (せいじ) - politik",
-        "政府 (せいふ) - pemerintah",
-        "政党 (せいとう) - partai politik"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "済",
-      "onyomi": "ザイ/セイ",
-      "kunyomi": "す(む)",
-      "meaning": "ekonomi/selesai",
-      "strokes": 11,
-      "examples": [
-        "経済 (けいざい) - ekonomi",
-        "済む (すむ) - selesai/berakhir",
-        "返済 (へんさい) - pembayaran kembali/pelunasan (hutang)"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "律",
-      "onyomi": "リツ",
-      "kunyomi": "—",
-      "meaning": "hukum/irama",
-      "strokes": 9,
-      "examples": [
-        "法律 (ほうりつ) - hukum/undang-undang",
-        "規律 (きりつ) - disiplin/tata tertib",
-        "旋律 (せんりつ) - melodi/irama"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "憲",
-      "onyomi": "ケン",
-      "kunyomi": "—",
-      "meaning": "konstitusi",
-      "strokes": 16,
-      "examples": [
-        "憲法 (けんぽう) - konstitusi/undang-undang dasar",
-        "違憲 (いけん) - tidak konstitusional/melanggar UUD",
-        "合憲 (ごうけん) - konstitusional/sesuai UUD"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "裁",
-      "onyomi": "サイ",
-      "kunyomi": "た(つ)",
-      "meaning": "memotong/mengadili",
-      "strokes": 12,
-      "examples": [
-        "裁判 (さいばん) - pengadilan/persidangan",
-        "裁縫 (さいほう) - menjahit",
-        "独裁 (どくさい) - diktator/kediktatoran"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "挙",
-      "onyomi": "キョ",
-      "kunyomi": "あ(げる)",
-      "meaning": "mengangkat",
-      "strokes": 10,
-      "examples": [
-        "挙手 (きょしゅ) - angkat tangan",
-        "選挙 (せんきょ) - pemilihan umum",
-        "一挙に (いっきょに) - sekaligus / dalam satu gerakan"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "票",
-      "onyomi": "ヒョウ",
-      "kunyomi": "—",
-      "meaning": "suara/tiket",
-      "strokes": 11,
-      "examples": [
-        "投票 (とうひょう) - pemungutan suara / voting",
-        "伝票 (でんぴょう) - slip / kuitansi / bon",
-        "目標 (もくひょう) - target / sasaran (menggunakan kanji hyou yang sama)"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "策",
-      "onyomi": "サク",
-      "kunyomi": "—",
-      "meaning": "kebijakan/strategi",
-      "strokes": 12,
-      "examples": [
-        "対策 (たいさく) - penanggulangan / langkah-langkah",
-        "政策 (せいさく) - kebijakan (politik/pemerintah)",
-        "解決策 (かいけつさく) - solusi / rencana penyelesaian"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "税",
-      "onyomi": "ゼイ",
-      "kunyomi": "—",
-      "meaning": "pajak",
-      "strokes": 12,
-      "examples": [
-        "税金 (ぜいきん) - pajak (uang pajak)",
-        "消費税 (しょうひぜい) - pajak konsumsi (PPN)",
-        "免税 (めんぜい) - bebas pajak / tax free"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "算",
-      "onyomi": "サン",
-      "kunyomi": "—",
-      "meaning": "menghitung",
-      "strokes": 14,
-      "examples": [
-        "計算 (けいさん) - perhitungan / kalkulasi",
-        "予算 (よさん) - anggaran / budget",
-        "算数 (さんすう) - aritmatika / matematika dasar"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "株",
-      "onyomi": "—",
-      "kunyomi": "かぶ",
-      "meaning": "saham",
-      "strokes": 10,
-      "examples": [
-        "株式会社 (かぶしきがいしゃ) - Perseroan Terbatas (PT)",
-        "株価 (かぶか) - Harga saham",
-        "切り株 (きりかぶ) - Tunggul pohon"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "貿",
-      "onyomi": "ボウ",
-      "kunyomi": "—",
-      "meaning": "perdagangan",
-      "strokes": 12,
-      "examples": [
-        "貿易 (ぼうえき) - Perdagangan luar negeri",
-        "貿易商 (ぼうえきしょう) - Pedagang perdagangan luar negeri",
-        "自由貿易 (じゆうぼうえき) - Perdagangan bebas"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "易",
-      "onyomi": "エキ/イ",
-      "kunyomi": "やさ(しい)",
-      "meaning": "mudah/perdagangan",
-      "strokes": 8,
-      "examples": [
-        "容易 (ようい) - Mudah/Gampang",
-        "安易 (あんい) - Mudah/Sederhana",
-        "貿易 (ぼうえき) - Perdagangan"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "罰",
-      "onyomi": "バツ",
-      "kunyomi": "—",
-      "meaning": "hukuman",
-      "strokes": 14,
-      "examples": [
-        "罰金 (ばっきん) - Denda (uang)",
-        "刑罰 (けいばつ) - Hukuman pidana",
-        "罰当たり (ばちあたり) - Terkutuk/Kena azab"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "罪",
-      "onyomi": "ザイ",
-      "kunyomi": "つみ",
-      "meaning": "dosa/kejahatan",
-      "strokes": 13,
-      "examples": [
-        "犯罪 (はんざい) - Kejahatan/Kriminalitas",
-        "有罪 (ゆうざい) - Bersalah (dalam hukum)",
-        "謝罪 (しゃざい) - Permintaan maaf"
-      ],
-      "category": "Masyarakat"
-    },
-    {
-      "kanji": "授",
-      "onyomi": "ジュ",
-      "kunyomi": "さず(ける)",
-      "meaning": "memberikan",
-      "strokes": 11,
-      "examples": [
-        "授業 (じゅぎょう) - pelajaran/kelas",
-        "教授 (きょうじゅ) - profesor",
-        "授与 (じゅよ) - penganugerahan/pemberian"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "講",
-      "onyomi": "コウ",
-      "kunyomi": "—",
-      "meaning": "kuliah/ceramah",
-      "strokes": 17,
-      "examples": [
-        "講義 (こうぎ) - kuliah",
-        "講演 (こうえん) - ceramah/pidato",
-        "休講 (きゅうこう) - pembatalan kuliah/libur kuliah"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "専",
-      "onyomi": "セン",
-      "kunyomi": "もっぱ(ら)",
-      "meaning": "khusus",
-      "strokes": 9,
-      "examples": [
-        "専門 (せんもん) - keahlian/spesialisasi",
-        "専攻 (せんこう) - jurusan (studi)",
-        "専用 (せんよう) - penggunaan khusus/eksklusif"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "奨",
-      "onyomi": "ショウ",
-      "kunyomi": "—",
-      "meaning": "mendorong/beasiswa",
-      "strokes": 13,
-      "examples": [
-        "奨学金 (しょうがくきん) - beasiswa",
-        "推奨 (すいしょう) - rekomendasi/anjuran",
-        "奨励 (しょうれい) - dorongan/insentif"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "論",
-      "onyomi": "ロン",
-      "kunyomi": "—",
-      "meaning": "teori/argumen",
-      "strokes": 15,
-      "examples": [
-        "論文 (ろんぶん) - tesis/skripsi/karya ilmiah",
-        "議論 (ぎろん) - diskusi/argumen",
-        "結論 (けつろん) - kesimpulan"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "績",
-      "onyomi": "セキ",
-      "kunyomi": "—",
-      "meaning": "prestasi",
-      "strokes": 17,
-      "examples": [
-        "成績 (せいせき) - Nilai/Prestasi akademik",
-        "実績 (じっせき) - Rekam jejak/Hasil nyata",
-        "業績 (ぎょうせき) - Pencapaian bisnis/Kinerja"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "卒",
-      "onyomi": "ソツ",
-      "kunyomi": "—",
-      "meaning": "lulus",
-      "strokes": 8,
-      "examples": [
-        "卒業 (そつぎょう) - Kelulusan",
-        "新卒 (しんそつ) - Lulusan baru",
-        "卒業生 (そつぎょうせい) - Lulusan/Alumni"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "験",
-      "onyomi": "ケン",
-      "kunyomi": "—",
-      "meaning": "ujian/pengalaman",
-      "strokes": 18,
-      "examples": [
-        "試験 (しけん) - Ujian",
-        "経験 (けいけん) - Pengalaman",
-        "実験 (じっけん) - Eksperimen"
-      ],
-      "category": "Pendidikan"
-    },
-    {
-      "kanji": "康",
-      "onyomi": "コウ",
-      "kunyomi": "—",
-      "meaning": "sehat",
-      "strokes": 11,
-      "examples": [
-        "健康 (けんこう) - Kesehatan",
-        "健康的 (けんこうてき) - Sehat (sifat)",
-        "不健康 (ふけんこう) - Tidak sehat"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "症",
-      "onyomi": "ショウ",
-      "kunyomi": "—",
-      "meaning": "gejala",
-      "strokes": 10,
-      "examples": [
-        "症状 (しょうじょう) - Gejala",
-        "重症 (じゅうしょう) - Gejala berat/Sakit parah",
-        "後遺症 (こういしょう) - Efek samping/Gejala sisa"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "熱",
-      "onyomi": "ネツ",
-      "kunyomi": "あつ(い)",
-      "meaning": "panas/demam",
-      "strokes": 15,
-      "examples": [
-        "熱 (ねつ) - Demam/panas",
-        "熱心 (ねっしん) - Antusias/tekun",
-        "加熱 (かねつ) - Pemanasan"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "痛",
-      "onyomi": "ツウ",
-      "kunyomi": "いた(い)",
-      "meaning": "sakit",
-      "strokes": 12,
-      "examples": [
-        "痛い (いたい) - Sakit",
-        "頭痛 (ずつう) - Sakit kepala",
-        "苦痛 (くつう) - Penderitaan/rasa sakit"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "傷",
-      "onyomi": "ショウ",
-      "kunyomi": "きず",
-      "meaning": "luka",
-      "strokes": 13,
-      "examples": [
-        "傷 (きず) - Luka",
-        "負傷 (ふしょう) - Cedera/luka",
-        "傷心 (しょうしん) - Patah hati/sedih"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "折",
-      "onyomi": "セツ",
-      "kunyomi": "お(る)",
-      "meaning": "melipat/patah",
-      "strokes": 7,
-      "examples": [
-        "折る (おる) - Melipat/mematahkan",
-        "骨折 (こっせつ) - Patah tulang",
-        "右折 (うせつ) - Belok kanan"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "術",
-      "onyomi": "ジュツ",
-      "kunyomi": "—",
-      "meaning": "teknik/operasi",
-      "strokes": 11,
-      "examples": [
-        "手術 (しゅじゅつ) - Operasi (bedah)",
-        "技術 (ぎじゅつ) - Teknologi/teknik",
-        "芸術 (げいじゅつ) - Seni"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "診",
-      "onyomi": "シン",
-      "kunyomi": "み(る)",
-      "meaning": "memeriksa",
-      "strokes": 12,
-      "examples": [
-        "診断 (しんだん) - Diagnosis",
-        "診察 (しんさつ) - Pemeriksaan medis",
-        "往診 (おうしん) - Kunjungan dokter ke rumah"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "療",
-      "onyomi": "リョウ",
-      "kunyomi": "—",
-      "meaning": "pengobatan",
-      "strokes": 17,
-      "examples": [
-        "治療 (ちりょう) - Pengobatan/Perawatan",
-        "医療 (いりょう) - Perawatan medis",
-        "療養 (りょうよう) - Pemulihan/Rekuperasi"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "液",
-      "onyomi": "エキ",
-      "kunyomi": "—",
-      "meaning": "cairan",
-      "strokes": 11,
-      "examples": [
-        "血液 (けつえき) - Darah",
-        "液体 (えきたい) - Zat cair",
-        "溶液 (ようえき) - Larutan"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "圧",
-      "onyomi": "アツ",
-      "kunyomi": "—",
-      "meaning": "tekanan",
-      "strokes": 5,
-      "examples": [
-        "血圧 (けつあつ) - Tekanan darah",
-        "圧力 (あつりょく) - Tekanan (fisik/sosial)",
-        "気圧 (きあつ) - Tekanan udara"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "養",
-      "onyomi": "ヨウ",
-      "kunyomi": "やしな(う)",
-      "meaning": "memelihara/nutrisi",
-      "strokes": 15,
-      "examples": [
-        "栄養 (えいよう) - Nutrisi/Gizi",
-        "養育 (よういく) - Pengasuhan/Membesarkan",
-        "養成 (ようせい) - Pelatihan/Pembinaan"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "筋",
-      "onyomi": "キン",
-      "kunyomi": "すじ",
-      "meaning": "otot/garis",
-      "strokes": 12,
-      "examples": [
-        "筋肉 (きんにく) - Otot",
-        "筋道 (すじみち) - Alur/Logika",
-        "腹筋 (ふっきん) - Otot perut"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "肉",
-      "onyomi": "ニク",
-      "kunyomi": "—",
-      "meaning": "daging",
-      "strokes": 6,
-      "examples": [
-        "牛肉 (ぎゅうにく) - Daging sapi",
-        "肉屋 (にくや) - Toko daging",
-        "皮肉 (ひにく) - Ironi/Sarkasme"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "骨",
-      "onyomi": "コツ",
-      "kunyomi": "ほね",
-      "meaning": "tulang",
-      "strokes": 10,
-      "examples": [
-        "骨折 (こっせつ) - Patah tulang",
-        "背骨 (せぼね) - Tulang punggung",
-        "骸骨 (がいこつ) - Tengkorak/Kerangka"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "膚",
-      "onyomi": "フ",
-      "kunyomi": "—",
-      "meaning": "kulit",
-      "strokes": 15,
-      "examples": [
-        "皮膚 (ひふ) - Kulit",
-        "皮膚科 (ひふか) - Spesialis kulit/Dermatologi",
-        "皮膚炎 (ひふえん) - Radang kulit/Dermatitis"
-      ],
-      "category": "Kesehatan"
-    },
-    {
-      "kanji": "科",
-      "onyomi": "カ",
-      "kunyomi": "—",
-      "meaning": "bagian/sains",
-      "strokes": 9,
-      "examples": [
-        "科学 (かがく) - Ilmu pengetahuan/Sains",
-        "教科書 (きょうかしょ) - Buku pelajaran",
-        "内科 (ないか) - Penyakit dalam"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "報",
-      "onyomi": "ホウ",
-      "kunyomi": "—",
-      "meaning": "laporan/berita",
-      "strokes": 12,
-      "examples": [
-        "報告 (ほうこく) - Laporan",
-        "予報 (よほう) - Ramalan/Prediksi",
-        "情報 (じょうほう) - Informasi"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "信",
-      "onyomi": "シン",
-      "kunyomi": "—",
-      "meaning": "percaya/komunikasi",
-      "strokes": 9,
-      "examples": [
-        "信用 (しんよう) - Kepercayaan/Kredibilitas",
-        "信号 (しんごう) - Lampu lalu lintas/Sinyal",
-        "自信 (じしん) - Kepercayaan diri"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "池",
-      "onyomi": "チ",
-      "kunyomi": "いけ",
-      "meaning": "kolam/baterai",
-      "strokes": 6,
-      "examples": [
-        "電池 (でんち) - Baterai",
-        "小池 (こいけ) - Kolam kecil",
-        "貯水池 (ちょすいち) - Waduk/Reservoir"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "充",
-      "onyomi": "ジュウ",
-      "kunyomi": "あ(てる)",
-      "meaning": "mengisi",
-      "strokes": 6,
-      "examples": [
-        "充電 (じゅうでん) - Pengisian daya (charging)",
-        "充実 (じゅうじつ) - Kepuasan/Kelengkapan",
-        "補充 (ほじゅう) - Pengisian kembali/Suplemen"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "操",
-      "onyomi": "ソウ",
-      "kunyomi": "あやつ(る)",
-      "meaning": "mengoperasikan",
-      "strokes": 16,
-      "examples": [
-        "操作 (そうさ) - Operasi/Pengoperasian",
-        "体操 (たいそう) - Senam/Gimnastik",
-        "操縦 (そうじゅう) - Pengendalian/Kemudi (pesawat/kapal)"
-      ],
-      "category": "Teknologi"
-    },
-    {
-      "kanji": "然",
-      "onyomi": "ゼン/ネン",
-      "kunyomi": "—",
-      "meaning": "alam/tentu",
-      "strokes": 12,
-      "examples": [
-        "自然 (しぜん) - alam",
-        "全然 (ぜんぜん) - sama sekali (tidak)",
-        "当然 (とうぜん) - tentu saja / sewajarnya"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "候",
-      "onyomi": "コウ",
-      "kunyomi": "そうろう",
-      "meaning": "iklim/calon",
-      "strokes": 10,
-      "examples": [
-        "気候 (きこう) - iklim",
-        "候補 (こうほ) - kandidat / calon",
-        "天候 (てんこう) - cuaca (dalam jangka waktu tertentu)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "暖",
-      "onyomi": "ダン",
-      "kunyomi": "あたた(かい)",
-      "meaning": "hangat",
-      "strokes": 13,
-      "examples": [
-        "暖房 (だんぼう) - pemanas ruangan",
-        "暖かい (あたたかい) - hangat (untuk cuaca/udara)",
-        "温暖 (おんだん) - hangat / ringan (tentang iklim)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "染",
-      "onyomi": "セン",
-      "kunyomi": "そ(める)",
-      "meaning": "mewarnai/terinfeksi",
-      "strokes": 9,
-      "examples": [
-        "汚染 (おせん) - polusi / pencemaran",
-        "感染 (かんせん) - infeksi / penularan",
-        "染める (そめる) - mewarnai / mencelup"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "害",
-      "onyomi": "ガイ",
-      "kunyomi": "—",
-      "meaning": "bahaya/kerusakan",
-      "strokes": 10,
-      "examples": [
-        "被害 (ひがい) - kerusakan / kerugian",
-        "公害 (こうがい) - pencemaran lingkungan / polusi masyarakat",
-        "有害 (ゆうがい) - berbahaya / beracun"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "震",
-      "onyomi": "シン",
-      "kunyomi": "ふる(える)",
-      "meaning": "bergetar",
-      "strokes": 15,
-      "examples": [
-        "地震 (じしん) - Gempa bumi",
-        "震える (ふるえる) - Menggigil/bergetar",
-        "震度 (しんど) - Skala intensitas gempa"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "津",
-      "onyomi": "シン/ツ",
-      "kunyomi": "つ",
-      "meaning": "pelabuhan",
-      "strokes": 9,
-      "examples": [
-        "津波 (つなみ) - Tsunami",
-        "興味津々 (きょうみしんしん) - Sangat tertarik/penasaran",
-        "津々浦々 (つつうらうら) - Seluruh pelosok negeri"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "洪",
-      "onyomi": "コウ",
-      "kunyomi": "—",
-      "meaning": "banjir",
-      "strokes": 9,
-      "examples": [
-        "洪水 (こうずい) - Banjir",
-        "洪大 (こうだい) - Sangat besar/luas",
-        "洪潤 (こうじゅん) - Berlimpah/basah kuyup"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "噴",
-      "onyomi": "フン",
-      "kunyomi": "ふ(く)",
-      "meaning": "menyembur",
-      "strokes": 15,
-      "examples": [
-        "噴火 (ふんか) - Letusan gunung berapi",
-        "噴水 (ふんすい) - Air mancur",
-        "噴出 (ふんしゅつ) - Semburan/ejeksi"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "陸",
-      "onyomi": "リク",
-      "kunyomi": "—",
-      "meaning": "daratan",
-      "strokes": 11,
-      "examples": [
-        "大陸 (たいりく) - Benua",
-        "陸上 (りくじょう) - Di atas daratan/atletik",
-        "着陸 (ちゃくりく) - Pendaratan (pesawat)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "岸",
-      "onyomi": "ガン",
-      "kunyomi": "きし",
-      "meaning": "pantai/tepian",
-      "strokes": 8,
-      "examples": [
-        "海岸 (かいがん) - pesisir pantai",
-        "川岸 (かわぎし) - tepi sungai",
-        "向こう岸 (むこうぎし) - seberang pantai/tepian"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "漠",
-      "onyomi": "バク",
-      "kunyomi": "—",
-      "meaning": "gurun/samar",
-      "strokes": 13,
-      "examples": [
-        "砂漠 (さばく) - gurun pasir",
-        "漠然 (ばくぜん) - samar/tidak jelas/abstrak",
-        "広漠 (こうばく) - luas dan sunyi/luas membentang"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "林",
-      "onyomi": "リン",
-      "kunyomi": "はやし",
-      "meaning": "hutan",
-      "strokes": 8,
-      "examples": [
-        "山林 (さんりん) - hutan pegunungan",
-        "森林 (しんりん) - hutan rimba",
-        "林道 (りんどう) - jalan setapak di hutan"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "悩",
-      "onyomi": "ノウ",
-      "kunyomi": "なや(む)",
-      "meaning": "bingung",
-      "strokes": 10,
-      "examples": [
-        "悩み (なやみ) - kekhawatiran/masalah/penderitaan",
-        "悩む (なやむ) - merasa bingung/khawatir/menderita",
-        "苦悩 (くのう) - penderitaan batin/kesengsaraan"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "喜",
-      "onyomi": "キ",
-      "kunyomi": "よろこ(ぶ)",
-      "meaning": "gembira",
-      "strokes": 12,
-      "examples": [
-        "喜び (よろこび) - kegembiraan/kesenangan",
-        "喜劇 (きげき) - komedi/sandiwara lucu",
-        "歓喜 (かんき) - kegembiraan yang luar biasa/sorak-sorai"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "悲",
-      "onyomi": "ヒ",
-      "kunyomi": "かな(しい)",
-      "meaning": "sedih",
-      "strokes": 12,
-      "examples": [
-        "悲しい (かなしい) - sedih",
-        "悲劇 (ひげき) - tragedi",
-        "悲鳴 (ひめい) - jeritan (karena sedih/takut)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "驚",
-      "onyomi": "キョウ",
-      "kunyomi": "おどろ(く)",
-      "meaning": "terkejut",
-      "strokes": 22,
-      "examples": [
-        "驚く (おどろく) - terkejut/kaget",
-        "驚き (おどろき) - kejutan/keheranan",
-        "驚異 (きょうい) - keajaiban/sesuatu yang luar biasa"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "恐",
-      "onyomi": "キョウ",
-      "kunyomi": "おそ(れる)",
-      "meaning": "takut",
-      "strokes": 10,
-      "examples": [
-        "恐ろしい (おそろしい) - menakutkan",
-        "恐縮 (きょうしゅく) - merasa sungkan/tidak enak hati",
-        "恐竜 (きょうりゅう) - dinosaurus"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "慌",
-      "onyomi": "コウ",
-      "kunyomi": "あわ(てる)",
-      "meaning": "panik",
-      "strokes": 12,
-      "examples": [
-        "慌てる (あわてる) - panik/terburu-buru",
-        "慌ただしい (あわただしい) - sibuk/tergesa-gesa",
-        "恐慌 (きょうこう) - kepanikan/krisis (ekonomi)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "焦",
-      "onyomi": "ショウ",
-      "kunyomi": "あせ(る)",
-      "meaning": "gelisah",
-      "strokes": 12,
-      "examples": [
-        "焦る (あせる) - gelisah/terburu-nafsu/tidak sabar",
-        "焦げる (こげる) - hangus/gosong",
-        "焦点 (しょうてん) - titik fokus"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "謝",
-      "onyomi": "シャ",
-      "kunyomi": "あやま(る)",
-      "meaning": "meminta maaf",
-      "strokes": 17,
-      "examples": [
-        "感謝 (かんしゃ) - rasa terima kasih / syukur",
-        "謝罪 (しゃざい) - permintaan maaf",
-        "謝る (あやまる) - meminta maaf"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "褒",
-      "onyomi": "ホウ",
-      "kunyomi": "ほ(める)",
-      "meaning": "memuji",
-      "strokes": 15,
-      "examples": [
-        "褒める (ほめる) - memuji",
-        "褒美 (ほうび) - hadiah / imbalan (atas prestasi)",
-        "褒章 (ほうしょう) - medali kehormatan / tanda jasa"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "叱",
-      "onyomi": "シツ",
-      "kunyomi": "しか(る)",
-      "meaning": "memarahi",
-      "strokes": 5,
-      "examples": [
-        "叱る (しかる) - memarahi",
-        "叱責 (しっせき) - teguran keras / kecaman",
-        "叱咤 (しった) - memarahi dengan keras / membentak"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "届",
-      "onyomi": "—",
-      "kunyomi": "とど(く)",
-      "meaning": "sampai",
-      "strokes": 8,
-      "examples": [
-        "届く (とどく) - sampai / tiba (barang/surat)",
-        "届ける (とどける) - menyampaikan / mengirimkan / melaporkan",
-        "届け出 (とどけで) - laporan resmi / pemberitahuan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "逃",
-      "onyomi": "トウ",
-      "kunyomi": "に(げる)",
-      "meaning": "melarikan diri",
-      "strokes": 9,
-      "examples": [
-        "逃げる (にげる) - melarikan diri / kabur",
-        "逃がす (にがす) - melepaskan / membiarkan lolos",
-        "逃亡 (とうぼう) - pelarian / pengungsian"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "迷",
-      "onyomi": "メイ",
-      "kunyomi": "まよ(う)",
-      "meaning": "tersesat",
-      "strokes": 9,
-      "examples": [
-        "迷子 (まいご) - anak hilang / tersesat",
-        "迷路 (めいろ) - labirin / jalan yang membingungkan",
-        "迷惑 (めいわく) - gangguan / merepotkan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "従",
-      "onyomi": "ジュウ",
-      "kunyomi": "したが(う)",
-      "meaning": "mengikuti",
-      "strokes": 10,
-      "examples": [
-        "服従 (ふくじゅう) - kepatuhan / ketaatan",
-        "従業員 (じゅうぎょういん) - karyawan / pegawai",
-        "主従 (しゅじゅう) - tuan dan pelayan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "導",
-      "onyomi": "ドウ",
-      "kunyomi": "みちび(く)",
-      "meaning": "membimbing",
-      "strokes": 15,
-      "examples": [
-        "導入 (どうにゅう) - pengenalan / instalasi / introduksi",
-        "指導 (しどう) - bimbingan / arahan / kepemimpinan",
-        "盲導犬 (もうどうけん) - anjing penuntun (untuk tuna netra)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "招",
-      "onyomi": "ショウ",
-      "kunyomi": "まね(く)",
-      "meaning": "mengundang",
-      "strokes": 8,
-      "examples": [
-        "招待 (しょうたい) - undangan",
-        "招集 (しょうしゅう) - pemanggilan / pengumpulan (rapat/pasukan)",
-        "手招き (てまねき) - memberi isyarat dengan tangan / melambai"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "誘",
-      "onyomi": "ユウ",
-      "kunyomi": "さそ(う)",
-      "meaning": "mengajak",
-      "strokes": 14,
-      "examples": [
-        "誘惑 (ゆうわく) - godaan / bujukan",
-        "勧誘 (かんゆう) - ajakan / persuasi / promosi",
-        "誘導 (ゆうどう) - panduan / induksi / pengarahan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "拒",
-      "onyomi": "キョ",
-      "kunyomi": "こば(む)",
-      "meaning": "menolak",
-      "strokes": 7,
-      "examples": [
-        "拒否 (きょひ) - penolakan",
-        "拒絶 (きょぜつ) - penolakan keras/rejeksi",
-        "拒む (こばむ) - menolak/menghalangi"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "握",
-      "onyomi": "アク",
-      "kunyomi": "にぎ(る)",
-      "meaning": "menggenggam",
-      "strokes": 12,
-      "examples": [
-        "握手 (あくしゅ) - berjabat tangan",
-        "握力 (あくりょく) - kekuatan genggaman",
-        "握る (にぎる) - menggenggam/memegang"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "振",
-      "onyomi": "シン",
-      "kunyomi": "ふ(る)",
-      "meaning": "mengayun",
-      "strokes": 10,
-      "examples": [
-        "振動 (しんどう) - getaran",
-        "振る (ふる) - mengayunkan/mengocok",
-        "振込 (ふりこみ) - transfer bank"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "揺",
-      "onyomi": "ヨウ",
-      "kunyomi": "ゆ(れる)",
-      "meaning": "bergoyang",
-      "strokes": 12,
-      "examples": [
-        "揺れる (ゆれる) - bergoyang/bergetar",
-        "動揺 (どうよう) - guncangan emosi/kegelisahan",
-        "揺さぶる (ゆさぶる) - mengguncang/mengayunkan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "攻",
-      "onyomi": "コウ",
-      "kunyomi": "せ(める)",
-      "meaning": "menyerang",
-      "strokes": 7,
-      "examples": [
-        "攻撃 (こうげき) - serangan",
-        "攻める (せめる) - menyerang/menyerbu",
-        "専攻 (せんこう) - jurusan (studi)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "防",
-      "onyomi": "ボウ",
-      "kunyomi": "ふせ(ぐ)",
-      "meaning": "mencegah",
-      "strokes": 7,
-      "examples": [
-        "予防 (よぼう) - pencegahan",
-        "防止 (ぼうし) - pencegahan/penghalangan",
-        "防衛 (ぼうえい) - pertahanan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "避",
-      "onyomi": "ヒ",
-      "kunyomi": "さ(ける)",
-      "meaning": "menghindari",
-      "strokes": 16,
-      "examples": [
-        "避ける (さける) - menghindari",
-        "避難 (ひなん) - evakuasi",
-        "回避 (かいひ) - penghindaran"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "増",
-      "onyomi": "ゾウ",
-      "kunyomi": "ふ(える)",
-      "meaning": "bertambah",
-      "strokes": 14,
-      "examples": [
-        "増える (ふえる) - bertambah",
-        "増加 (ぞうか) - peningkatan/penambahan",
-        "増やす (ふやす) - menambah"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "減",
-      "onyomi": "ゲン",
-      "kunyomi": "へ(る)",
-      "meaning": "berkurang",
-      "strokes": 12,
-      "examples": [
-        "減る (へる) - berkurang",
-        "減少 (げんしょう) - pengurangan/penurunan",
-        "減らす (へらす) - mengurangi"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "広",
-      "onyomi": "コウ",
-      "kunyomi": "ひろ(い)",
-      "meaning": "luas",
-      "strokes": 5,
-      "examples": [
-        "広い (ひろい) - luas",
-        "広場 (ひろば) - lapangan/alun-alun",
-        "広告 (こうこく) - iklan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "深",
-      "onyomi": "シン",
-      "kunyomi": "ふか(い)",
-      "meaning": "dalam",
-      "strokes": 11,
-      "examples": [
-        "深い (ふかい) - dalam (kedalaman)",
-        "深刻 (しんこく) - serius/parah",
-        "深夜 (しんや) - larut malam"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "壊",
-      "onyomi": "カイ",
-      "kunyomi": "こわ(れる)",
-      "meaning": "rusak",
-      "strokes": 16,
-      "examples": [
-        "壊れる (こわれる) - rusak",
-        "破壊 (はかい) - penghancuran/destruksi",
-        "倒壊 (とうかい) - runtuh (bangunan)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "汚",
-      "onyomi": "オ",
-      "kunyomi": "よご(す)",
-      "meaning": "kotor",
-      "strokes": 6,
-      "examples": [
-        "汚い (きたない) - kotor",
-        "汚染 (おせん) - polusi/pencemaran",
-        "汚職 (おしょく) - korupsi"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "乾",
-      "onyomi": "カン",
-      "kunyomi": "かわ(く)",
-      "meaning": "kering",
-      "strokes": 11,
-      "examples": [
-        "乾く (かわく) - kering (menjadi kering)",
-        "乾杯 (かんぱい) - tos/bersulang (gelas kering)",
-        "乾燥 (かんそう) - kekeringan/pengeringan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "濡",
-      "onyomi": "—",
-      "kunyomi": "ぬ(れる)",
-      "meaning": "basah",
-      "strokes": 17,
-      "examples": [
-        "濡れる (ぬれる) - basah/menjadi basah",
-        "濡らす (ぬらす) - membasahi",
-        "濡れ衣 (ぬれぎに) - tuduhan palsu (pakaian basah)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "燃",
-      "onyomi": "ネン",
-      "kunyomi": "も(える)",
-      "meaning": "terbakar",
-      "strokes": 16,
-      "examples": [
-        "燃える (もえる) - terbakar",
-        "燃料 (ねんりょう) - bahan bakar",
-        "燃焼 (ねんしょう) - pembakaran"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "腐",
-      "onyomi": "フ",
-      "kunyomi": "くさ(る)",
-      "meaning": "membusuk",
-      "strokes": 14,
-      "examples": [
-        "腐る (くさる) - membusuk",
-        "腐敗 (ふはい) - pembusukan",
-        "豆腐 (とうふ) - tahu"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "沈",
-      "onyomi": "チン",
-      "kunyomi": "しず(む)",
-      "meaning": "tenggelam",
-      "strokes": 7,
-      "examples": [
-        "沈む (しずむ) - tenggelam",
-        "沈没 (ちんぼつ) - karam/tenggelam (kapal)",
-        "沈黙 (ちんもく) - diam/keheningan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "浮",
-      "onyomi": "フ",
-      "kunyomi": "う(く)",
-      "meaning": "mengapung",
-      "strokes": 10,
-      "examples": [
-        "浮く (うく) - mengapung",
-        "浮気 (うわき) - selingkuh",
-        "浮上 (ふじょう) - muncul ke permukaan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "漏",
-      "onyomi": "ロウ",
-      "kunyomi": "も(れる)",
-      "meaning": "bocor",
-      "strokes": 14,
-      "examples": [
-        "漏れる (もれる) - bocor",
-        "漏水 (ろうすい) - kebocoran air",
-        "雨漏り (あまもり) - atap bocor (kebocoran hujan)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "溢",
-      "onyomi": "イツ",
-      "kunyomi": "あふ(れる)",
-      "meaning": "meluap",
-      "strokes": 13,
-      "examples": [
-        "溢れる (あふれる) - Meluap / tumpah",
-        "溢血 (いっけつ) - Pendarahan (internal)",
-        "活気に溢れる (かっきにあふれる) - Penuh dengan semangat / vitalitas"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "散",
-      "onyomi": "サン",
-      "kunyomi": "ち(る)",
-      "meaning": "berguguran",
-      "strokes": 12,
-      "examples": [
-        "散る (ちる) - Berguguran / berserakan",
-        "散歩 (さんぽ) - Jalan-jalan",
-        "解散 (かいさん) - Pembubaran / membubarkan diri"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "稼",
-      "onyomi": "カ",
-      "kunyomi": "かせ(ぐ)",
-      "meaning": "menghasilkan uang",
-      "strokes": 15,
-      "examples": [
-        "稼ぐ (かせぐ) - Mencari uang / bekerja",
-        "共稼ぎ (ともかせぎ) - Suami istri sama-sama bekerja",
-        "稼働 (かどう) - Pengoperasian / operasi (mesin)"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "雇",
-      "onyomi": "コ",
-      "kunyomi": "やと(う)",
-      "meaning": "mempekerjakan",
-      "strokes": 12,
-      "examples": [
-        "雇う (やとう) - Mempekerjakan / menyewa",
-        "雇用 (こよう) - Pekerjaan / ketenagakerjaan",
-        "解雇 (かいこ) - Pemecatan / PHK"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "昇",
-      "onyomi": "ショウ",
-      "kunyomi": "のぼ(る)",
-      "meaning": "naik",
-      "strokes": 8,
-      "examples": [
-        "昇る (のぼる) - Naik / terbit (matahari)",
-        "昇進 (しょうしん) - Promosi jabatan",
-        "上昇 (じょうしょう) - Kenaikan / peningkatan"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "勤",
-      "onyomi": "キン",
-      "kunyomi": "つと(める)",
-      "meaning": "bekerja",
-      "strokes": 12,
-      "examples": [
-        "通勤 (つうきん) - pergi pulang kerja",
-        "勤勉 (きんべん) - rajin/tekun",
-        "勤め先 (つとめさき) - tempat kerja"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "憩",
-      "onyomi": "ケイ",
-      "kunyomi": "いこ(い)",
-      "meaning": "istirahat",
-      "strokes": 16,
-      "examples": [
-        "休憩 (きゅうけい) - istirahat sejenak",
-        "憩いの場 (いこいのば) - tempat beristirahat/bersantai",
-        "少憩 (しょうけい) - istirahat singkat"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "残",
-      "onyomi": "ザン",
-      "kunyomi": "のこ(る)",
-      "meaning": "sisa/lembur",
-      "strokes": 10,
-      "examples": [
-        "残業 (ざんぎょう) - lembur",
-        "残念 (ざんねん) - sayang sekali/mengecewakan",
-        "残り物 (のこりもの) - sisa makanan/barang sisa"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "営",
-      "onyomi": "エイ",
-      "kunyomi": "いとな(む)",
-      "meaning": "mengelola",
-      "strokes": 12,
-      "examples": [
-        "営業 (えいぎょう) - bisnis/operasional/penjualan",
-        "経営 (けいえい) - manajemen/pengelolaan",
-        "営む (いとなむ) - menjalankan (bisnis)"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "輸",
-      "onyomi": "ユ",
-      "kunyomi": "—",
-      "meaning": "mengangkut",
-      "strokes": 16,
-      "examples": [
-        "輸出 (ゆしゅつ) - ekspor",
-        "輸入 (ゆにゅう) - impor",
-        "輸送 (ゆそう) - transportasi/pengangkutan"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "投",
-      "onyomi": "トウ",
-      "kunyomi": "な(げる)",
-      "meaning": "melempar/investasi",
-      "strokes": 7,
-      "examples": [
-        "投げる (なげる) - melempar",
-        "投資 (とうし) - investasi",
-        "投票 (とうひょう) - pemungutan suara / voting"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "貯",
-      "onyomi": "チョ",
-      "kunyomi": "た(める)",
-      "meaning": "menabung",
-      "strokes": 12,
-      "examples": [
-        "貯金 (ちょきん) - menabung uang",
-        "貯蔵 (ちょぞう) - penyimpanan / stok",
-        "貯水池 (ちょすいち) - waduk / penampungan air"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "較",
-      "onyomi": "カク",
-      "kunyomi": "—",
-      "meaning": "membandingkan",
-      "strokes": 13,
-      "examples": [
-        "比較 (ひかく) - perbandingan",
-        "較べる (くらべる) - membandingkan (bentuk alternatif dari 比べる)",
-        "較差 (こうさ) - rentang perbedaan / deviasi"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "析",
-      "onyomi": "セキ",
-      "kunyomi": "—",
-      "meaning": "menganalisis",
-      "strokes": 8,
-      "examples": [
-        "分析 (ぶんせき) - analisis",
-        "解析 (かいせき) - analisis (data/matematika) / parsing",
-        "透析 (とうせき) - dialisis (cuci darah)"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "査",
-      "onyomi": "サ",
-      "kunyomi": "—",
-      "meaning": "memeriksa",
-      "strokes": 9,
-      "examples": [
-        "調査 (ちょうさ) - penyelidikan / survei",
-        "検査 (けんさ) - pemeriksaan / inspeksi",
-        "審査 (しんさ) - penilaian / penjurian"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "版",
-      "onyomi": "ハン",
-      "kunyomi": "—",
-      "meaning": "edisi/cetak",
-      "strokes": 8,
-      "examples": [
-        "出版 (しゅっぱん) - penerbitan",
-        "初版 (しょはん) - edisi pertama",
-        "英語版 (えいごばん) - edisi bahasa Inggris"
-      ],
-      "category": "Bisnis"
-    },
-    {
-      "kanji": "識",
-      "onyomi": "シキ",
-      "kunyomi": "—",
-      "meaning": "mengenal/kesadaran",
-      "strokes": 19,
-      "examples": [
-        "知識 (ちしき) - pengetahuan",
-        "意識 (いしき) - kesadaran",
-        "常識 (じょうしき) - akal sehat / pengetahuan umum"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "象",
-      "onyomi": "ショウ/ゾウ",
-      "kunyomi": "—",
-      "meaning": "gajah/fenomena",
-      "strokes": 12,
-      "examples": [
-        "象 (ぞう) - gajah",
-        "現象 (げんしょう) - fenomena",
-        "対象 (たいしょう) - target / objek"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "響",
-      "onyomi": "キョウ",
-      "kunyomi": "ひび(く)",
-      "meaning": "bergema/berpengaruh",
-      "strokes": 20,
-      "examples": [
-        "影響 (えいきょう) - pengaruh",
-        "反響 (はんきょう) - gema / reaksi",
-        "音響 (おんきょう) - akustik / tata suara"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "構",
-      "onyomi": "コウ",
-      "kunyomi": "かま(える)",
-      "meaning": "struktur",
-      "strokes": 14,
-      "examples": [
-        "構成 (こうせい) - komposisi / struktur",
-        "構造 (こうぞう) - struktur / konstruksi",
-        "構図 (こうず) - komposisi (gambar/foto)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "差",
-      "onyomi": "サ",
-      "kunyomi": "さ(す)",
-      "meaning": "perbedaan",
-      "strokes": 10,
-      "examples": [
-        "差別 (さべつ) - diskriminasi",
-        "交差 (こうさ) - persimpangan",
-        "時差 (じさ) - perbedaan waktu"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "由",
-      "onyomi": "ユウ/ユ",
-      "kunyomi": "よし",
-      "meaning": "alasan/bebas",
-      "strokes": 5,
-      "examples": [
-        "理由 (りゆう) - alasan",
-        "自由 (じゆう) - bebas/kebebasan",
-        "経由 (けいゆ) - melalui/via"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "況",
-      "onyomi": "キョウ",
-      "kunyomi": "—",
-      "meaning": "keadaan",
-      "strokes": 7,
-      "examples": [
-        "状況 (じょうきょう) - situasi/keadaan",
-        "不況 (ふきょう) - resesi ekonomi",
-        "近況 (きんきょう) - keadaan/kabar terbaru"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "態",
-      "onyomi": "タイ",
-      "kunyomi": "—",
-      "meaning": "keadaan/sikap",
-      "strokes": 14,
-      "examples": [
-        "態度 (たいど) - sikap/perilaku",
-        "状態 (じょうたい) - kondisi/keadaan",
-        "事態 (じたい) - situasi/keadaan (biasanya buruk)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "頼",
-      "onyomi": "ライ",
-      "kunyomi": "たの(む)",
-      "meaning": "meminta/percaya",
-      "strokes": 16,
-      "examples": [
-        "頼む (たのむ) - meminta/memohon",
-        "信頼 (しんらい) - kepercayaan/keandalan",
-        "頼もしい (たのもしい) - dapat diandalkan/menjanjikan"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "精",
-      "onyomi": "セイ",
-      "kunyomi": "—",
-      "meaning": "semangat/detail",
-      "strokes": 14,
-      "examples": [
-        "精神 (せいしん) - jiwa/semangat/spirit",
-        "精巧 (せいこう) - halus/teliti/indah (buatan)",
-        "精一杯 (せいいっぱい) - sekuat tenaga/dengan segala upaya"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "徴",
-      "onyomi": "チョウ",
-      "kunyomi": "—",
-      "meaning": "ciri/tanda",
-      "strokes": 14,
-      "examples": [
-        "特徴 (とくちょう) - ciri khas/karakteristik",
-        "象徴 (しょうちょう) - lambang/simbol",
-        "徴収 (ちょうしゅう) - pemungutan/penagihan (pajak/biaya)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "容",
-      "onyomi": "ヨウ",
-      "kunyomi": "—",
-      "meaning": "isi/rupa",
-      "strokes": 10,
-      "examples": [
-        "内容 (ないよう) - isi/konten",
-        "容器 (ようき) - wadah/tempat penyimpanan",
-        "美容 (びよう) - kecantikan (rupa)"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "批",
-      "onyomi": "ヒ",
-      "kunyomi": "—",
-      "meaning": "kritik",
-      "strokes": 7,
-      "examples": [
-        "批判 (ひはん) - kritik/kecaman",
-        "批評 (ひひょう) - ulasan/kritik (karya seni/buku)",
-        "批准 (ひじゅん) - ratifikasi/pengesahan"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "評",
-      "onyomi": "ヒョウ",
-      "kunyomi": "—",
-      "meaning": "evaluasi",
-      "strokes": 12,
-      "examples": [
-        "評価 (ひょうか) - evaluasi/penilaian",
-        "評判 (ひょうばん) - reputasi/kabar angin",
-        "好評 (こうひょう) - reputasi baik/populer"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "矛",
-      "onyomi": "ム",
-      "kunyomi": "ほこ",
-      "meaning": "tombak/kontradiksi",
-      "strokes": 5,
-      "examples": [
-        "矛盾 (むじゅん) - kontradiksi",
-        "矛先 (ほこさき) - ujung tombak / arah serangan",
-        "長矛 (ながほこ) - tombak panjang"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "盾",
-      "onyomi": "ジュン",
-      "kunyomi": "たて",
-      "meaning": "perisai",
-      "strokes": 9,
-      "examples": [
-        "後ろ盾 (うしろだて) - dukungan / backing",
-        "盾突く (たてつく) - menentang / melawan",
-        "防盾 (ぼうじゅん) - perisai pelindung"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "素",
-      "onyomi": "ソ/ス",
-      "kunyomi": "—",
-      "meaning": "unsur/polos",
-      "strokes": 10,
-      "examples": [
-        "素材 (そざい) - bahan baku / material",
-        "素直 (すなお) - jujur / patuh / apa adanya",
-        "水素 (すいそ) - hidrogen"
-      ],
-      "category": "Abstrak"
-    },
-    {
-      "kanji": "誤",
-      "onyomi": "ゴ",
-      "kunyomi": "あやま(る)",
-      "meaning": "salah",
-      "strokes": 14,
-      "examples": [
-        "誤解 (ごかい) - kesalahpahaman",
-        "誤字 (ごじ) - salah tulis / typo",
-        "誤る (あやまる) - berbuat salah / keliru"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "略",
-      "onyomi": "リャク",
-      "kunyomi": "—",
-      "meaning": "singkatan/strategi",
-      "strokes": 11,
-      "examples": [
-        "省略 (しょうりゃく) - penyingkatan / omisi",
-        "戦略 (せんりゃく) - strategi",
-        "略語 (りゃくご) - singkatan kata"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "似",
-      "onyomi": "ジ",
-      "kunyomi": "に(る)",
-      "meaning": "mirip",
-      "strokes": 7,
-      "examples": [
-        "似る (にる) - mirip",
-        "似顔絵 (にがおえ) - potret wajah",
-        "類似 (るいじ) - kemiripan/serupa"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "替",
-      "onyomi": "タイ",
-      "kunyomi": "か(える)",
-      "meaning": "mengganti",
-      "strokes": 12,
-      "examples": [
-        "替える (かえる) - mengganti/menukar",
-        "着替え (きがえ) - ganti baju",
-        "両替 (りょうがえ) - penukaran uang"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "値",
-      "onyomi": "チ",
-      "kunyomi": "ね/あたい",
-      "meaning": "nilai/harga",
-      "strokes": 10,
-      "examples": [
-        "値段 (ねだん) - harga",
-        "価値 (かち) - nilai/berharga",
-        "数値 (すうち) - nilai numerik/angka"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "額",
-      "onyomi": "ガク",
-      "kunyomi": "ひたい",
-      "meaning": "jumlah/dahi",
-      "strokes": 18,
-      "examples": [
-        "額 (ひたい) - dahi",
-        "金額 (きんがく) - jumlah uang",
-        "額縁 (がくぶち) - bingkai foto"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "積",
-      "onyomi": "セキ",
-      "kunyomi": "つ(む)",
-      "meaning": "menumpuk/luas",
-      "strokes": 16,
-      "examples": [
-        "積む (つむ) - menumpuk/memuat",
-        "面積 (めんせき) - luas wilayah/area",
-        "見積もり (みつもり) - estimasi/perkiraan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "域",
-      "onyomi": "イキ",
-      "kunyomi": "—",
-      "meaning": "wilayah",
-      "strokes": 11,
-      "examples": [
-        "地域 (ちいき) - daerah/wilayah",
-        "区域 (くいき) - zona/area",
-        "領域 (りょういき) - domain/wilayah kekuasaan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "境",
-      "onyomi": "キョウ",
-      "kunyomi": "さかい",
-      "meaning": "perbatasan",
-      "strokes": 14,
-      "examples": [
-        "国境 (こっきょう) - perbatasan negara",
-        "境界 (きょうかい) - batas/perbatasan",
-        "境目 (さかいめ) - garis pemisah/batas"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "領",
-      "onyomi": "リョウ",
-      "kunyomi": "—",
-      "meaning": "wilayah/kerah",
-      "strokes": 14,
-      "examples": [
-        "領土 (りょうど) - wilayah teritorial",
-        "大統領 (だいとうりょう) - presiden",
-        "領収書 (りょうしゅうしょ) - kuitansi/tanda terima"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "占",
-      "onyomi": "セン",
-      "kunyomi": "し(める)",
-      "meaning": "menduduki",
-      "strokes": 5,
-      "examples": [
-        "占める (しめる) - menempati/menduduki",
-        "占い (うらない) - ramalan",
-        "独占 (どくせん) - monopoli"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "誌",
-      "onyomi": "シ",
-      "kunyomi": "—",
-      "meaning": "majalah/catatan",
-      "strokes": 14,
-      "examples": [
-        "雑誌 (ざっし) - majalah",
-        "日誌 (にっし) - buku harian/jurnal harian",
-        "週刊誌 (しゅうかんし) - majalah mingguan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "刊",
-      "onyomi": "カン",
-      "kunyomi": "—",
-      "meaning": "terbit",
-      "strokes": 5,
-      "examples": [
-        "朝刊 (ちょうかん) - koran pagi",
-        "週刊 (しゅうかん) - mingguan (penerbitan)",
-        "刊行 (かんこう) - publikasi / penerbitan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "載",
-      "onyomi": "サイ",
-      "kunyomi": "の(せる)",
-      "meaning": "memuat",
-      "strokes": 13,
-      "examples": [
-        "掲載 (けいさい) - pemuatan (artikel/iklan) / publikasi",
-        "記載 (きさい) - penyebutan / pencatatan / entri",
-        "連載 (れんさい) - serialisasi (pemuatan bersambung)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "欄",
-      "onyomi": "ラン",
-      "kunyomi": "—",
-      "meaning": "kolom",
-      "strokes": 20,
-      "examples": [
-        "空欄 (くうらん) - kolom kosong / bagian yang kosong",
-        "解答欄 (かいとうらん) - kolom jawaban",
-        "広告欄 (こうこくらん) - kolom iklan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "端",
-      "onyomi": "タン",
-      "kunyomi": "はし",
-      "meaning": "ujung",
-      "strokes": 14,
-      "examples": [
-        "先端 (せんたん) - ujung / ujung tombak / mutakhir",
-        "道端 (みちばた) - pinggir jalan",
-        "中端 (ちゅうたん) - pertengahan (jarang digunakan, lebih umum: 端 (はし) - ujung)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "隅",
-      "onyomi": "グウ",
-      "kunyomi": "すみ",
-      "meaning": "pojok",
-      "strokes": 12,
-      "examples": [
-        "隅 (すみ) - pojok / sudut (interior)",
-        "四隅 (よすみ) - empat sudut / empat pojok",
-        "片隅 (かたすみ) - satu sudut / pojok kecil"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "隙",
-      "onyomi": "ゲキ",
-      "kunyomi": "すき",
-      "meaning": "celah",
-      "strokes": 13,
-      "examples": [
-        "隙間 (すきま) - Celah/sela-sela",
-        "空き隙 (あきすき) - Celah kosong/waktu luang",
-        "隙を突く (すきをつく) - Memanfaatkan kelengahan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "柄",
-      "onyomi": "ヘイ",
-      "kunyomi": "がら/え",
-      "meaning": "motif/gagang",
-      "strokes": 9,
-      "examples": [
-        "花柄 (はながら) - Motif bunga",
-        "傘の柄 (かさのえ) - Gagang payung",
-        "事柄 (ことがら) - Hal/perkara/masalah"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "絹",
-      "onyomi": "ケン",
-      "kunyomi": "きぬ",
-      "meaning": "sutra",
-      "strokes": 13,
-      "examples": [
-        "絹糸 (きぬいと) - Benang sutra",
-        "絹織物 (きぬおりもの) - Kain tenun sutra",
-        "人絹 (じんけん) - Sutra buatan/rayon"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "革",
-      "onyomi": "カク",
-      "kunyomi": "かわ",
-      "meaning": "kulit/revolusi",
-      "strokes": 9,
-      "examples": [
-        "革靴 (かわぐつ) - Sepatu kulit",
-        "革命 (かくめい) - Revolusi",
-        "改革 (かいかく) - Reformasi/perombakan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鏡",
-      "onyomi": "キョウ",
-      "kunyomi": "かがみ",
-      "meaning": "cermin",
-      "strokes": 19,
-      "examples": [
-        "鏡台 (きょうだい) - Meja rias/meja cermin",
-        "望遠鏡 (ぼうえんきょう) - Teleskop",
-        "手鏡 (てかがみ) - Cermin tangan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鍵",
-      "onyomi": "ケン",
-      "kunyomi": "かぎ",
-      "meaning": "kunci",
-      "strokes": 17,
-      "examples": [
-        "鍵 (かぎ) - kunci",
-        "合鍵 (あいかぎ) - kunci duplikat",
-        "鍵盤 (けんばん) - papan ketik (keyboard)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "袋",
-      "onyomi": "タイ",
-      "kunyomi": "ふくろ",
-      "meaning": "kantong/tas",
-      "strokes": 11,
-      "examples": [
-        "袋 (ふくろ) - kantong/tas",
-        "手袋 (てぶくろ) - sarung tangan",
-        "紙袋 (かみぶくろ) - kantong kertas"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "醤",
-      "onyomi": "ショウ",
-      "kunyomi": "—",
-      "meaning": "kecap",
-      "strokes": 17,
-      "examples": [
-        "醤油 (しょうゆ) - kecap asin",
-        "魚醤 (ぎょしょう) - kecap ikan",
-        "豆板醤 (とうばんじゃん) - saus cabai kacang (doubanjiang)"
-      ],
-      "category": "Makanan"
-    },
-    {
-      "kanji": "酢",
-      "onyomi": "サク",
-      "kunyomi": "す",
-      "meaning": "cuka",
-      "strokes": 12,
-      "examples": [
-        "酢 (す) - cuka",
-        "酢飯 (すめし) - nasi cuka (nasi sushi)",
-        "甘酢 (あまず) - cuka manis"
-      ],
-      "category": "Makanan"
-    },
-    {
-      "kanji": "粉",
-      "onyomi": "フン",
-      "kunyomi": "こな/こ",
-      "meaning": "tepung",
-      "strokes": 10,
-      "examples": [
-        "粉 (こな) - tepung/bubuk",
-        "小麦粉 (こむぎこ) - tepung terigu",
-        "粉末 (ふんまつ) - bubuk/serbuk"
-      ],
-      "category": "Makanan"
-    },
-    {
-      "kanji": "漬",
-      "onyomi": "—",
-      "kunyomi": "つ(ける)",
-      "meaning": "merendam",
-      "strokes": 14,
-      "examples": [
-        "漬物 (つけもの) - asinan/acar Jepang",
-        "一夜漬け (いちやづけ) - belajar sistem kebut semalam / merendam semalam",
-        "茶漬け (ちゃづけ) - nasi yang disiram air teh"
-      ],
-      "category": "Makanan"
-    },
-    {
-      "kanji": "刺",
-      "onyomi": "シ",
-      "kunyomi": "さ(す)",
-      "meaning": "menusuk",
-      "strokes": 8,
-      "examples": [
-        "刺身 (さしみ) - sashimi (irisan ikan mentah)",
-        "刺激 (しげき) - rangsangan/stimulasi",
-        "名刺 (めいし) - kartu nama"
-      ],
-      "category": "Makanan"
-    },
-    {
-      "kanji": "渋",
-      "onyomi": "ジュウ",
-      "kunyomi": "しぶ(い)",
-      "meaning": "getir/macet",
-      "strokes": 11,
-      "examples": [
-        "渋滞 (じゅうたい) - kemacetan lalu lintas",
-        "渋い (しぶい) - sepat/getir/selera yang elegan (tua)",
-        "苦渋 (くじゅう) - penderitaan/kepahitan"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "滞",
-      "onyomi": "タイ",
-      "kunyomi": "とどこお(る)",
-      "meaning": "tertunda",
-      "strokes": 13,
-      "examples": [
-        "滞在 (たいざい) - tinggal/menetap sementara",
-        "滞納 (たいのう) - tunggakan pembayaran",
-        "停滞 (ていたい) - stagnasi/kemacetan"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "駐",
-      "onyomi": "チュウ",
-      "kunyomi": "—",
-      "meaning": "parkir",
-      "strokes": 15,
-      "examples": [
-        "駐車場 (ちゅうしゃじょう) - tempat parkir",
-        "駐輪場 (ちゅうりんじょう) - tempat parkir sepeda/motor",
-        "駐在 (ちゅうざい) - penempatan (tugas) / tinggal di luar negeri"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "免",
-      "onyomi": "メン",
-      "kunyomi": "まぬか(れる)",
-      "meaning": "dibebaskan",
-      "strokes": 8,
-      "examples": [
-        "免許 (めんきょ) - Lisensi/Izin",
-        "免税 (めんぜい) - Bebas pajak",
-        "免除 (めんじょ) - Pembebasan (dari kewajiban)"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "賃",
-      "onyomi": "チン",
-      "kunyomi": "—",
-      "meaning": "upah/sewa",
-      "strokes": 13,
-      "examples": [
-        "家賃 (やちん) - Sewa rumah",
-        "賃金 (ちんぎん) - Upah/Gaji",
-        "運賃 (うんちん) - Ongkos kirim/Tarif angkutan"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "復",
-      "onyomi": "フク",
-      "kunyomi": "—",
-      "meaning": "kembali/pulih",
-      "strokes": 12,
-      "examples": [
-        "復習 (ふくしゅう) - Mengulang pelajaran",
-        "回復 (かいふく) - Pemulihan/Sembuh",
-        "往復 (おうふく) - Pulang pergi"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "線",
-      "onyomi": "セン",
-      "kunyomi": "—",
-      "meaning": "garis/jalur",
-      "strokes": 15,
-      "examples": [
-        "直線 (ちょくせん) - Garis lurus",
-        "下線 (かせん) - Garis bawah",
-        "新幹線 (しんかんせん) - Kereta cepat (Shinkansen)"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "札",
-      "onyomi": "サツ/フダ",
-      "kunyomi": "ふだ",
-      "meaning": "kartu/uang kertas",
-      "strokes": 5,
-      "examples": [
-        "お札 (おさつ) - Uang kertas",
-        "改札 (かいさつ) - Pemeriksaan tiket (gate)",
-        "名札 (なふだ) - Papan nama/Tag nama"
-      ],
-      "category": "Transportasi"
-    },
-    {
-      "kanji": "劇",
-      "onyomi": "ゲキ",
-      "kunyomi": "—",
-      "meaning": "drama/teater",
-      "strokes": 15,
-      "examples": [
-        "劇場 (げきじょう) - teater/gedung pertunjukan",
-        "悲劇 (ひげき) - tragedi",
-        "演劇 (えんげき) - seni drama/teater"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "展",
-      "onyomi": "テン",
-      "kunyomi": "—",
-      "meaning": "pameran",
-      "strokes": 10,
-      "examples": [
-        "展示 (てんじ) - pameran/display",
-        "展開 (てんかい) - perkembangan/ekspansi",
-        "展覧会 (てんらんかい) - pameran seni/eksibisi"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "覧",
-      "onyomi": "ラン",
-      "kunyomi": "—",
-      "meaning": "melihat",
-      "strokes": 17,
-      "examples": [
-        "閲覧 (えつらん) - membaca/melihat-lihat (dokumen/buku)",
-        "回覧 (かいらん) - sirkulasi/pengedaran (surat)",
-        "観覧 (かんらん) - menonton/melihat (pemandangan/pertunjukan)"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "博",
-      "onyomi": "ハク",
-      "kunyomi": "—",
-      "meaning": "luas/museum",
-      "strokes": 12,
-      "examples": [
-        "博物館 (はくぶつかん) - museum",
-        "博士 (はかせ) - doktor/profesor",
-        "博覧会 (はくらんかい) - pameran dunia/ekspo"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "詩",
-      "onyomi": "シ",
-      "kunyomi": "—",
-      "meaning": "puisi",
-      "strokes": 13,
-      "examples": [
-        "詩人 (しじん) - penyair/pujangga",
-        "詩集 (ししゅう) - kumpulan puisi/antologi puisi",
-        "漢詩 (かんし) - puisi Tiongkok/puisi kanji"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "訳",
-      "onyomi": "ヤク",
-      "kunyomi": "わけ",
-      "meaning": "terjemahan/alasan",
-      "strokes": 11,
-      "examples": [
-        "通訳 (つうやく) - penerjemah lisan (interpreter)",
-        "翻訳 (ほんやく) - penerjemah tulisan (translation)",
-        "言い訳 (いいわけ) - alasan/dalih"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "奏",
-      "onyomi": "ソウ",
-      "kunyomi": "かな(でる)",
-      "meaning": "memainkan musik",
-      "strokes": 9,
-      "examples": [
-        "演奏 (えんそう) - pertunjukan musik",
-        "奏鳴曲 (そうめいきょく) - sonata (istilah musik)",
-        "奏でる (かなでる) - memainkan (alat musik petik/tuts)"
-      ],
-      "category": "Budaya"
-    },
-    {
-      "kanji": "優",
-      "onyomi": "ユウ",
-      "kunyomi": "すぐ(れる)",
-      "meaning": "unggul/lembut",
-      "strokes": 17,
-      "examples": [
-        "優しい (やさしい) - baik hati/lembut",
-        "優秀 (ゆうしゅう) - unggul/pintar/brilian",
-        "優先 (ゆうせん) - prioritas/diutamakan"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "勝",
-      "onyomi": "ショウ",
-      "kunyomi": "か(つ)",
-      "meaning": "menang",
-      "strokes": 12,
-      "examples": [
-        "勝利 (しょうり) - kemenangan",
-        "勝負 (しょうぶ) - pertandingan/pertarungan",
-        "勝つ (かつ) - menang"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "決",
-      "onyomi": "ケツ",
-      "kunyomi": "き(める)",
-      "meaning": "memutuskan",
-      "strokes": 7,
-      "examples": [
-        "決定 (けってい) - keputusan/ketetapan",
-        "決心 (けっしん) - tekad/ketetapan hati",
-        "決める (きめる) - memutuskan sesuatu"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "審",
-      "onyomi": "シン",
-      "kunyomi": "—",
-      "meaning": "memeriksa/menilai",
-      "strokes": 15,
-      "examples": [
-        "審査 (しんさ) - pemeriksaan/penilaian",
-        "審判 (しんぱん) - wasit/penjurian",
-        "不審 (ふしん) - mencurigakan/ragu-ragu"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "柔",
-      "onyomi": "ジュウ",
-      "kunyomi": "やわ(らかい)",
-      "meaning": "lembut",
-      "strokes": 9,
-      "examples": [
-        "柔道 (じゅうどう) - judo",
-        "柔らかい (やわらかい) - lembut/empuk",
-        "柔軟 (じゅうなん) - fleksibel/lunak"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "剣",
-      "onyomi": "ケン",
-      "kunyomi": "つるぎ",
-      "meaning": "pedang",
-      "strokes": 10,
-      "examples": [
-        "剣道 (けんどう) - kendo (seni bela diri pedang)",
-        "真剣 (しんけん) - serius/sungguh-sungguh",
-        "木剣 (ぼっけん) - pedang kayu"
-      ],
-      "category": "Olahraga"
-    },
-    {
-      "kanji": "複",
-      "onyomi": "フク",
-      "kunyomi": "—",
-      "meaning": "rangkap/kompleks",
-      "strokes": 14,
-      "examples": [
-        "複雑 (ふくざつ) - rumit/kompleks",
-        "複数 (ふくすう) - jamak/beberapa",
-        "複製 (ふくせい) - replika/reproduksi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "雑",
-      "onyomi": "ザツ",
-      "kunyomi": "—",
-      "meaning": "campuran/kasar",
-      "strokes": 14,
-      "examples": [
-        "雑誌 (ざっし) - majalah",
-        "雑音 (ざつおん) - kebisingan/noise",
-        "混雑 (こんざつ) - kemacetan/kesesakan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "豊",
-      "onyomi": "ホウ",
-      "kunyomi": "ゆた(か)",
-      "meaning": "berlimpah",
-      "strokes": 13,
-      "examples": [
-        "豊富 (ほうふ) - melimpah/kaya akan",
-        "豊か (ゆたか) - kaya/makmur",
-        "豊作 (ほうさく) - panen berlimpah"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "貴",
-      "onyomi": "キ",
-      "kunyomi": "とうと(い)",
-      "meaning": "berharga",
-      "strokes": 12,
-      "examples": [
-        "貴重 (きちょう) - sangat berharga/bernilai",
-        "貴族 (きぞく) - bangsawan",
-        "高貴 (こうき) - mulia/luhur"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "派",
-      "onyomi": "ハ",
-      "kunyomi": "—",
-      "meaning": "faksi/mencolok",
-      "strokes": 9,
-      "examples": [
-        "立派 (りっぱ) - megah/luar biasa",
-        "派手 (はで) - mencolok/mewah",
-        "派閥 (はばつ) - faksi/klik"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "厳",
-      "onyomi": "ゲン/ゴン",
-      "kunyomi": "きび(しい)",
-      "meaning": "ketat",
-      "strokes": 17,
-      "examples": [
-        "厳しい (きびしい) - ketat/tegas",
-        "厳重 (げんじゅう) - ketat/kuat (penjagaan)",
-        "厳格 (げんかく) - disiplin/kaku"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "珍",
-      "onyomi": "チン",
-      "kunyomi": "めずら(しい)",
-      "meaning": "langka",
-      "strokes": 9,
-      "examples": [
-        "珍しい (めずらしい) - langka/aneh",
-        "珍味 (ちんみ) - makanan lezat yang langka",
-        "珍客 (ちんきゃく) - tamu yang jarang datang/tamu tak terduga"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鋭",
-      "onyomi": "エイ",
-      "kunyomi": "するど(い)",
-      "meaning": "tajam",
-      "strokes": 15,
-      "examples": [
-        "鋭い (するどい) - tajam",
-        "鋭気 (えいき) - semangat yang meluap-luap",
-        "鋭角 (えいかく) - sudut lancip"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鈍",
-      "onyomi": "ドン",
-      "kunyomi": "にぶ(い)",
-      "meaning": "tumpul",
-      "strokes": 12,
-      "examples": [
-        "鈍い (にぶい) - tumpul / lamban",
-        "鈍感 (どんかん) - tidak peka / masa bodoh",
-        "鈍器 (どんき) - senjata tumpul"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "懐",
-      "onyomi": "カイ",
-      "kunyomi": "なつ(かしい)",
-      "meaning": "nostalgia/kantong",
-      "strokes": 16,
-      "examples": [
-        "懐かしい (なつかしい) - rindu / nostalgia",
-        "懐中電灯 (かいちゅうでんとう) - senter",
-        "懐疑 (かいぎ) - keraguan / skeptisisme"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "恥",
-      "onyomi": "チ",
-      "kunyomi": "は(ずかしい)",
-      "meaning": "malu",
-      "strokes": 10,
-      "examples": [
-        "恥ずかしい (はずかしい) - malu",
-        "恥 (はじ) - rasa malu / aib",
-        "羞恥心 (しゅうちしん) - rasa malu (perasaan malu)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "羨",
-      "onyomi": "セン",
-      "kunyomi": "うらや(ましい)",
-      "meaning": "iri",
-      "strokes": 12,
-      "examples": [
-        "羨ましい (うらやましい) - iri / cemburu (ingin seperti itu)",
-        "羨望 (せんぼう) - rasa iri / kekaguman",
-        "羨む (うらやむ) - merasa iri / iri hati"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "丁",
-      "onyomi": "チョウ/テイ",
-      "kunyomi": "—",
-      "meaning": "sopan/blok",
-      "strokes": 2,
-      "examples": [
-        "丁寧 (ていねい) - sopan/teliti",
-        "一丁目 (いっちょうめ) - blok satu (alamat)",
-        "丁度 (ちょうど) - pas/tepat"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "寧",
-      "onyomi": "ネイ",
-      "kunyomi": "—",
-      "meaning": "tenang/lebih baik",
-      "strokes": 14,
-      "examples": [
-        "丁寧 (ていねい) - sopan/teliti",
-        "安寧 (あんねい) - ketenangan/kedamaian",
-        "寧ろ (むしろ) - lebih baik/daripada"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "謙",
-      "onyomi": "ケン",
-      "kunyomi": "—",
-      "meaning": "rendah hati",
-      "strokes": 17,
-      "examples": [
-        "謙虚 (けんきょ) - rendah hati",
-        "謙遜 (けんそん) - kerendahan hati/sikap rendah hati",
-        "謙譲語 (けんじょうご) - bahasa hormat (merendahkan diri)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "虚",
-      "onyomi": "キョ",
-      "kunyomi": "—",
-      "meaning": "kosong/bohong",
-      "strokes": 11,
-      "examples": [
-        "虚偽 (きょぎ) - kebohongan/palsu",
-        "虚弱 (きょじゃく) - lemah/rapuh",
-        "空虚 (くうきょ) - hampa/kosong"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "胆",
-      "onyomi": "タン",
-      "kunyomi": "—",
-      "meaning": "nyali/empedu",
-      "strokes": 9,
-      "examples": [
-        "大胆 (だいたん) - berani/nekad",
-        "落胆 (らくたん) - kecewa/patah semangat",
-        "胆石 (たんせき) - batu empedu"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "臆",
-      "onyomi": "オク",
-      "kunyomi": "—",
-      "meaning": "takut",
-      "strokes": 17,
-      "examples": [
-        "臆病 (おくびょう) - penakut/pengecut",
-        "臆面 (おくめん) - wajah malu/takut",
-        "臆測 (おくそく) - dugaan/spekulasi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "誠",
-      "onyomi": "セイ",
-      "kunyomi": "まこと",
-      "meaning": "tulus",
-      "strokes": 13,
-      "examples": [
-        "誠実 (せいじつ) - tulus/jujur",
-        "誠意 (せいい) - ketulusan hati/itikad baik",
-        "誠に (まことに) - sungguh/benar-benar"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "曖",
-      "onyomi": "アイ",
-      "kunyomi": "—",
-      "meaning": "ambigu",
-      "strokes": 17,
-      "examples": [
-        "曖昧 (あいまい) - ambigu/samar",
-        "曖昧模糊 (あいまいもこ) - sangat kabur/tidak jelas",
-        "曖昧さ (あいまいさ) - keambiguan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "昧",
-      "onyomi": "マイ",
-      "kunyomi": "—",
-      "meaning": "gelap",
-      "strokes": 9,
-      "examples": [
-        "曖昧 (あいまい) - ambigu/samar",
-        "愚昧 (ぐまい) - bodoh/bebal",
-        "三昧 (ざんまい) - asyik dengan/tenggelam dalam sesuatu"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "宣",
-      "onyomi": "セン",
-      "kunyomi": "—",
-      "meaning": "mengumumkan",
-      "strokes": 9,
-      "examples": [
-        "宣言 (せんげん) - deklarasi/pernyataan",
-        "宣伝 (せんでん) - iklan/propaganda",
-        "宣誓 (せんせい) - sumpah/janji"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "伝",
-      "onyomi": "デン",
-      "kunyomi": "つた(える)",
-      "meaning": "menyampaikan",
-      "strokes": 6,
-      "examples": [
-        "伝える (つたえる) - menyampaikan",
-        "伝説 (でんせつ) - legenda",
-        "伝言 (でんごん) - pesan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "述",
-      "onyomi": "ジュツ",
-      "kunyomi": "の(べる)",
-      "meaning": "menyatakan",
-      "strokes": 8,
-      "examples": [
-        "述べる (のべる) - menyatakan/mengatakan",
-        "記述 (きじゅつ) - deskripsi/penulisan",
-        "述語 (じゅつご) - predikat"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "叙",
-      "onyomi": "ジョ",
-      "kunyomi": "—",
-      "meaning": "narasi",
-      "strokes": 9,
-      "examples": [
-        "叙述 (じょじゅつ) - deskripsi/narasi",
-        "叙事詩 (じょじし) - puisi epik",
-        "叙情 (じょじょう) - ekspresi perasaan/lirik"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "告",
-      "onyomi": "コク",
-      "kunyomi": "つ(げる)",
-      "meaning": "memberitahu",
-      "strokes": 7,
-      "examples": [
-        "報告 (ほうこく) - laporan",
-        "広告 (こうこく) - iklan",
-        "告白 (こくはく) - pengakuan (cinta/dosa)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "示",
-      "onyomi": "ジ/シ",
-      "kunyomi": "しめ(す)",
-      "meaning": "menunjukkan",
-      "strokes": 5,
-      "examples": [
-        "示す (しめす) - menunjukkan",
-        "指示 (しじ) - instruksi/petunjuk",
-        "表示 (ひょうじ) - tampilan/indikasi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "促",
-      "onyomi": "ソク",
-      "kunyomi": "うなが(す)",
-      "meaning": "mendorong",
-      "strokes": 9,
-      "examples": [
-        "促進 (そくしん) - promosi/percepatan",
-        "催促 (さいそく) - desakan/penagihan",
-        "促す (うながす) - mendorong/mendesak"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "訴",
-      "onyomi": "ソ",
-      "kunyomi": "うった(える)",
-      "meaning": "menuntut/mengeluh",
-      "strokes": 12,
-      "examples": [
-        "訴訟 (そしょう) - gugatan hukum/perkara",
-        "告訴 (こくそ) - pengaduan/tuntutan hukum",
-        "訴える (うったえる) - mengeluh/menuntut/mengadu"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "求",
-      "onyomi": "キュウ",
-      "kunyomi": "もと(める)",
-      "meaning": "meminta/mencari",
-      "strokes": 7,
-      "examples": [
-        "要求 (ようきゅう) - permintaan/tuntutan",
-        "求人 (きゅうじん) - lowongan kerja (mencari orang)",
-        "求める (もとめる) - mencari/meminta/menginginkan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "供",
-      "onyomi": "キョウ/ク",
-      "kunyomi": "そな(える)",
-      "meaning": "menyediakan",
-      "strokes": 8,
-      "examples": [
-        "提供 (ていきょう) - penawaran/penyediaan/sponsor",
-        "子供 (こども) - anak-anak",
-        "供える (そなえる) - mempersembahkan/menyajikan (untuk dewa/arwah)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "提",
-      "onyomi": "テイ",
-      "kunyomi": "—",
-      "meaning": "menyajikan",
-      "strokes": 12,
-      "examples": [
-        "提案 (ていあん) - usul/saran/proposal",
-        "提出 (ていしゅつ) - penyerahan/pengumpulan (tugas/dokumen)",
-        "提示 (ていじ) - penyajian/penunjukan/presentasi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "扱",
-      "onyomi": "—",
-      "kunyomi": "あつか(う)",
-      "meaning": "menangani",
-      "strokes": 6,
-      "examples": [
-        "扱う (あつかう) - menangani/memperlakukan",
-        "取り扱う (とりあつかう) - menangani/mengoperasikan",
-        "扱い (あつかい) - penanganan/perlakuan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "往",
-      "onyomi": "オウ",
-      "kunyomi": "—",
-      "meaning": "pergi",
-      "strokes": 8,
-      "examples": [
-        "往復 (おうふく) - pulang pergi",
-        "往診 (おうしん) - kunjungan dokter ke rumah",
-        "右往左往 (うおうさおう) - kebingungan/mondar-mandir"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "迫",
-      "onyomi": "ハク",
-      "kunyomi": "せま(る)",
-      "meaning": "mendekati/mendesak",
-      "strokes": 8,
-      "examples": [
-        "迫る (せまる) - mendekat/mendesak",
-        "圧迫 (あっぱく) - tekanan/penindasan",
-        "切迫 (せっぱく) - mendesak/genting"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "退",
-      "onyomi": "タイ",
-      "kunyomi": "しりぞ(く)",
-      "meaning": "mundur",
-      "strokes": 9,
-      "examples": [
-        "退職 (たいしょく) - pensiun/berhenti kerja",
-        "退院 (たいいん) - keluar dari rumah sakit",
-        "後退 (こうたい) - mundur/kemunduran"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "到",
-      "onyomi": "トウ",
-      "kunyomi": "—",
-      "meaning": "tiba",
-      "strokes": 8,
-      "examples": [
-        "到着 (とうちゃく) - kedatangan/tiba",
-        "到達 (とうたつ) - mencapai/sampai",
-        "周到 (しゅうとう) - teliti/cermat"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "戻",
-      "onyomi": "—",
-      "kunyomi": "もど(る)",
-      "meaning": "kembali",
-      "strokes": 7,
-      "examples": [
-        "戻る (もどる) - kembali / pulang",
-        "払い戻す (はらいもどす) - mengembalikan uang / refund",
-        "戻り道 (もどりみち) - jalan pulang / jalan kembali"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "寄",
-      "onyomi": "キ",
-      "kunyomi": "よ(る)",
-      "meaning": "mendekati",
-      "strokes": 11,
-      "examples": [
-        "寄る (よる) - mampir / mendekat",
-        "寄り道 (よりみち) - mampir di jalan / singgah sebentar",
-        "寄付 (きふ) - sumbangan / donasi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "沿",
-      "onyomi": "エン",
-      "kunyomi": "そ(う)",
-      "meaning": "di sepanjang",
-      "strokes": 8,
-      "examples": [
-        "沿う (そう) - menyusuri / mengikuti (garis/jalan)",
-        "沿岸 (えんがん) - pesisir / tepi pantai",
-        "川沿い (かわぞい) - di sepanjang sungai"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "渡",
-      "onyomi": "ト",
-      "kunyomi": "わた(る)",
-      "meaning": "menyeberang",
-      "strokes": 12,
-      "examples": [
-        "渡る (わたる) - menyeberang",
-        "渡す (わたす) - menyerahkan / memberikan",
-        "渡航 (とこう) - perjalanan ke luar negeri / pelayaran"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "超",
-      "onyomi": "チョウ",
-      "kunyomi": "こ(える)",
-      "meaning": "melampaui",
-      "strokes": 12,
-      "examples": [
-        "超える (こえる) - melampaui / melewati (batas)",
-        "超過 (ちょうか) - kelebihan / melampaui batas (excess)",
-        "超特急 (ちょうとっきゅう) - kereta super ekspres"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "越",
-      "onyomi": "エツ",
-      "kunyomi": "こ(える)",
-      "meaning": "melewati",
-      "strokes": 12,
-      "examples": [
-        "引っ越し (ひっこし) - pindah rumah",
-        "追い越す (おいこす) - menyalip/melewati",
-        "年越し (としこし) - malam pergantian tahun"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "除",
-      "onyomi": "ジョ",
-      "kunyomi": "のぞ(く)",
-      "meaning": "menghapus/kecuali",
-      "strokes": 10,
-      "examples": [
-        "掃除 (そうじ) - bersih-bersih",
-        "削除 (さくじょ) - penghapusan/delete",
-        "除く (のぞく) - mengecualikan/menghapus"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "限",
-      "onyomi": "ゲン",
-      "kunyomi": "かぎ(る)",
-      "meaning": "membatasi",
-      "strokes": 9,
-      "examples": [
-        "制限 (せいげん) - pembatasan/limitasi",
-        "期限 (きげん) - batas waktu/tenggat",
-        "限界 (げんかい) - batas kemampuan/limit"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "貧",
-      "onyomi": "ヒン/ビン",
-      "kunyomi": "まず(しい)",
-      "meaning": "miskin",
-      "strokes": 11,
-      "examples": [
-        "貧乏 (びんぼう) - miskin",
-        "貧しい (まずしい) - miskin/kekurangan",
-        "貧血 (ひんけつ) - anemia (kurang darah)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "富",
-      "onyomi": "フ",
-      "kunyomi": "と(む)",
-      "meaning": "kaya",
-      "strokes": 12,
-      "examples": [
-        "富士山 (ふじさん) - Gunung Fuji",
-        "豊富 (ほうふ) - melimpah/kaya akan",
-        "富む (とむ) - kaya/berlimpah"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "若",
-      "onyomi": "ジャク",
-      "kunyomi": "わか(い)",
-      "meaning": "muda",
-      "strokes": 8,
-      "examples": [
-        "若い (わかい) - muda",
-        "若者 (わかもの) - orang muda/pemuda",
-        "若々しい (わかわかしい) - tampak muda/awet muda"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "老",
-      "onyomi": "ロウ",
-      "kunyomi": "お(いる)",
-      "meaning": "tua",
-      "strokes": 6,
-      "examples": [
-        "老人 (ろうじん) - orang tua/lansia",
-        "老後 (ろうご) - masa tua",
-        "老ける (ふける) - menjadi tua/menua"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "幼",
-      "onyomi": "ヨウ",
-      "kunyomi": "おさな(い)",
-      "meaning": "kecil/muda",
-      "strokes": 5,
-      "examples": [
-        "幼児 (ようじ) - balita/anak kecil",
-        "幼稚園 (ようちえん) - taman kanak-kanak (TK)",
-        "幼い (おさない) - sangat muda/kekanak-kanakan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "純",
-      "onyomi": "ジュン",
-      "kunyomi": "—",
-      "meaning": "murni",
-      "strokes": 10,
-      "examples": [
-        "純粋 (じゅんすい) - murni/tulus",
-        "単純 (たんじゅん) - sederhana/simpel",
-        "純情 (じゅんじょう) - hati yang murni/naif"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "粋",
-      "onyomi": "スイ",
-      "kunyomi": "いき",
-      "meaning": "esensi/elegan",
-      "strokes": 10,
-      "examples": [
-        "抜粋 (ばっすい) - kutipan/ekstrak",
-        "粋な (いきな) - bergaya/elegan/chic",
-        "不粋 (ぶすい) - tidak sopan/tidak elegan/kaku"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "清",
-      "onyomi": "セイ",
-      "kunyomi": "きよ(い)",
-      "meaning": "bersih/jernih",
-      "strokes": 11,
-      "examples": [
-        "清流 (せいりゅう) - aliran sungai yang jernih",
-        "清掃 (せいそう) - pembersihan/bebenah",
-        "清い (きよい) - murni/bersih/jernih"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "潔",
-      "onyomi": "ケツ",
-      "kunyomi": "いさぎよ(い)",
-      "meaning": "bersih/tegas",
-      "strokes": 15,
-      "examples": [
-        "清潔 (せいけつ) - bersih/higienis",
-        "潔白 (けっぱく) - tidak bersalah/suci/murni",
-        "潔い (いさぎよい) - sportif/gentleman/tegas"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鮮",
-      "onyomi": "セン",
-      "kunyomi": "あざ(やか)",
-      "meaning": "segar/cerah",
-      "strokes": 17,
-      "examples": [
-        "鮮明 (せんめい) - jelas/gamblang/vivid",
-        "新鮮 (しんせん) - segar (makanan/udara)",
-        "鮮やか (あざやか) - cerah/gemilang/terampil"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "緩",
-      "onyomi": "カン",
-      "kunyomi": "ゆる(い)",
-      "meaning": "longgar",
-      "strokes": 15,
-      "examples": [
-        "緩和 (かんわ) - pelonggaran/peredaan/mitigasi",
-        "緩慢 (かんまん) - lambat/lamban",
-        "緩い (ゆるい) - longgar/tidak ketat"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "激",
-      "onyomi": "ゲキ",
-      "kunyomi": "はげ(しい)",
-      "meaning": "hebat/intense",
-      "strokes": 16,
-      "examples": [
-        "激増 (げきぞう) - peningkatan tajam/drastis",
-        "感激 (かんげき) - sangat terharu/terkesan",
-        "激しい (はげしい) - hebat/dahsyat/sengit"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "猛",
-      "onyomi": "モウ",
-      "kunyomi": "—",
-      "meaning": "ganas/dahsyat",
-      "strokes": 11,
-      "examples": [
-        "猛暑 (もうしょ) - panas terik yang dahsyat",
-        "猛烈 (もうれつ) - sangat sengit/hebat",
-        "猛獣 (もうじゅう) - binatang buas/ganas"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "巨",
-      "onyomi": "キョ",
-      "kunyomi": "—",
-      "meaning": "raksasa",
-      "strokes": 5,
-      "examples": [
-        "巨大 (きょだい) - sangat besar/raksasa",
-        "巨人 (きょじん) - raksasa (orang)",
-        "巨額 (きょがく) - jumlah uang yang sangat besar"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "微",
-      "onyomi": "ビ",
-      "kunyomi": "—",
-      "meaning": "sedikit/halus",
-      "strokes": 13,
-      "examples": [
-        "微妙 (びみょう) - halus/rumit/sedikit aneh",
-        "微塵 (みじん) - partikel halus/debu/sedikit pun tidak",
-        "微量 (びりょう) - jumlah yang sangat sedikit/mikro"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "膨",
-      "onyomi": "ボウ",
-      "kunyomi": "ふく(れる)",
-      "meaning": "mengembung",
-      "strokes": 16,
-      "examples": [
-        "膨大 (ぼうだい) - sangat besar/luas (jumlah/volume)",
-        "膨張 (ぼうちょう) - ekspansi/pemuaian/pengembangan",
-        "膨らむ (ふくらむ) - mengembang/membengkak"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "縮",
-      "onyomi": "シュク",
-      "kunyomi": "ちぢ(む)",
-      "meaning": "menyusut",
-      "strokes": 17,
-      "examples": [
-        "短縮 (たんしゅく) - penyingkatan/pemendekan",
-        "縮小 (しゅくしょう) - pengurangan/pengecilan ukuran",
-        "縮む (ちぢむ) - menyusut/mengerut"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "伸",
-      "onyomi": "シン",
-      "kunyomi": "の(びる)",
-      "meaning": "memanjang",
-      "strokes": 7,
-      "examples": [
-        "伸びる (のびる) - memanjang / tumbuh / berkembang",
-        "伸ばす (のばす) - memperpanjang / meluruskan / membentangkan",
-        "伸縮 (しんしゅく) - elastisitas / muai susut"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "拡",
-      "onyomi": "カク",
-      "kunyomi": "ひろ(がる)",
-      "meaning": "memperluas",
-      "strokes": 8,
-      "examples": [
-        "拡大 (かくだい) - pembesaran / ekspansi",
-        "拡張 (かくちょう) - perluasan / ekstensi",
-        "拡散 (かくさん) - penyebaran / difusi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "頃",
-      "onyomi": "—",
-      "kunyomi": "ころ/ごろ",
-      "meaning": "sekitar/saat",
-      "strokes": 11,
-      "examples": [
-        "近頃 (ちかごろ) - akhir-akhir ini / belakangan ini",
-        "日頃 (ひごろ) - sehari-hari / biasanya",
-        "手頃 (てごろ) - terjangkau / pas (harganya)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "暦",
-      "onyomi": "レキ",
-      "kunyomi": "こよみ",
-      "meaning": "kalender",
-      "strokes": 14,
-      "examples": [
-        "西暦 (せいれき) - kalender Masehi",
-        "旧暦 (きゅうれき) - kalender lunar / kalender lama",
-        "還暦 (かんれき) - ulang tahun ke-60 (siklus kalender 60 tahun)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "締",
-      "onyomi": "テイ",
-      "kunyomi": "し(める)",
-      "meaning": "mengikat/menutup",
-      "strokes": 15,
-      "examples": [
-        "締める (しめる) - mengikat / mengencangkan / menutup",
-        "締め切り (しめきり) - tenggat waktu / deadline",
-        "締結 (ていけつ) - kesimpulan / penandatanganan (kontrak)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "延",
-      "onyomi": "エン",
-      "kunyomi": "の(びる)",
-      "meaning": "menunda/memperpanjang",
-      "strokes": 8,
-      "examples": [
-        "延長 (えんちょう) - perpanjangan",
-        "延期 (えんき) - penundaan",
-        "延びる (のびる) - menjadi panjang/tertunda"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "継",
-      "onyomi": "ケイ",
-      "kunyomi": "つ(ぐ)",
-      "meaning": "melanjutkan",
-      "strokes": 13,
-      "examples": [
-        "継続 (けいぞく) - kelanjutan/kontinuitas",
-        "後継者 (こうけいしゃ) - penerus/ahli waris",
-        "受け継ぐ (うけつぐ) - mewarisi/meneruskan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "維",
-      "onyomi": "イ",
-      "kunyomi": "—",
-      "meaning": "mempertahankan",
-      "strokes": 14,
-      "examples": [
-        "維持 (いじ) - pemeliharaan/maintenance",
-        "維新 (いしん) - restorasi/pembaruan",
-        "繊維 (せんい) - serat/fiber"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "持",
-      "onyomi": "ジ",
-      "kunyomi": "も(つ)",
-      "meaning": "memegang/memiliki",
-      "strokes": 9,
-      "examples": [
-        "持参 (じさん) - membawa (datang membawa sesuatu)",
-        "支持 (しじ) - dukungan/support",
-        "気持ち (きもち) - perasaan"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "抱",
-      "onyomi": "ホウ",
-      "kunyomi": "だ(く)",
-      "meaning": "memeluk",
-      "strokes": 8,
-      "examples": [
-        "抱擁 (ほうよう) - pelukan/dekapan",
-        "抱負 (ほうふ) - ambisi/aspirasi",
-        "抱く (だく) - memeluk/mendekap"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "掴",
-      "onyomi": "—",
-      "kunyomi": "つか(む)",
-      "meaning": "menggenggam",
-      "strokes": 11,
-      "examples": [
-        "掴む (つかむ) - memegang/menggenggam/menangkap",
-        "掴み取る (つかみとる) - merenggut/mendapatkan dengan usaha",
-        "一掴み (ひとつかみ) - satu genggaman/segenggam"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "掘",
-      "onyomi": "クツ",
-      "kunyomi": "ほ(る)",
-      "meaning": "menggali",
-      "strokes": 11,
-      "examples": [
-        "掘る (ほる) - menggali",
-        "発掘 (はっくつ) - penggalian/ekskavasi",
-        "掘り下げる (ほりさげる) - menggali lebih dalam (secara harfiah atau kiasan)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "押",
-      "onyomi": "オウ",
-      "kunyomi": "お(す)",
-      "meaning": "menekan/mendorong",
-      "strokes": 8,
-      "examples": [
-        "押す (おす) - menekan/mendorong",
-        "押印 (おういん) - membubuhkan stempel/cap",
-        "押し入れ (おしいれ) - lemari dinding (tradisional Jepang)"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "引",
-      "onyomi": "イン",
-      "kunyomi": "ひ(く)",
-      "meaning": "menarik",
-      "strokes": 4,
-      "examples": [
-        "引く (ひく) - menarik",
-        "引き出し (ひきだし) - laci",
-        "引用 (いんよう) - kutipan/sitasi"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "割",
-      "onyomi": "カツ",
-      "kunyomi": "わ(る)",
-      "meaning": "membelah/membagi",
-      "strokes": 12,
-      "examples": [
-        "割る (わる) - membagi/membelah/memecahkan",
-        "割合 (わりあい) - rasio/persentase/perbandingan",
-        "割引 (わりびき) - potongan harga/diskon"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "裂",
-      "onyomi": "レツ",
-      "kunyomi": "さ(く)",
-      "meaning": "merobek",
-      "strokes": 12,
-      "examples": [
-        "裂く (さく) - merobek/membelah",
-        "分裂 (ぶんれつ) - perpecahan/pembelahan",
-        "破裂 (はれつ) - ledakan/pecah"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "刈",
-      "onyomi": "—",
-      "kunyomi": "か(る)",
-      "meaning": "memotong (rumput)",
-      "strokes": 4,
-      "examples": [
-        "刈る (かる) - memotong (rumput/rambut)",
-        "草刈り (くさかり) - memotong rumput/penyiangan",
-        "刈り入れ (かりいれ) - panen/menuai"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "磨",
-      "onyomi": "マ",
-      "kunyomi": "みが(く)",
-      "meaning": "menggosok/memoles",
-      "strokes": 16,
-      "examples": [
-        "磨く (みがく) - menggosok/menyikat (gigi)",
-        "研磨 (けんま) - pengasahan/pemolesan",
-        "歯磨き (はみがき) - menyikat gigi/pasta gigi"
-      ],
-      "category": "Kata Kerja"
-    },
-    {
-      "kanji": "編",
-      "onyomi": "ヘン",
-      "kunyomi": "あ(む)",
-      "meaning": "merajut/menyunting",
-      "strokes": 15,
-      "examples": [
-        "編む (あむ) - merajut/menganyam",
-        "編集 (へんしゅう) - penyuntingan/editing",
-        "編み物 (あみもの) - rajutan/barang rajutan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "織",
-      "onyomi": "ショク/シキ",
-      "kunyomi": "お(る)",
-      "meaning": "menenun",
-      "strokes": 18,
-      "examples": [
-        "織る (おる) - menenun",
-        "組織 (そしき) - organisasi/jaringan",
-        "織物 (おりもの) - kain tenun/tekstil"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鯨",
-      "onyomi": "ゲイ",
-      "kunyomi": "くじら",
-      "meaning": "ikan paus",
-      "strokes": 19,
-      "examples": [
-        "鯨 (くじら) - Ikan paus",
-        "捕鯨 (ほげい) - Perburuan paus",
-        "鯨肉 (げいにく) - Daging paus"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "猿",
-      "onyomi": "エン",
-      "kunyomi": "さる",
-      "meaning": "monyet",
-      "strokes": 13,
-      "examples": [
-        "猿 (さる) - Monyet",
-        "類人猿 (るいじんえん) - Kera besar (anthropoid)",
-        "猿芝居 (さるしばい) - Sandiwara murahan / trik yang mudah terbongkar"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "蛇",
-      "onyomi": "ジャ",
-      "kunyomi": "へび",
-      "meaning": "ular",
-      "strokes": 11,
-      "examples": [
-        "蛇 (へび) - Ular",
-        "毒蛇 (どくじゃ) - Ular berbisa",
-        "蛇口 (じゃぐち) - Keran air"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "虫",
-      "onyomi": "チュウ",
-      "kunyomi": "むし",
-      "meaning": "serangga",
-      "strokes": 6,
-      "examples": [
-        "虫 (むし) - Serangga / ulat",
-        "昆虫 (こんちゅう) - Serangga (istilah ilmiah)",
-        "虫歯 (むしば) - Gigi berlubang"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "巣",
-      "onyomi": "ソウ",
-      "kunyomi": "す",
-      "meaning": "sarang",
-      "strokes": 11,
-      "examples": [
-        "巣 (す) - Sarang",
-        "古巣 (ふるす) - Sarang lama / tempat lama (kiasan)",
-        "卵巣 (らんそう) - Ovarium (sarang telur)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "翼",
-      "onyomi": "ヨク",
-      "kunyomi": "つばさ",
-      "meaning": "sayap",
-      "strokes": 17,
-      "examples": [
-        "翼 (つばさ) - Sayap",
-        "左翼 (さよく) - Sayap kiri",
-        "尾翼 (びよく) - Sayap ekor (pesawat)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "枝",
-      "onyomi": "シ",
-      "kunyomi": "えだ",
-      "meaning": "cabang/ranting",
-      "strokes": 8,
-      "examples": [
-        "小枝 (こえだ) - Ranting kecil",
-        "枝豆 (えだまめ) - Edamame (kedelai Jepang)",
-        "枝分かれ (えだわかれ) - Percabangan"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "根",
-      "onyomi": "コン",
-      "kunyomi": "ね",
-      "meaning": "akar",
-      "strokes": 10,
-      "examples": [
-        "屋根 (やね) - Atap",
-        "根本 (ねもと) - Bagian pangkal/dasar",
-        "大根 (だいこん) - Lobak putih"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "芽",
-      "onyomi": "ガ",
-      "kunyomi": "め",
-      "meaning": "tunas",
-      "strokes": 8,
-      "examples": [
-        "新芽 (しんめ) - Tunas baru",
-        "発芽 (はつが) - Perkecambahan",
-        "芽生える (めばえる) - Bersemi/mulai tumbuh"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "種",
-      "onyomi": "シュ",
-      "kunyomi": "たね",
-      "meaning": "biji/jenis",
-      "strokes": 14,
-      "examples": [
-        "種類 (しゅるい) - Jenis/macam",
-        "種子 (しゅし) - Biji-bijian/benih",
-        "人種 (じんしゅ) - Ras manusia"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "実",
-      "onyomi": "ジツ",
-      "kunyomi": "み/みの(る)",
-      "meaning": "buah/kenyataan",
-      "strokes": 8,
-      "examples": [
-        "事実 (じじつ) - fakta/kenyataan",
-        "実行 (じっこう) - pelaksanaan/praktik",
-        "実る (みのる) - berbuah/membuahkan hasil"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "穀",
-      "onyomi": "コク",
-      "kunyomi": "—",
-      "meaning": "biji-bijian",
-      "strokes": 14,
-      "examples": [
-        "穀物 (こくもつ) - biji-bijian/serealia",
-        "穀倉 (こくそう) - lumbung padi/gudang biji-bijian",
-        "脱穀 (だっこく) - perontokan padi/biji-bijian"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "畑",
-      "onyomi": "—",
-      "kunyomi": "はたけ",
-      "meaning": "ladang",
-      "strokes": 9,
-      "examples": [
-        "田畑 (たはた) - sawah dan ladang",
-        "畑地 (はたち) - lahan pertanian/ladang",
-        "花畑 (はなばたけ) - ladang bunga"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "牧",
-      "onyomi": "ボク",
-      "kunyomi": "まき",
-      "meaning": "padang rumput",
-      "strokes": 8,
-      "examples": [
-        "牧場 (ぼくじょう) - peternakan/padang rumput hewan",
-        "牧師 (ぼくし) - pendeta/pastor",
-        "遊牧 (ゆうぼく) - nomaden/penggembalaan berpindah-pindah"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "泉",
-      "onyomi": "セン",
-      "kunyomi": "いずみ",
-      "meaning": "mata air",
-      "strokes": 9,
-      "examples": [
-        "温泉 (おんせん) - sumber air panas",
-        "泉水 (せんすい) - air mancur/kolam taman",
-        "源泉 (げんせん) - sumber mata air/asal mula"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "滝",
-      "onyomi": "—",
-      "kunyomi": "たき",
-      "meaning": "air terjun",
-      "strokes": 13,
-      "examples": [
-        "滝登り (たきのぼり) - pendakian air terjun (oleh ikan)",
-        "滝壺 (たきつぼ) - kolam di bawah air terjun",
-        "華厳の滝 (けごんのたき) - Air Terjun Kegon"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "崖",
-      "onyomi": "ガイ",
-      "kunyomi": "がけ",
-      "meaning": "tebing",
-      "strokes": 11,
-      "examples": [
-        "断崖 (だんがい) - tebing terjal / jurang",
-        "崖崩れ (がけくずれ) - tanah longsor (di tebing)",
-        "海岸崖 (かいがんがい) - tebing pantai"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "谷",
-      "onyomi": "コク",
-      "kunyomi": "たに",
-      "meaning": "lembah",
-      "strokes": 7,
-      "examples": [
-        "谷間 (たにま) - lembah / celah di antara gunung",
-        "渓谷 (けいこく) - lembah sungai / ngarai",
-        "谷底 (たにぞこ) - dasar lembah"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "峠",
-      "onyomi": "—",
-      "kunyomi": "とうげ",
-      "meaning": "puncak gunung",
-      "strokes": 9,
-      "examples": [
-        "峠道 (とうげみち) - jalan melewati puncak gunung / celah gunung",
-        "峠越え (とうげごえ) - melintasi puncak gunung",
-        "箱根峠 (はこねとうげ) - Puncak Hakone"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "岩",
-      "onyomi": "ガン",
-      "kunyomi": "いわ",
-      "meaning": "batu karang",
-      "strokes": 8,
-      "examples": [
-        "岩石 (がんせき) - batu-batuan / karang",
-        "溶岩 (ようがん) - lava (batu cair)",
-        "岩場 (いわば) - daerah berbatu / medan berbatu"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "砂",
-      "onyomi": "サ/シャ",
-      "kunyomi": "すな",
-      "meaning": "pasir",
-      "strokes": 9,
-      "examples": [
-        "砂糖 (さとう) - Gula",
-        "砂漠 (さばく) - Padang pasir",
-        "砂利 (じゃり) - Kerikil"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "霧",
-      "onyomi": "ム",
-      "kunyomi": "きり",
-      "meaning": "kabut",
-      "strokes": 19,
-      "examples": [
-        "霧雨 (きりさめ) - gerimis / hujan rintik-rintik",
-        "濃霧 (のうむ) - kabut tebal",
-        "朝霧 (あさぎり) - kabut pagi"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "霜",
-      "onyomi": "ソウ",
-      "kunyomi": "しも",
-      "meaning": "embun beku",
-      "strokes": 17,
-      "examples": [
-        "霜柱 (しもばしら) - kristal es di tanah",
-        "霜降 (しもふり) - daging sapi dengan pola lemak (marbling) / turunnya embun beku",
-        "晩霜 (ばんそう) - embun beku di akhir musim semi"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "雷",
-      "onyomi": "ライ",
-      "kunyomi": "かみなり",
-      "meaning": "petir",
-      "strokes": 13,
-      "examples": [
-        "雷鳴 (らいめい) - suara guntur",
-        "落雷 (らくらい) - sambaran petir",
-        "地雷 (じらい) - ranjau darat"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "虹",
-      "onyomi": "—",
-      "kunyomi": "にじ",
-      "meaning": "pelangi",
-      "strokes": 9,
-      "examples": [
-        "虹色 (にじいろ) - warna pelangi",
-        "虹橋 (にじはし) - jembatan pelangi",
-        "白虹 (はっこう) - pelangi putih (busur kabut)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "塀",
-      "onyomi": "ヘイ",
-      "kunyomi": "—",
-      "meaning": "pagar/tembok",
-      "strokes": 12,
-      "examples": [
-        "石塀 (いしべい) - Pagar batu",
-        "塀越し (へいごし) - Melalui pagar",
-        "土塀 (どべい) - Tembok tanah"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "塔",
-      "onyomi": "トウ",
-      "kunyomi": "—",
-      "meaning": "menara",
-      "strokes": 12,
-      "examples": [
-        "五重の塔 (ごじゅうのとう) - Pagoda lima tingkat",
-        "管制塔 (かんせいとう) - Menara kontrol",
-        "鉄塔 (てっとう) - Menara baja (pylon)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "橋",
-      "onyomi": "キョウ",
-      "kunyomi": "はし",
-      "meaning": "jembatan",
-      "strokes": 16,
-      "examples": [
-        "歩道橋 (ほどうきょう) - Jembatan penyeberangan orang",
-        "鉄橋 (てっきょう) - Jembatan besi (kereta api)",
-        "架け橋 (かけはし) - Jembatan penghubung"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "坂",
-      "onyomi": "ハン",
-      "kunyomi": "さか",
-      "meaning": "bukit/tanjakan",
-      "strokes": 7,
-      "examples": [
-        "急坂 (きゅうざか) - Tanjakan curam",
-        "上り坂 (のぼりざか) - Jalan menanjak",
-        "坂道 (さかみち) - Jalan berbukit/tanjakan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "溝",
-      "onyomi": "コウ",
-      "kunyomi": "みぞ",
-      "meaning": "selokan/parit",
-      "strokes": 13,
-      "examples": [
-        "排水溝 (はいすいこう) - Saluran pembuangan air (drainase)",
-        "溝鼠 (どぶねずみ) - Tikus got",
-        "心の溝 (こころのみぞ) - Celah/jarak di hati (kiasan)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "壁",
-      "onyomi": "ヘキ",
-      "kunyomi": "かべ",
-      "meaning": "dinding",
-      "strokes": 16,
-      "examples": [
-        "壁紙 (かべがみ) - wallpaper/kertas dinding",
-        "城壁 (じょうへき) - tembok kastil/benteng",
-        "壁画 (へきが) - lukisan dinding/mural"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "床",
-      "onyomi": "ショウ",
-      "kunyomi": "ゆか/とこ",
-      "meaning": "lantai/tempat tidur",
-      "strokes": 7,
-      "examples": [
-        "床屋 (とこや) - tempat pangkas rambut",
-        "起床 (きしょう) - bangun tidur",
-        "床下 (ゆかした) - di bawah lantai"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "棚",
-      "onyomi": "—",
-      "kunyomi": "たな",
-      "meaning": "rak",
-      "strokes": 12,
-      "examples": [
-        "本棚 (ほんだな) - rak buku",
-        "食器棚 (しょっきだな) - rak piring/lemari makan",
-        "棚上げ (たなあげ) - menunda/menangguhkan (rencana)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "柵",
-      "onyomi": "サク",
-      "kunyomi": "—",
-      "meaning": "pagar",
-      "strokes": 9,
-      "examples": [
-        "鉄柵 (てっさく) - pagar besi",
-        "柵越え (さくごえ) - melewati pagar (home run)",
-        "竹柵 (たけさく) - pagar bambu"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "段",
-      "onyomi": "ダン",
-      "kunyomi": "—",
-      "meaning": "tahap/tangga",
-      "strokes": 9,
-      "examples": [
-        "階段 (かいだん) - tangga",
-        "一段 (いちだん) - satu langkah/satu tingkat",
-        "段ボール (だんぼーる) - kardus/karton bergelombang"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "層",
-      "onyomi": "ソウ",
-      "kunyomi": "—",
-      "meaning": "lapisan",
-      "strokes": 14,
-      "examples": [
-        "地層 (ちそう) - lapisan tanah",
-        "高層 (こうそう) - tingkat tinggi",
-        "階層 (かいそう) - hierarki/lapisan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "衣",
-      "onyomi": "イ",
-      "kunyomi": "ころも",
-      "meaning": "pakaian",
-      "strokes": 6,
-      "examples": [
-        "衣類 (いるい) - pakaian",
-        "衣服 (いふく) - busana",
-        "浴衣 (ゆかた) - yukata"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "裏",
-      "onyomi": "リ",
-      "kunyomi": "うら",
-      "meaning": "belakang/dalam",
-      "strokes": 13,
-      "examples": [
-        "裏側 (うらがわ) - sisi belakang",
-        "裏返す (うらがえす) - membalik",
-        "裏口 (うらぐち) - pintu belakang"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "表",
-      "onyomi": "ヒョウ",
-      "kunyomi": "おもて/あらわ(す)",
-      "meaning": "permukaan/tabel",
-      "strokes": 8,
-      "examples": [
-        "表現 (ひょうげん) - ekspresi",
-        "発表 (はっぴょう) - pengumuman",
-        "表面 (ひょうめん) - permukaan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "縁",
-      "onyomi": "エン",
-      "kunyomi": "ふち",
-      "meaning": "tepi/hubungan",
-      "strokes": 15,
-      "examples": [
-        "縁側 (えんがわ) - beranda",
-        "無縁 (むえん) - tidak berhubungan",
-        "縁起 (えんぎ) - pertanda"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鉄",
-      "onyomi": "テツ",
-      "kunyomi": "—",
-      "meaning": "besi",
-      "strokes": 13,
-      "examples": [
-        "鉄道 (てつどう) - jalan kereta api",
-        "地下鉄 (ちかてつ) - kereta bawah tanah (subway)",
-        "鉄分 (てつぶん) - kandungan zat besi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "銅",
-      "onyomi": "ドウ",
-      "kunyomi": "—",
-      "meaning": "tembaga",
-      "strokes": 14,
-      "examples": [
-        "銅像 (どうぞう) - patung perunggu/tembaga",
-        "銅貨 (どうか) - koin tembaga",
-        "銅メダル (どうめだる) - medali perunggu"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "銀",
-      "onyomi": "ギン",
-      "kunyomi": "—",
-      "meaning": "perak",
-      "strokes": 14,
-      "examples": [
-        "銀行 (ぎんこう) - bank",
-        "銀河 (ぎんが) - galaksi (bimasakti)",
-        "銀メダル (ぎんめだる) - medali perak"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "鋼",
-      "onyomi": "コウ",
-      "kunyomi": "はがね",
-      "meaning": "baja",
-      "strokes": 16,
-      "examples": [
-        "鋼鉄 (こうてつ) - baja (steel)",
-        "製鋼 (せいこう) - pembuatan baja",
-        "鋼材 (こうざい) - bahan baja"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "塩",
-      "onyomi": "エン",
-      "kunyomi": "しお",
-      "meaning": "garam",
-      "strokes": 13,
-      "examples": [
-        "塩分 (えんぶん) - kadar garam/salinitas",
-        "食塩 (しょくえん) - garam dapur",
-        "塩辛い (しおからい) - asin (rasa)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "糖",
-      "onyomi": "サトウ",
-      "kunyomi": "さとう",
-      "meaning": "gula",
-      "strokes": 16,
-      "examples": [
-        "砂糖 (さとう) - gula",
-        "糖分 (とうぶん) - kadar gula",
-        "糖尿病 (とうにょうびょう) - diabetes"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "酸",
-      "onyomi": "サン",
-      "kunyomi": "す(い)",
-      "meaning": "asam",
-      "strokes": 14,
-      "examples": [
-        "酸素 (さんそ) - Oksigen",
-        "酸化 (さんか) - Oksidasi",
-        "炭酸 (たんさん) - Asam karbonat / Soda"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "互",
-      "onyomi": "ゴ",
-      "kunyomi": "たが(い)",
-      "meaning": "saling",
-      "strokes": 4,
-      "examples": [
-        "相互 (そうご) - Saling / Timbal balik",
-        "互換性 (ごかんせい) - Kompatibilitas",
-        "交互 (こうご) - Bergantian"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "双",
-      "onyomi": "ソウ",
-      "kunyomi": "ふた",
-      "meaning": "sepasang",
-      "strokes": 4,
-      "examples": [
-        "双子 (ふたご) - Anak kembar",
-        "双眼鏡 (そうがんきょう) - Teropong binokular",
-        "双方 (そうほう) - Kedua belah pihak"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "各",
-      "onyomi": "カク",
-      "kunyomi": "おのおの",
-      "meaning": "masing-masing",
-      "strokes": 6,
-      "examples": [
-        "各地 (かくち) - Berbagai tempat",
-        "各自 (かくじ) - Masing-masing orang",
-        "各国 (かっこく) - Setiap negara"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "個",
-      "onyomi": "コ",
-      "kunyomi": "—",
-      "meaning": "individu/buah",
-      "strokes": 10,
-      "examples": [
-        "個人 (こじん) - individu/pribadi",
-        "一個 (いっこ) - satu buah",
-        "個性 (こせい) - kepribadian/karakteristik"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "全",
-      "onyomi": "ゼン",
-      "kunyomi": "まった(く)",
-      "meaning": "seluruh",
-      "strokes": 6,
-      "examples": [
-        "全部 (ぜんぶ) - semua/seluruhnya",
-        "全国 (ぜんこく) - seluruh negeri/nasional",
-        "安全 (あんぜん) - aman/keselamatan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "総",
-      "onyomi": "ソウ",
-      "kunyomi": "—",
-      "meaning": "total/umum",
-      "strokes": 14,
-      "examples": [
-        "総合 (そうごう) - sintesis/komprehensif/umum",
-        "総計 (そうけい) - jumlah total",
-        "総理大臣 (そうりだいじん) - Perdana Menteri"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "半",
-      "onyomi": "ハン",
-      "kunyomi": "なか(ば)",
-      "meaning": "setengah",
-      "strokes": 5,
-      "examples": [
-        "半分 (はんぶん) - setengah",
-        "半年 (はんとし) - setengah tahun",
-        "半径 (はんけい) - jari-jari (lingkaran)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "倍",
-      "onyomi": "バイ",
-      "kunyomi": "—",
-      "meaning": "kali lipat",
-      "strokes": 10,
-      "examples": [
-        "二倍 (にばい) - dua kali lipat",
-        "倍率 (ばいりつ) - rasio/perbesaran",
-        "倍増 (ばいぞう) - berlipat ganda"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "率",
-      "onyomi": "リツ",
-      "kunyomi": "—",
-      "meaning": "rasio",
-      "strokes": 11,
-      "examples": [
-        "確率 (かくりつ) - probabilitas/kemungkinan",
-        "倍率 (ばいりつ) - perbesaran/rasio perbandingan",
-        "効率 (こうりつ) - efisiensi"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "比",
-      "onyomi": "ヒ",
-      "kunyomi": "くら(べる)",
-      "meaning": "membandingkan",
-      "strokes": 4,
-      "examples": [
-        "比較 (ひかく) - perbandingan",
-        "比率 (ひりつ) - rasio/proposi",
-        "対比 (たいひ) - kontras/perbandingan"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "奥",
-      "onyomi": "オウ",
-      "kunyomi": "おく",
-      "meaning": "dalam/belakang",
-      "strokes": 12,
-      "examples": [
-        "奥様 (おくさま) - istri (orang lain)",
-        "奥地 (おくち) - pedalaman/daerah terpencil",
-        "奥行き (おくゆき) - kedalaman (dimensi)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "丘",
-      "onyomi": "キュウ",
-      "kunyomi": "おか",
-      "meaning": "bukit",
-      "strokes": 5,
-      "examples": [
-        "丘陵 (きゅうりょう) - perbukitan",
-        "砂丘 (さきゅう) - bukit pasir",
-        "丘 (おか) - bukit/gundukan tanah"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "沼",
-      "onyomi": "ショウ",
-      "kunyomi": "ぬま",
-      "meaning": "rawa",
-      "strokes": 8,
-      "examples": [
-        "沼地 (ぬまち) - tanah rawa/rawa-rawa",
-        "泥沼 (どろぬま) - rawa lumpur/situasi yang sulit dilepaskan",
-        "湖沼 (こしょう) - danau dan rawa"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "沖",
-      "onyomi": "—",
-      "kunyomi": "おき",
-      "meaning": "lepas pantai",
-      "strokes": 7,
-      "examples": [
-        "沖合 (おきあい) - lepas pantai",
-        "沖縄 (おきなわ) - Okinawa",
-        "沖釣り (おきづり) - memancing di laut lepas"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "湾",
-      "onyomi": "ワン",
-      "kunyomi": "—",
-      "meaning": "teluk",
-      "strokes": 12,
-      "examples": [
-        "東京湾 (とうきょうわん) - Teluk Tokyo",
-        "湾岸 (わんがん) - pantai teluk / pesisir teluk",
-        "港湾 (こうわん) - pelabuhan dan teluk"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "潮",
-      "onyomi": "チョウ",
-      "kunyomi": "しお",
-      "meaning": "pasang/arus",
-      "strokes": 15,
-      "examples": [
-        "潮水 (しおみず) - air laut / air asin",
-        "満潮 (まんちょう) - pasang naik",
-        "風潮 (ふうちょう) - tren / kecenderungan (arus zaman)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "炎",
-      "onyomi": "エン",
-      "kunyomi": "ほのお",
-      "meaning": "nyala api",
-      "strokes": 8,
-      "examples": [
-        "炎上 (えんじょう) - terbakar / menjadi viral (negatif)",
-        "火炎 (かえん) - nyala api / lidah api",
-        "炎症 (えんしょう) - peradangan (medis)"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "灰",
-      "onyomi": "カイ",
-      "kunyomi": "はい",
-      "meaning": "abu",
-      "strokes": 6,
-      "examples": [
-        "灰皿 (はいざら) - asbak",
-        "灰色 (はいいろ) - warna abu-abu",
-        "火山灰 (かざんばい) - abu vulkanik"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "煙",
-      "onyomi": "エン",
-      "kunyomi": "けむり",
-      "meaning": "asap",
-      "strokes": 13,
-      "examples": [
-        "煙 (けむり) - Asap",
-        "禁煙 (きんえん) - Dilarang merokok",
-        "喫煙所 (きつえんじょ) - Area merokok"
-      ],
-      "category": "Alam"
-    },
-    {
-      "kanji": "香",
-      "onyomi": "コウ",
-      "kunyomi": "かお(り)",
-      "meaning": "wangi",
-      "strokes": 9,
-      "examples": [
-        "香り (かおり) - Aroma/Wangi",
-        "香水 (こうすい) - Parfum",
-        "線香 (せんこう) - Dupa"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "匂",
-      "onyomi": "—",
-      "kunyomi": "にお(い)",
-      "meaning": "bau",
-      "strokes": 4,
-      "examples": [
-        "匂い (におい) - Bau/Aroma",
-        "匂い袋 (においぶくろ) - Kantong pewangi (sachet)",
-        "匂い消し (においけし) - Penghilang bau"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "汗",
-      "onyomi": "カン",
-      "kunyomi": "あせ",
-      "meaning": "keringat",
-      "strokes": 6,
-      "examples": [
-        "汗 (あせ) - Keringat",
-        "発汗 (はっかん) - Berkeringat/Perspirasi",
-        "冷や汗 (ひやあせ) - Keringat dingin"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "涙",
-      "onyomi": "ルイ",
-      "kunyomi": "なみだ",
-      "meaning": "air mata",
-      "strokes": 10,
-      "examples": [
-        "涙 (なみだ) - Air mata",
-        "涙声 (なみだごえ) - Suara terisak/seperti mau menangis",
-        "感涙 (かんるい) - Air mata haru/bahagia"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "唇",
-      "onyomi": "シン",
-      "kunyomi": "くちびる",
-      "meaning": "bibir",
-      "strokes": 10,
-      "examples": [
-        "下唇 (したくちびる) - bibir bawah",
-        "上唇 (うわくちびる) - bibir atas",
-        "唇音 (しんおん) - konsonan labial"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "爪",
-      "onyomi": "ソウ",
-      "kunyomi": "つめ",
-      "meaning": "kuku",
-      "strokes": 4,
-      "examples": [
-        "爪切り (つめきり) - gunting kuku",
-        "深爪 (ふかづめ) - memotong kuku terlalu pendek",
-        "爪先 (つまさき) - ujung jari kaki / ujung kuku"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "肩",
-      "onyomi": "ケン",
-      "kunyomi": "かた",
-      "meaning": "bahu",
-      "strokes": 8,
-      "examples": [
-        "肩書き (かたがき) - gelar / jabatan",
-        "肩車 (かたぐるま) - menggendong di pundak (pundak-pundakan)",
-        "肩甲骨 (けんこうこつ) - tulang belikat"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "腰",
-      "onyomi": "ヨウ",
-      "kunyomi": "こし",
-      "meaning": "pinggang",
-      "strokes": 13,
-      "examples": [
-        "腰痛 (ようつう) - sakit pinggang",
-        "腰掛け (こしかけ) - tempat duduk / kursi",
-        "腰を下ろす (こしをおろす) - duduk"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "膝",
-      "onyomi": "シツ",
-      "kunyomi": "ひざ",
-      "meaning": "lutut",
-      "strokes": 15,
-      "examples": [
-        "膝蓋骨 (しつがいこつ) - tempurung lutut",
-        "膝元 (ひざもと) - di dekat lutut / di bawah asuhan orang tua",
-        "膝掛け (ひざかけ) - selimut pangkuan (lap robe)"
-      ],
-      "category": "Lainnya"
-    },
-    {
-      "kanji": "踵",
-      "onyomi": "ショウ",
-      "kunyomi": "かかと",
-      "meaning": "tumit",
-      "strokes": 16,
-      "examples": [
-        "踵 (かかと) - tumit",
-        "踵を返す (きびすをかえす) - berbalik arah",
-        "踵骨 (しょうこつ) - tulang tumit"
-      ],
-      "category": "Lainnya"
-    }
+  {
+    "kanji": "与",
+    "onyomi": "ヨ",
+    "kunyomi": "あずかる/あたえる/くみする/ともに",
+    "meaning": "memberi/berpartisipasi",
+    "strokes": 3,
+    "examples": [
+      "与 (ヨ)",
+      "与 (あずかる)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "両",
+    "onyomi": "リョウ",
+    "kunyomi": "てる/ふたつ",
+    "meaning": "kedua/genap",
+    "strokes": 6,
+    "examples": [
+      "両 (リョウ)",
+      "両 (てる)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "乗",
+    "onyomi": "ショウ/ジョウ",
+    "kunyomi": "-のり/のせる/のる",
+    "meaning": "menaiki/naik",
+    "strokes": 9,
+    "examples": [
+      "乗 (ショウ)",
+      "乗 (-のり)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "予",
+    "onyomi": "シャ/ヨ",
+    "kunyomi": "あらかじめ",
+    "meaning": "sebelumnya/awal",
+    "strokes": 4,
+    "examples": [
+      "予 (シャ)",
+      "予 (あらかじめ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "争",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそう/いかでか",
+    "meaning": "bersaing/berebut",
+    "strokes": 6,
+    "examples": [
+      "争 (ソウ)",
+      "争 (あらそう)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "互",
+    "onyomi": "ゴ",
+    "kunyomi": "かたみに/たがい",
+    "meaning": "saling/timbal balik",
+    "strokes": 4,
+    "examples": [
+      "互 (ゴ)",
+      "互 (かたみに)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "亡",
+    "onyomi": "ボウ/モウ",
+    "kunyomi": "ない/なき-/ほろびる/ほろぶ/ほろぼす",
+    "meaning": "mati/hilang",
+    "strokes": 3,
+    "examples": [
+      "亡 (ボウ)",
+      "亡 (ない)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "交",
+    "onyomi": "コウ",
+    "kunyomi": "-かう/かわす/かわす/こもごも/まざる/まじる/まぜる/まじえる/まじる/まじわる",
+    "meaning": "campur/silang",
+    "strokes": 6,
+    "examples": [
+      "交 (コウ)",
+      "交 (-かう)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "他",
+    "onyomi": "タ",
+    "kunyomi": "ほか",
+    "meaning": "lain/orang lain",
+    "strokes": 5,
+    "examples": [
+      "他 (タ)",
+      "他 (ほか)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "付",
+    "onyomi": "フ",
+    "kunyomi": "-つき/-つけ/-つける/-つき/-づき/-づく/-づけ/-づける/-づき/-づけ/つき/つく/つけ/つけ-/つける",
+    "meaning": "menempel/menempelkan",
+    "strokes": 5,
+    "examples": [
+      "付 (フ)",
+      "付 (-つき)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "件",
+    "onyomi": "ケン",
+    "kunyomi": "くだん",
+    "meaning": "kasus/urusan",
+    "strokes": 6,
+    "examples": [
+      "件 (ケン)",
+      "件 (くだん)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まかす/まかせる",
+    "meaning": "tugas/kepercayaan",
+    "strokes": 6,
+    "examples": [
+      "任 (ニン)",
+      "任 (まかす)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "伝",
+    "onyomi": "テン/デン",
+    "kunyomi": "-づたい/つたう/つたえる/つたわる/つだう/つて",
+    "meaning": "menyampaikan/mewariskan",
+    "strokes": 6,
+    "examples": [
+      "伝 (テン)",
+      "伝 (-づたい)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "似",
+    "onyomi": "ジ",
+    "kunyomi": "にる/ひる",
+    "meaning": "meniru",
+    "strokes": 7,
+    "examples": [
+      "似 (ジ)",
+      "似 (にる)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "位",
+    "onyomi": "イ",
+    "kunyomi": "くらい/ぐらい",
+    "meaning": "posisi/peringkat",
+    "strokes": 7,
+    "examples": [
+      "位 (イ)",
+      "位 (くらい)"
+    ],
+    "category": "Posisi"
+  },
+  {
+    "kanji": "余",
+    "onyomi": "ヨ",
+    "kunyomi": "あます/あまり/あまる/あんまり",
+    "meaning": "lebih/sisa",
+    "strokes": 7,
+    "examples": [
+      "余 (ヨ)",
+      "余 (あます)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "例",
+    "onyomi": "レイ",
+    "kunyomi": "たとえる",
+    "meaning": "contoh/contohnya",
+    "strokes": 8,
+    "examples": [
+      "例 (レイ)",
+      "例 (たとえる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "供",
+    "onyomi": "キョウ/ク/クウ/グ",
+    "kunyomi": "-ども/そなえる/とも",
+    "meaning": "menyediakan/memberikan",
+    "strokes": 8,
+    "examples": [
+      "供 (キョウ)",
+      "供 (-ども)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "便",
+    "onyomi": "ビン/ベン",
+    "kunyomi": "たより",
+    "meaning": "kirim/kenyamanan",
+    "strokes": 9,
+    "examples": [
+      "便 (ビン)",
+      "便 (たより)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "係",
+    "onyomi": "ケイ",
+    "kunyomi": "-がかり/かかる/かかわる/かかり",
+    "meaning": "hubungan/penanggung jawab",
+    "strokes": 9,
+    "examples": [
+      "係 (ケイ)",
+      "係 (-がかり)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "信",
+    "onyomi": "シン",
+    "kunyomi": "—",
+    "meaning": "percaya/keyakinan",
+    "strokes": 9,
+    "examples": [
+      "信 (シン)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "倒",
+    "onyomi": "トウ",
+    "kunyomi": "-だおれ/さかさ/さかさま/さかしま/たおす/たおれる",
+    "meaning": "jatuh/runtuh",
+    "strokes": 10,
+    "examples": [
+      "倒 (トウ)",
+      "倒 (-だおれ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "候",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "meaning": "musim/menunggu",
+    "strokes": 10,
+    "examples": [
+      "候 (コウ)",
+      "候 (そうろう)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "値",
+    "onyomi": "チ",
+    "kunyomi": "あたい/ね",
+    "meaning": "nilai/harga",
+    "strokes": 10,
+    "examples": [
+      "値 (チ)",
+      "値 (あたい)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "偉",
+    "onyomi": "イ",
+    "kunyomi": "えらい",
+    "meaning": "hebat/agung",
+    "strokes": 12,
+    "examples": [
+      "偉 (イ)",
+      "偉 (えらい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "側",
+    "onyomi": "ソク",
+    "kunyomi": "かわ/がわ/そば",
+    "meaning": "sisi/sebelah",
+    "strokes": 11,
+    "examples": [
+      "側 (ソク)",
+      "側 (かわ)"
+    ],
+    "category": "Posisi"
+  },
+  {
+    "kanji": "偶",
+    "onyomi": "グウ",
+    "kunyomi": "たま",
+    "meaning": "pasangan/kadang",
+    "strokes": 11,
+    "examples": [
+      "偶 (グウ)",
+      "偶 (たま)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "備",
+    "onyomi": "ビ",
+    "kunyomi": "そなえる/そなわる/つぶさに",
+    "meaning": "menyiapkan/melengkapi",
+    "strokes": 12,
+    "examples": [
+      "備 (ビ)",
+      "備 (そなえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "働",
+    "onyomi": "ドウ",
+    "kunyomi": "はたらく",
+    "meaning": "bekerja",
+    "strokes": 13,
+    "examples": [
+      "働 (ドウ)",
+      "働 (はたらく)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "優",
+    "onyomi": "ウ/ユウ",
+    "kunyomi": "すぐれる/まさる/やさしい",
+    "meaning": "unggul/lembut",
+    "strokes": 17,
+    "examples": [
+      "優 (ウ)",
+      "優 (すぐれる)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "光",
+    "onyomi": "コウ",
+    "kunyomi": "ひかる/ひかり",
+    "meaning": "cahaya/bersinar",
+    "strokes": 6,
+    "examples": [
+      "光 (コウ)",
+      "光 (ひかる)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "全",
+    "onyomi": "ゼン",
+    "kunyomi": "すべて/まったく",
+    "meaning": "semua",
+    "strokes": 6,
+    "examples": [
+      "全 (ゼン)",
+      "全 (すべて)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "共",
+    "onyomi": "キョウ",
+    "kunyomi": "-ども/とも/ともに",
+    "meaning": "bersama/total",
+    "strokes": 6,
+    "examples": [
+      "共 (キョウ)",
+      "共 (-ども)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "具",
+    "onyomi": "グ",
+    "kunyomi": "そなえる/つぶさに",
+    "meaning": "alat/memiliki",
+    "strokes": 8,
+    "examples": [
+      "具 (グ)",
+      "具 (そなえる)"
+    ],
+    "category": "Alat"
+  },
+  {
+    "kanji": "内",
+    "onyomi": "ダイ/ナイ",
+    "kunyomi": "うち",
+    "meaning": "dalam/interior",
+    "strokes": 4,
+    "examples": [
+      "内 (ダイ)",
+      "内 (うち)"
+    ],
+    "category": "Posisi"
+  },
+  {
+    "kanji": "冷",
+    "onyomi": "レイ",
+    "kunyomi": "さます/さめる/つめたい/ひえる/ひや/ひやかす/ひやす/ひややか",
+    "meaning": "dingin/mendinginkan",
+    "strokes": 7,
+    "examples": [
+      "冷 (レイ)",
+      "冷 (さます)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "処",
+    "onyomi": "ショ",
+    "kunyomi": "-こ/おる/ところ",
+    "meaning": "menghukum/tempat",
+    "strokes": 5,
+    "examples": [
+      "処 (ショ)",
+      "処 (-こ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "列",
+    "onyomi": "レ/レツ",
+    "kunyomi": "—",
+    "meaning": "barisan/deretan",
+    "strokes": 6,
+    "examples": [
+      "列 (レ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "初",
+    "onyomi": "ショ",
+    "kunyomi": "-そめる/-ぞめ/うい-/はじめ/はじめて/はつ/はつ-",
+    "meaning": "pertama/awal",
+    "strokes": 7,
+    "examples": [
+      "初 (ショ)",
+      "初 (-そめる)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "判",
+    "onyomi": "ハン/バン",
+    "kunyomi": "わかる",
+    "meaning": "hakim/stempel",
+    "strokes": 7,
+    "examples": [
+      "判 (ハン)",
+      "判 (わかる)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "利",
+    "onyomi": "リ",
+    "kunyomi": "きく",
+    "meaning": "untung/tajam",
+    "strokes": 7,
+    "examples": [
+      "利 (リ)",
+      "利 (きく)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "到",
+    "onyomi": "トウ",
+    "kunyomi": "いたる",
+    "meaning": "mencapai",
+    "strokes": 8,
+    "examples": [
+      "到 (トウ)",
+      "到 (いたる)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "制",
+    "onyomi": "セイ",
+    "kunyomi": "—",
+    "meaning": "sistem/mengatur",
+    "strokes": 8,
+    "examples": [
+      "制 (セイ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "刻",
+    "onyomi": "コク",
+    "kunyomi": "きざみ/きざむ",
+    "meaning": "mengukir/menit",
+    "strokes": 8,
+    "examples": [
+      "刻 (コク)",
+      "刻 (きざみ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "割",
+    "onyomi": "カツ",
+    "kunyomi": "さく/わり/わる/われる/わり",
+    "meaning": "memotong",
+    "strokes": 12,
+    "examples": [
+      "割 (カツ)",
+      "割 (さく)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "加",
+    "onyomi": "カ",
+    "kunyomi": "くわえる/くわわる",
+    "meaning": "menambah/bergabung",
+    "strokes": 5,
+    "examples": [
+      "加 (カ)",
+      "加 (くわえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "助",
+    "onyomi": "ジョ",
+    "kunyomi": "すける/すけ/たすかる/たすける",
+    "meaning": "membantu/menolong",
+    "strokes": 7,
+    "examples": [
+      "助 (ジョ)",
+      "助 (すける)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "努",
+    "onyomi": "ド",
+    "kunyomi": "つとめる",
+    "meaning": "berusaha/bersungguh-sungguh",
+    "strokes": 7,
+    "examples": [
+      "努 (ド)",
+      "努 (つとめる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "労",
+    "onyomi": "ロウ",
+    "kunyomi": "いたずき/いたわる/つかれる/ねぎら/ねぎらう/ろうする",
+    "meaning": "tenaga kerja/lelah",
+    "strokes": 7,
+    "examples": [
+      "労 (ロウ)",
+      "労 (いたずき)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "務",
+    "onyomi": "ム",
+    "kunyomi": "つとめる",
+    "meaning": "tugas/pekerjaan",
+    "strokes": 11,
+    "examples": [
+      "務 (ム)",
+      "務 (つとめる)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "勝",
+    "onyomi": "ショウ",
+    "kunyomi": "-がち/かつ/かつ/すぐれる/まさる",
+    "meaning": "victory",
+    "strokes": 12,
+    "examples": [
+      "勝 (ショウ)",
+      "勝 (-がち)"
+    ],
+    "category": "Militer & Perang"
+  },
+  {
+    "kanji": "勤",
+    "onyomi": "キン/ゴン",
+    "kunyomi": "-づとめ/いそしむ/つとまる/つとめる",
+    "meaning": "diligence",
+    "strokes": 12,
+    "examples": [
+      "勤 (キン)",
+      "勤 (-づとめ)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "化",
+    "onyomi": "カ/ケ",
+    "kunyomi": "けする/ばかす/ばける/ふける",
+    "meaning": "perubahan/-isasi",
+    "strokes": 4,
+    "examples": [
+      "化 (カ)",
+      "化 (けする)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "単",
+    "onyomi": "タン",
+    "kunyomi": "ひとえ",
+    "meaning": "sederhana/tunggal",
+    "strokes": 9,
+    "examples": [
+      "単 (タン)",
+      "単 (ひとえ)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "危",
+    "onyomi": "キ",
+    "kunyomi": "あぶない/あやうい/あやぶむ",
+    "meaning": "bahaya/berbahaya",
+    "strokes": 6,
+    "examples": [
+      "危 (キ)",
+      "危 (あぶない)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "原",
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "meaning": "asal/dataran",
+    "strokes": 10,
+    "examples": [
+      "原 (ゲン)",
+      "原 (はら)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "参",
+    "onyomi": "サン/シン",
+    "kunyomi": "まい-/まいる/まじわる/みつ",
+    "meaning": "partisipasi/masuk",
+    "strokes": 8,
+    "examples": [
+      "参 (サン)",
+      "参 (まい-)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "反",
+    "onyomi": "タン/ハン/ホ/ホン",
+    "kunyomi": "-かえる/かえす/かえる/そらす/そる",
+    "meaning": "anti/kebalikan",
+    "strokes": 4,
+    "examples": [
+      "反 (タン)",
+      "反 (-かえる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "収",
+    "onyomi": "シュウ",
+    "kunyomi": "おさまる/おさめる",
+    "meaning": "pemasukan/memasukkan",
+    "strokes": 4,
+    "examples": [
+      "収 (シュウ)",
+      "収 (おさまる)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "取",
+    "onyomi": "シュ",
+    "kunyomi": "-どり/とり/とり-/とる/とり",
+    "meaning": "mengambil",
+    "strokes": 8,
+    "examples": [
+      "取 (シュ)",
+      "取 (-どり)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "受",
+    "onyomi": "ジュ",
+    "kunyomi": "-うけ/うかる/うける",
+    "meaning": "menerima/mengambil",
+    "strokes": 8,
+    "examples": [
+      "受 (ジュ)",
+      "受 (-うけ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "号",
+    "onyomi": "ゴウ",
+    "kunyomi": "さけぶ/よびな",
+    "meaning": "nomor/tanda",
+    "strokes": 5,
+    "examples": [
+      "号 (ゴウ)",
+      "号 (さけぶ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "合",
+    "onyomi": "カッ/ガッ/ゴウ",
+    "kunyomi": "-あい/-あう/-あわせる/-あい/あい/あう/あわす/あわせる/あい-",
+    "meaning": "cocok/gabungan",
+    "strokes": 6,
+    "examples": [
+      "合 (カッ)",
+      "合 (-あい)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "向",
+    "onyomi": "コウ",
+    "kunyomi": "-むき/-むけ/むい/むかい/むかう/むく/むける/むこう/むこう-/むかい/むこ",
+    "meaning": "menghadap/ke arah",
+    "strokes": 6,
+    "examples": [
+      "向 (コウ)",
+      "向 (-むき)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "君",
+    "onyomi": "クン",
+    "kunyomi": "-ぎみ/きみ",
+    "meaning": "kamu/tuan",
+    "strokes": 7,
+    "examples": [
+      "君 (クン)",
+      "君 (-ぎみ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "否",
+    "onyomi": "ヒ",
+    "kunyomi": "いな/いや",
+    "meaning": "menolak/tidak",
+    "strokes": 7,
+    "examples": [
+      "否 (ヒ)",
+      "否 (いな)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "すう",
+    "meaning": "mengisap/menghirup",
+    "strokes": 6,
+    "examples": [
+      "吸 (キュウ)",
+      "吸 (すう)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "吹",
+    "onyomi": "スイ",
+    "kunyomi": "ふく",
+    "meaning": "meniup/menghembuskan",
+    "strokes": 7,
+    "examples": [
+      "吹 (スイ)",
+      "吹 (ふく)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "告",
+    "onyomi": "コク",
+    "kunyomi": "つげる",
+    "meaning": "mengumumkan",
+    "strokes": 7,
+    "examples": [
+      "告 (コク)",
+      "告 (つげる)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "呼",
+    "onyomi": "コ",
+    "kunyomi": "よぶ",
+    "meaning": "memanggil/memanggil",
+    "strokes": 8,
+    "examples": [
+      "呼 (コ)",
+      "呼 (よぶ)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "命",
+    "onyomi": "ミョウ/メイ",
+    "kunyomi": "いのち",
+    "meaning": "nasib/perintah",
+    "strokes": 8,
+    "examples": [
+      "命 (ミョウ)",
+      "命 (いのち)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "和",
+    "onyomi": "オ/カ/ワ",
+    "kunyomi": "あえる/なごむ/なごやか/やわらぐ/やわらげる",
+    "meaning": "harmoni/Jepang/damai",
+    "strokes": 8,
+    "examples": [
+      "和 (オ)",
+      "和 (あえる)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "商",
+    "onyomi": "ショウ",
+    "kunyomi": "あきなう",
+    "meaning": "dagang/perdagangan",
+    "strokes": 11,
+    "examples": [
+      "商 (ショウ)",
+      "商 (あきなう)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "喜",
+    "onyomi": "キ",
+    "kunyomi": "よろこばす/よろこぶ",
+    "meaning": "rejoice",
+    "strokes": 12,
+    "examples": [
+      "喜 (キ)",
+      "喜 (よろこばす)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "回",
+    "onyomi": "エ/カイ",
+    "kunyomi": "-まわし/-まわす/-まわり/-まわる/かえる/まわし-/まわす/まわる/もとおる",
+    "meaning": "putaran/kali",
+    "strokes": 6,
+    "examples": [
+      "回 (エ)",
+      "回 (-まわし)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "因",
+    "onyomi": "イン",
+    "kunyomi": "ちなむ/よる",
+    "meaning": "sebab/alasan",
+    "strokes": 6,
+    "examples": [
+      "因 (イン)",
+      "因 (ちなむ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "困",
+    "onyomi": "コン",
+    "kunyomi": "こまる",
+    "meaning": "kesusahan/kesulitan",
+    "strokes": 7,
+    "examples": [
+      "困 (コン)",
+      "困 (こまる)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "園",
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "meaning": "taman/kebun",
+    "strokes": 13,
+    "examples": [
+      "園 (エン)",
+      "園 (その)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "ある",
+    "meaning": "ada/berada",
+    "strokes": 6,
+    "examples": [
+      "在 (ザイ)",
+      "在 (ある)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むくいる",
+    "meaning": "balasan/laporan",
+    "strokes": 12,
+    "examples": [
+      "報 (ホウ)",
+      "報 (むくいる)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ふえる/ふやす/まし/ます",
+    "meaning": "bertambah/meningkat",
+    "strokes": 14,
+    "examples": [
+      "増 (ゾウ)",
+      "増 (ふえる)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "声",
+    "onyomi": "ショウ/セイ",
+    "kunyomi": "こえ/こわ-",
+    "meaning": "suara",
+    "strokes": 7,
+    "examples": [
+      "声 (ショウ)",
+      "声 (こえ)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "変",
+    "onyomi": "ヘン",
+    "kunyomi": "かえる/かわり/かわる",
+    "meaning": "aneh/berubah",
+    "strokes": 9,
+    "examples": [
+      "変 (ヘン)",
+      "変 (かえる)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "夢",
+    "onyomi": "ボウ/ム",
+    "kunyomi": "くらい/ゆめ/ゆめみる",
+    "meaning": "mimpi",
+    "strokes": 13,
+    "examples": [
+      "夢 (ボウ)",
+      "夢 (くらい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "太",
+    "onyomi": "タ/タイ",
+    "kunyomi": "ふとい/ふとる",
+    "meaning": "gemuk/tebal",
+    "strokes": 4,
+    "examples": [
+      "太 (タ)",
+      "太 (ふとい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "夫",
+    "onyomi": "フ/フウ/ブ",
+    "kunyomi": "おっと/それ",
+    "meaning": "suami/dewasa",
+    "strokes": 4,
+    "examples": [
+      "夫 (フ)",
+      "夫 (おっと)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "失",
+    "onyomi": "シツ",
+    "kunyomi": "うせる/うしなう",
+    "meaning": "kehilangan/gagal",
+    "strokes": 5,
+    "examples": [
+      "失 (シツ)",
+      "失 (うせる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "好",
+    "onyomi": "コウ",
+    "kunyomi": "いい/このむ/すく/よい",
+    "meaning": "suka/favorit",
+    "strokes": 6,
+    "examples": [
+      "好 (コウ)",
+      "好 (いい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "妻",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "meaning": "istri",
+    "strokes": 8,
+    "examples": [
+      "妻 (サイ)",
+      "妻 (つま)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "娘",
+    "onyomi": "ジョウ",
+    "kunyomi": "こ/むすめ",
+    "meaning": "anak perempuan/gadis",
+    "strokes": 10,
+    "examples": [
+      "娘 (ジョウ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "婚",
+    "onyomi": "コン",
+    "kunyomi": "—",
+    "meaning": "pernikahan",
+    "strokes": 11,
+    "examples": [
+      "婚 (コン)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "婦",
+    "onyomi": "フ",
+    "kunyomi": "よめ",
+    "meaning": "wanita/ibu rumah tangga",
+    "strokes": 11,
+    "examples": [
+      "婦 (フ)",
+      "婦 (よめ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "存",
+    "onyomi": "ソン/ゾン",
+    "kunyomi": "ある/たもつ/とう/ながらえる",
+    "meaning": "ada/berpikir",
+    "strokes": 6,
+    "examples": [
+      "存 (ソン)",
+      "存 (ある)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "宅",
+    "onyomi": "タク",
+    "kunyomi": "—",
+    "meaning": "rumah/kediaman",
+    "strokes": 6,
+    "examples": [
+      "宅 (タク)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "守",
+    "onyomi": "シュ/ス",
+    "kunyomi": "-もり/かみ/まもり/まもる/もり",
+    "meaning": "menjaga/melindungi",
+    "strokes": 6,
+    "examples": [
+      "守 (シュ)",
+      "守 (-もり)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "完",
+    "onyomi": "カン",
+    "kunyomi": "—",
+    "meaning": "sempurna/lengkap",
+    "strokes": 7,
+    "examples": [
+      "完 (カン)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "官",
+    "onyomi": "カン",
+    "kunyomi": "—",
+    "meaning": "pemerintah/pejabat",
+    "strokes": 8,
+    "examples": [
+      "官 (カン)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "定",
+    "onyomi": "ジョウ/テイ",
+    "kunyomi": "さだか/さだまる/さだめる",
+    "meaning": "menetapkan/menentukan",
+    "strokes": 8,
+    "examples": [
+      "定 (ジョウ)",
+      "定 (さだか)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "実",
+    "onyomi": "シツ/ジツ",
+    "kunyomi": "まこと/み/みちる/みの/みのる",
+    "meaning": "kenyataan/buah",
+    "strokes": 8,
+    "examples": [
+      "実 (シツ)",
+      "実 (まこと)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "客",
+    "onyomi": "カク/キャク",
+    "kunyomi": "—",
+    "meaning": "tamu/pelanggan",
+    "strokes": 9,
+    "examples": [
+      "客 (カク)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "害",
+    "onyomi": "ガイ",
+    "kunyomi": "—",
+    "meaning": "bahaya/kerusakan",
+    "strokes": 10,
+    "examples": [
+      "害 (ガイ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "容",
+    "onyomi": "ヨウ",
+    "kunyomi": "いれる",
+    "meaning": "wajah/memuat",
+    "strokes": 10,
+    "examples": [
+      "容 (ヨウ)",
+      "容 (いれる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "宿",
+    "onyomi": "シュク",
+    "kunyomi": "やど/やどす/やどる",
+    "meaning": "penginapan/asrama",
+    "strokes": 11,
+    "examples": [
+      "宿 (シュク)",
+      "宿 (やど)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "寄",
+    "onyomi": "キ",
+    "kunyomi": "-より/よせる/よる",
+    "meaning": "mendekati/mengunjungi",
+    "strokes": 11,
+    "examples": [
+      "寄 (キ)",
+      "寄 (-より)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "富",
+    "onyomi": "フ/フウ",
+    "kunyomi": "とむ/とみ",
+    "meaning": "kaya/kekayaan",
+    "strokes": 12,
+    "examples": [
+      "富 (フ)",
+      "富 (とむ)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむい",
+    "meaning": "dingin",
+    "strokes": 12,
+    "examples": [
+      "寒 (カン)",
+      "寒 (さむい)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "寝",
+    "onyomi": "シン",
+    "kunyomi": "いぬ/ねかす/ねる/みたまや/やめる",
+    "meaning": "tidur",
+    "strokes": 13,
+    "examples": [
+      "寝 (シン)",
+      "寝 (いぬ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "察",
+    "onyomi": "サツ",
+    "kunyomi": "—",
+    "meaning": "mengamati/memahami",
+    "strokes": 14,
+    "examples": [
+      "察 (サツ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "対",
+    "onyomi": "タイ/ツイ",
+    "kunyomi": "あいて/こたえる/そろい/つれあい/ならぶ/むかう",
+    "meaning": "berhadapan/pasangan",
+    "strokes": 7,
+    "examples": [
+      "対 (タイ)",
+      "対 (あいて)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "局",
+    "onyomi": "キョク",
+    "kunyomi": "つぼね",
+    "meaning": "kantor/biro",
+    "strokes": 7,
+    "examples": [
+      "局 (キョク)",
+      "局 (つぼね)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "居",
+    "onyomi": "キョ/コ",
+    "kunyomi": "-い/いる/おる",
+    "meaning": "tinggal/berada",
+    "strokes": 8,
+    "examples": [
+      "居 (キョ)",
+      "居 (-い)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "差",
+    "onyomi": "サ",
+    "kunyomi": "さし/さす",
+    "meaning": "perbedaan",
+    "strokes": 10,
+    "examples": [
+      "差 (サ)",
+      "差 (さし)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "meaning": "kota/pasar",
+    "strokes": 5,
+    "examples": [
+      "市 (シ)",
+      "市 (いち)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "師",
+    "onyomi": "シ",
+    "kunyomi": "いくさ",
+    "meaning": "guru/ahli",
+    "strokes": 10,
+    "examples": [
+      "師 (シ)",
+      "師 (いくさ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "席",
+    "onyomi": "セキ",
+    "kunyomi": "むしろ",
+    "meaning": "kursi/tempat duduk",
+    "strokes": 10,
+    "examples": [
+      "席 (セキ)",
+      "席 (むしろ)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "常",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね/とこ-",
+    "meaning": "selalu/biasa",
+    "strokes": 11,
+    "examples": [
+      "常 (ジョウ)",
+      "常 (つね)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "平",
+    "onyomi": "ヒョウ/ビョウ/ヘイ",
+    "kunyomi": "たいら/たいらげる/ひら",
+    "meaning": "datar/damai",
+    "strokes": 5,
+    "examples": [
+      "平 (ヒョウ)",
+      "平 (たいら)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "幸",
+    "onyomi": "コウ",
+    "kunyomi": "さいわい/さち/しあわせ",
+    "meaning": "bahagia/beruntung",
+    "strokes": 8,
+    "examples": [
+      "幸 (コウ)",
+      "幸 (さいわい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "幾",
+    "onyomi": "キ",
+    "kunyomi": "いく-/いくつ/いくら",
+    "meaning": "berapa/beberapa",
+    "strokes": 12,
+    "examples": [
+      "幾 (キ)",
+      "幾 (いく-)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "座",
+    "onyomi": "ザ",
+    "kunyomi": "すわる",
+    "meaning": "duduk/bangku",
+    "strokes": 10,
+    "examples": [
+      "座 (ザ)",
+      "座 (すわる)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "庭",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "meaning": "halaman/taman",
+    "strokes": 10,
+    "examples": [
+      "庭 (テイ)",
+      "庭 (にわ)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "式",
+    "onyomi": "シキ",
+    "kunyomi": "—",
+    "meaning": "upacara/gaya",
+    "strokes": 6,
+    "examples": [
+      "式 (シキ)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひく/ひける",
+    "meaning": "menarik/mundur",
+    "strokes": 4,
+    "examples": [
+      "引 (イン)",
+      "引 (ひく)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "当",
+    "onyomi": "トウ",
+    "kunyomi": "あたり/あたる/あて/あてる/まさに/まさにべし",
+    "meaning": "kena/saat ini",
+    "strokes": 6,
+    "examples": [
+      "当 (トウ)",
+      "当 (あたり)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "形",
+    "onyomi": "ギョウ/ケイ",
+    "kunyomi": "-がた/かた/かたち/なり",
+    "meaning": "bentuk/wujud",
+    "strokes": 7,
+    "examples": [
+      "形 (ギョウ)",
+      "形 (-がた)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "役",
+    "onyomi": "エキ/ヤク",
+    "kunyomi": "—",
+    "meaning": "peran/tugas",
+    "strokes": 7,
+    "examples": [
+      "役 (エキ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "彼",
+    "onyomi": "ヒ",
+    "kunyomi": "かの/かの/かれ",
+    "meaning": "dia/pacar",
+    "strokes": 8,
+    "examples": [
+      "彼 (ヒ)",
+      "彼 (かの)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "徒",
+    "onyomi": "ト",
+    "kunyomi": "あだ/いたずら",
+    "meaning": "murid/pengikut",
+    "strokes": 10,
+    "examples": [
+      "徒 (ト)",
+      "徒 (あだ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "得",
+    "onyomi": "トク",
+    "kunyomi": "うる/える",
+    "meaning": "mendapat/untung",
+    "strokes": 11,
+    "examples": [
+      "得 (トク)",
+      "得 (うる)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "御",
+    "onyomi": "ギョ/ゴ",
+    "kunyomi": "お-/おん-/み-",
+    "meaning": "terhormat/anda",
+    "strokes": 12,
+    "examples": [
+      "御 (ギョ)",
+      "御 (お-)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "必",
+    "onyomi": "ヒツ",
+    "kunyomi": "かならず",
+    "meaning": "pasti/wajib",
+    "strokes": 5,
+    "examples": [
+      "必 (ヒツ)",
+      "必 (かならず)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "忘",
+    "onyomi": "ボウ",
+    "kunyomi": "わすれる",
+    "meaning": "lupa",
+    "strokes": 7,
+    "examples": [
+      "忘 (ボウ)",
+      "忘 (わすれる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "忙",
+    "onyomi": "ボウ/モウ",
+    "kunyomi": "いそがしい/うれえるさま/おそれる/せわしい",
+    "meaning": "sibuk",
+    "strokes": 6,
+    "examples": [
+      "忙 (ボウ)",
+      "忙 (いそがしい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "念",
+    "onyomi": "ネン",
+    "kunyomi": "—",
+    "meaning": "pikiran/keinginan",
+    "strokes": 8,
+    "examples": [
+      "念 (ネン)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "怒",
+    "onyomi": "ド/ヌ",
+    "kunyomi": "いかる/おこる",
+    "meaning": "marah/naik pitam",
+    "strokes": 9,
+    "examples": [
+      "怒 (ド)",
+      "怒 (いかる)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "怖",
+    "onyomi": "フ/ホ",
+    "kunyomi": "おじる/おそれる/こわい/こわがる",
+    "meaning": "takut/menakutkan",
+    "strokes": 8,
+    "examples": [
+      "怖 (フ)",
+      "怖 (おじる)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "性",
+    "onyomi": "ショウ/セイ",
+    "kunyomi": "さが",
+    "meaning": "sifat/jenis kelamin",
+    "strokes": 8,
+    "examples": [
+      "性 (ショウ)",
+      "性 (さが)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "恐",
+    "onyomi": "キョウ",
+    "kunyomi": "おそる/おそれる/おそろしい/こわい/こわがる",
+    "meaning": "takut/mengerikan",
+    "strokes": 10,
+    "examples": [
+      "恐 (キョウ)",
+      "恐 (おそる)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "恥",
+    "onyomi": "チ",
+    "kunyomi": "はじらう/はじる/はずかしい/はじ",
+    "meaning": "malu/aib",
+    "strokes": 10,
+    "examples": [
+      "恥 (チ)",
+      "恥 (はじらう)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "息",
+    "onyomi": "ソク",
+    "kunyomi": "いき",
+    "meaning": "nafas/anak",
+    "strokes": 10,
+    "examples": [
+      "息 (ソク)",
+      "息 (いき)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "悲",
+    "onyomi": "ヒ",
+    "kunyomi": "かなしい/かなしむ",
+    "meaning": "sedih/duka",
+    "strokes": 12,
+    "examples": [
+      "悲 (ヒ)",
+      "悲 (かなしい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "情",
+    "onyomi": "ジョウ/セイ",
+    "kunyomi": "なさけ",
+    "meaning": "perasaan/emosi",
+    "strokes": 11,
+    "examples": [
+      "情 (ジョウ)",
+      "情 (なさけ)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "想",
+    "onyomi": "ソ/ソウ",
+    "kunyomi": "おもう",
+    "meaning": "pikiran/anggapan",
+    "strokes": 13,
+    "examples": [
+      "想 (ソ)",
+      "想 (おもう)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "愛",
+    "onyomi": "アイ",
+    "kunyomi": "いとしい/おしむ/かなしい/まな/めでる",
+    "meaning": "cinta/kasih sayang",
+    "strokes": 13,
+    "examples": [
+      "愛 (アイ)",
+      "愛 (いとしい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "感",
+    "onyomi": "カン",
+    "kunyomi": "—",
+    "meaning": "perasaan/emosi",
+    "strokes": 13,
+    "examples": [
+      "感 (カン)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "慣",
+    "onyomi": "カン",
+    "kunyomi": "ならす/なれる",
+    "meaning": "terbiasa/mahir",
+    "strokes": 14,
+    "examples": [
+      "慣 (カン)",
+      "慣 (ならす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "成",
+    "onyomi": "ジョウ/セイ",
+    "kunyomi": "-なす/なす/なる",
+    "meaning": "menjadi/sukses",
+    "strokes": 6,
+    "examples": [
+      "成 (ジョウ)",
+      "成 (-なす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "戦",
+    "onyomi": "セン",
+    "kunyomi": "いくさ/おののく/そよぐ/たたかう/わななく",
+    "meaning": "perang/pertempuran",
+    "strokes": 13,
+    "examples": [
+      "戦 (セン)",
+      "戦 (いくさ)"
+    ],
+    "category": "Militer & Perang"
+  },
+  {
+    "kanji": "戻",
+    "onyomi": "レイ",
+    "kunyomi": "もどす/もどる",
+    "meaning": "kembali/mengembalikan",
+    "strokes": 7,
+    "examples": [
+      "戻 (レイ)",
+      "戻 (もどす)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "所",
+    "onyomi": "ショ",
+    "kunyomi": "-ところ/とこ/ところ/どころ",
+    "meaning": "tempat/lokasi",
+    "strokes": 8,
+    "examples": [
+      "所 (ショ)",
+      "所 (-ところ)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "才",
+    "onyomi": "サイ",
+    "kunyomi": "—",
+    "meaning": "bakat/usia",
+    "strokes": 3,
+    "examples": [
+      "才 (サイ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "打",
+    "onyomi": "ダ/ダース",
+    "kunyomi": "うち-/うつ/ぶつ",
+    "meaning": "memukul/meninju",
+    "strokes": 5,
+    "examples": [
+      "打 (ダ)",
+      "打 (うち-)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "払",
+    "onyomi": "ヒツ/フツ/ホツ",
+    "kunyomi": "-はらい/-ばらい/はらう",
+    "meaning": "membayar/menyapu",
+    "strokes": 5,
+    "examples": [
+      "払 (ヒツ)",
+      "払 (-はらい)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "投",
+    "onyomi": "トウ",
+    "kunyomi": "-なげ/なげる",
+    "meaning": "melempar/melemparkan",
+    "strokes": 7,
+    "examples": [
+      "投 (トウ)",
+      "投 (-なげ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "折",
+    "onyomi": "シャク/セツ",
+    "kunyomi": "-おり/おり/おる/おれる/おり",
+    "meaning": "mematahkan/melipat",
+    "strokes": 7,
+    "examples": [
+      "折 (シャク)",
+      "折 (-おり)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "ハイ/ハツ/バツ",
+    "kunyomi": "-ぬく/ぬかす/ぬかる/ぬき/ぬく/ぬける",
+    "meaning": "mencabut/menghilangkan",
+    "strokes": 7,
+    "examples": [
+      "抜 (ハイ)",
+      "抜 (-ぬく)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "いだく/かかえる/だく",
+    "meaning": "memeluk/memegang",
+    "strokes": 8,
+    "examples": [
+      "抱 (ホウ)",
+      "抱 (いだく)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "押",
+    "onyomi": "オウ",
+    "kunyomi": "おさえる/おし-/おす/おっ-/おさえる",
+    "meaning": "mendorong/menekan",
+    "strokes": 8,
+    "examples": [
+      "押 (オウ)",
+      "押 (おさえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まねく",
+    "meaning": "mengundang/memanggil",
+    "strokes": 8,
+    "examples": [
+      "招 (ショウ)",
+      "招 (まねく)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "指",
+    "onyomi": "シ",
+    "kunyomi": "-さし/さす/ゆび",
+    "meaning": "jari/menunjuk",
+    "strokes": 9,
+    "examples": [
+      "指 (シ)",
+      "指 (-さし)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "つかまえる/つかまる/とらえる/とらわれる/とる/とらえる/とらわれる",
+    "meaning": "menangkap/merebut",
+    "strokes": 10,
+    "examples": [
+      "捕 (ホ)",
+      "捕 (つかまえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "掛",
+    "onyomi": "カイ/ケイ",
+    "kunyomi": "-かかる/-かけ/-かける/-がかり/-がかる/-がけ/-がかり/かかり/かかる/かけ/かける/かかり",
+    "meaning": "menggantung/menelepon",
+    "strokes": 11,
+    "examples": [
+      "掛 (カイ)",
+      "掛 (-かかる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さがす/さぐる",
+    "meaning": "mencari/menyelidiki",
+    "strokes": 11,
+    "examples": [
+      "探 (タン)",
+      "探 (さがす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "支",
+    "onyomi": "シ",
+    "kunyomi": "かう/ささえる/つかえる",
+    "meaning": "cabang/mendukung",
+    "strokes": 4,
+    "examples": [
+      "支 (シ)",
+      "支 (かう)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "放",
+    "onyomi": "ホウ",
+    "kunyomi": "-っぱなし/こく/はなす/はなつ/はなれる/ほうる",
+    "meaning": "melepaskan/membebaskan",
+    "strokes": 8,
+    "examples": [
+      "放 (ホウ)",
+      "放 (-っぱなし)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "政",
+    "onyomi": "ショウ/セイ",
+    "kunyomi": "まつりごと/まん",
+    "meaning": "politik/pemerintahan",
+    "strokes": 9,
+    "examples": [
+      "政 (ショウ)",
+      "政 (まつりごと)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "敗",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶれる",
+    "meaning": "kalah/kegagalan",
+    "strokes": 11,
+    "examples": [
+      "敗 (ハイ)",
+      "敗 (やぶれる)"
+    ],
+    "category": "Militer & Perang"
+  },
+  {
+    "kanji": "散",
+    "onyomi": "サン",
+    "kunyomi": "-ちらす/ちらかす/ちらかる/ちらす/ちらばる/ちる/ばら/ばらける",
+    "meaning": "berserakan/menyebarkan",
+    "strokes": 12,
+    "examples": [
+      "散 (サン)",
+      "散 (-ちらす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "数",
+    "onyomi": "サク/シュ/ス/スウ/ソク",
+    "kunyomi": "かず/かぞえる/しばしば/せめる/わずらわしい",
+    "meaning": "angka/menghitung",
+    "strokes": 13,
+    "examples": [
+      "数 (サク)",
+      "数 (かず)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "断",
+    "onyomi": "ダン",
+    "kunyomi": "ことわる/さだめる/たつ",
+    "meaning": "memutuskan/menolak",
+    "strokes": 11,
+    "examples": [
+      "断 (ダン)",
+      "断 (ことわる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "易",
+    "onyomi": "イ/エキ",
+    "kunyomi": "やさしい/やすい",
+    "meaning": "mudah/sederhana",
+    "strokes": 8,
+    "examples": [
+      "易 (イ)",
+      "易 (やさしい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "昔",
+    "onyomi": "シャク/セキ",
+    "kunyomi": "むかし",
+    "meaning": "dahulu/zaman dulu",
+    "strokes": 8,
+    "examples": [
+      "昔 (シャク)",
+      "昔 (むかし)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "昨",
+    "onyomi": "サク",
+    "kunyomi": "—",
+    "meaning": "kemarin/lalu",
+    "strokes": 9,
+    "examples": [
+      "昨 (サク)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "晩",
+    "onyomi": "バン",
+    "kunyomi": "—",
+    "meaning": "malam",
+    "strokes": 12,
+    "examples": [
+      "晩 (バン)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "景",
+    "onyomi": "ケイ",
+    "kunyomi": "—",
+    "meaning": "pemandangan/suasana",
+    "strokes": 12,
+    "examples": [
+      "景 (ケイ)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "晴",
+    "onyomi": "セイ",
+    "kunyomi": "-ばれ/はらす/はれ/はれ-/はれる",
+    "meaning": "cerah/terang",
+    "strokes": 12,
+    "examples": [
+      "晴 (セイ)",
+      "晴 (-ばれ)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "暗",
+    "onyomi": "アン",
+    "kunyomi": "くらい/くらむ/くれる",
+    "meaning": "gelap/suram",
+    "strokes": 13,
+    "examples": [
+      "暗 (アン)",
+      "暗 (くらい)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "暮",
+    "onyomi": "ボ",
+    "kunyomi": "くらす/くれる",
+    "meaning": "hidup/sore",
+    "strokes": 14,
+    "examples": [
+      "暮 (ボ)",
+      "暮 (くらす)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "曲",
+    "onyomi": "キョク",
+    "kunyomi": "くま/まがる/まげる",
+    "meaning": "melengkung/lagu",
+    "strokes": 6,
+    "examples": [
+      "曲 (キョク)",
+      "曲 (くま)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "更",
+    "onyomi": "コウ",
+    "kunyomi": "さら/さらに/ふかす/ふける",
+    "meaning": "lebih/malam",
+    "strokes": 7,
+    "examples": [
+      "更 (コウ)",
+      "更 (さら)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "最",
+    "onyomi": "サイ/シュ",
+    "kunyomi": "つま/もっとも",
+    "meaning": "paling/paling banyak",
+    "strokes": 12,
+    "examples": [
+      "最 (サイ)",
+      "最 (つま)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "望",
+    "onyomi": "ボウ/モウ",
+    "kunyomi": "のぞむ/もち",
+    "meaning": "harapan/mengharapkan",
+    "strokes": 11,
+    "examples": [
+      "望 (ボウ)",
+      "望 (のぞむ)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "期",
+    "onyomi": "キ/ゴ",
+    "kunyomi": "—",
+    "meaning": "kali",
+    "strokes": 12,
+    "examples": [
+      "期 (キ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "未",
+    "onyomi": "ビ/ミ",
+    "kunyomi": "いまだ/ひつじ/まだ",
+    "meaning": "belum/belum pernah",
+    "strokes": 5,
+    "examples": [
+      "未 (ビ)",
+      "未 (いまだ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "末",
+    "onyomi": "バツ/マツ",
+    "kunyomi": "うら/うれ/すえ",
+    "meaning": "ujung/akhir",
+    "strokes": 5,
+    "examples": [
+      "末 (バツ)",
+      "末 (うら)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "束",
+    "onyomi": "ソク",
+    "kunyomi": "たば/たばねる/つか/つかねる",
+    "meaning": "ikat/bundel",
+    "strokes": 7,
+    "examples": [
+      "束 (ソク)",
+      "束 (たば)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "杯",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "meaning": "cangkir/gelas",
+    "strokes": 8,
+    "examples": [
+      "杯 (ハイ)",
+      "杯 (さかずき)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "果",
+    "onyomi": "カ",
+    "kunyomi": "-はたす/-はてる/はたす/はて/はてる/はたす",
+    "meaning": "buah/hasil",
+    "strokes": 8,
+    "examples": [
+      "果 (カ)",
+      "果 (-はたす)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "格",
+    "onyomi": "カク/キャク/コウ/ゴウ",
+    "kunyomi": "—",
+    "meaning": "harga/bentuk",
+    "strokes": 10,
+    "examples": [
+      "格 (カク)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かまう/かまえる",
+    "meaning": "struktur/memperhatikan",
+    "strokes": 14,
+    "examples": [
+      "構 (コウ)",
+      "構 (かまう)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "様",
+    "onyomi": "ショウ/ヨウ",
+    "kunyomi": "さま/さん",
+    "meaning": "tuan/keadaan",
+    "strokes": 14,
+    "examples": [
+      "様 (ショウ)",
+      "様 (さま)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "権",
+    "onyomi": "ケン/ゴン",
+    "kunyomi": "おもり/かり/はかる",
+    "meaning": "hak/wewenang",
+    "strokes": 15,
+    "examples": [
+      "権 (ケン)",
+      "権 (おもり)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "横",
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "meaning": "samping/mendatar",
+    "strokes": 15,
+    "examples": [
+      "横 (オウ)",
+      "横 (よこ)"
+    ],
+    "category": "Posisi"
+  },
+  {
+    "kanji": "機",
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "meaning": "mesin/kesempatan",
+    "strokes": 16,
+    "examples": [
+      "機 (キ)",
+      "機 (はた)"
+    ],
+    "category": "Alat"
+  },
+  {
+    "kanji": "欠",
+    "onyomi": "ケツ/ケン",
+    "kunyomi": "かく/かける",
+    "meaning": "kurang/menguap",
+    "strokes": 4,
+    "examples": [
+      "欠 (ケツ)",
+      "欠 (かく)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "次",
+    "onyomi": "シ/ジ",
+    "kunyomi": "つぐ/つぎ",
+    "meaning": "berikut/selanjutnya",
+    "strokes": 6,
+    "examples": [
+      "次 (シ)",
+      "次 (つぐ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "欲",
+    "onyomi": "ヨク",
+    "kunyomi": "ほしい/ほっする",
+    "meaning": "ingin/nafsu",
+    "strokes": 11,
+    "examples": [
+      "欲 (ヨク)",
+      "欲 (ほしい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "歯",
+    "onyomi": "シ",
+    "kunyomi": "は/よわい/よわい/よわいする",
+    "meaning": "gigi",
+    "strokes": 12,
+    "examples": [
+      "歯 (シ)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "歳",
+    "onyomi": "サイ/セイ",
+    "kunyomi": "とし/とせ/よわい",
+    "meaning": "tahun (usia)",
+    "strokes": 13,
+    "examples": [
+      "歳 (サイ)",
+      "歳 (とし)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "残",
+    "onyomi": "サン/ザン",
+    "kunyomi": "そこなう/のこす/のこり/のこる",
+    "meaning": "sisa/meninggalkan",
+    "strokes": 10,
+    "examples": [
+      "残 (サン)",
+      "残 (そこなう)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "段",
+    "onyomi": "タン/ダン",
+    "kunyomi": "—",
+    "meaning": "tahap/langkah",
+    "strokes": 9,
+    "examples": [
+      "段 (タン)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "殺",
+    "onyomi": "サイ/サツ/セツ",
+    "kunyomi": "-ごろし/あやめる/ころす/そぐ",
+    "meaning": "membunuh",
+    "strokes": 10,
+    "examples": [
+      "殺 (サイ)",
+      "殺 (-ごろし)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "民",
+    "onyomi": "ミン",
+    "kunyomi": "たみ",
+    "meaning": "rakyat/orang",
+    "strokes": 5,
+    "examples": [
+      "民 (ミン)",
+      "民 (たみ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "求",
+    "onyomi": "キュウ/グ",
+    "kunyomi": "もとめる",
+    "meaning": "meminta/mencari",
+    "strokes": 7,
+    "examples": [
+      "求 (キュウ)",
+      "求 (もとめる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "決",
+    "onyomi": "ケツ",
+    "kunyomi": "-ぎめ/きまる/きめる/さく",
+    "meaning": "memutuskan/keputusan",
+    "strokes": 7,
+    "examples": [
+      "決 (ケツ)",
+      "決 (-ぎめ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "治",
+    "onyomi": "ジ/チ",
+    "kunyomi": "おさまる/おさめる/なおす/なおる",
+    "meaning": "mengobati/memerintah",
+    "strokes": 8,
+    "examples": [
+      "治 (ジ)",
+      "治 (おさまる)"
+    ],
+    "category": "Kesehatan"
+  },
+  {
+    "kanji": "法",
+    "onyomi": "ハッ/フラン/ホウ/ホッ",
+    "kunyomi": "のり",
+    "meaning": "hukum/cara",
+    "strokes": 8,
+    "examples": [
+      "法 (ハッ)",
+      "法 (のり)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "泳",
+    "onyomi": "エイ",
+    "kunyomi": "およぐ",
+    "meaning": "berenang",
+    "strokes": 8,
+    "examples": [
+      "泳 (エイ)",
+      "泳 (およぐ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あらう",
+    "meaning": "mencuci",
+    "strokes": 9,
+    "examples": [
+      "洗 (セン)",
+      "洗 (あらう)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "活",
+    "onyomi": "カツ",
+    "kunyomi": "いかす/いきる/いける",
+    "meaning": "aktif/kehidupan",
+    "strokes": 9,
+    "examples": [
+      "活 (カツ)",
+      "活 (いかす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "流",
+    "onyomi": "リュウ/ル",
+    "kunyomi": "-ながす/ながす/ながれ/ながれる",
+    "meaning": "mengalir/aliran",
+    "strokes": 10,
+    "examples": [
+      "流 (リュウ)",
+      "流 (-ながす)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "浮",
+    "onyomi": "フ",
+    "kunyomi": "うかぶ/うかべる/うかれる/うく",
+    "meaning": "mengapung/terapung",
+    "strokes": 10,
+    "examples": [
+      "浮 (フ)",
+      "浮 (うかぶ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "消",
+    "onyomi": "ショウ",
+    "kunyomi": "きえる/けす",
+    "meaning": "menghilangkan/memadamkan",
+    "strokes": 10,
+    "examples": [
+      "消 (ショウ)",
+      "消 (きえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "深",
+    "onyomi": "シン",
+    "kunyomi": "-ぶかい/ふかい/ふかまる/ふかめる/み-",
+    "meaning": "dalam/mendalam",
+    "strokes": 11,
+    "examples": [
+      "深 (シン)",
+      "深 (-ぶかい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "済",
+    "onyomi": "サイ/セイ",
+    "kunyomi": "-すます/-ずみ/-ずみ/すます/すまない/すむ/すくう/なす/わたる/わたし",
+    "meaning": "selesai/membayar",
+    "strokes": 11,
+    "examples": [
+      "済 (サイ)",
+      "済 (-すます)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "渡",
+    "onyomi": "ト",
+    "kunyomi": "-わたる/わたす/わたる",
+    "meaning": "menyeberangi/menyerahkan",
+    "strokes": 12,
+    "examples": [
+      "渡 (ト)",
+      "渡 (-わたる)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "港",
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "meaning": "pelabuhan",
+    "strokes": 12,
+    "examples": [
+      "港 (コウ)",
+      "港 (みなと)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "満",
+    "onyomi": "バン/マン",
+    "kunyomi": "みたす/みちる/みつ",
+    "meaning": "penuh/cukup",
+    "strokes": 12,
+    "examples": [
+      "満 (バン)",
+      "満 (みたす)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "演",
+    "onyomi": "エン",
+    "kunyomi": "—",
+    "meaning": "pertunjukan/akting",
+    "strokes": 14,
+    "examples": [
+      "演 (エン)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "点",
+    "onyomi": "テン",
+    "kunyomi": "さす/たてる/つく/つける/とぼす/ともす/ぼち",
+    "meaning": "titik/poin",
+    "strokes": 9,
+    "examples": [
+      "点 (テン)",
+      "点 (さす)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "然",
+    "onyomi": "ゼン/ネン",
+    "kunyomi": "さ/しか/しかし/しかり",
+    "meaning": "begitu/namun",
+    "strokes": 12,
+    "examples": [
+      "然 (ゼン)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "煙",
+    "onyomi": "エン",
+    "kunyomi": "けむい/けむる/けむり",
+    "meaning": "asap/rokok",
+    "strokes": 13,
+    "examples": [
+      "煙 (エン)",
+      "煙 (けむい)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "熱",
+    "onyomi": "ネツ",
+    "kunyomi": "あつい",
+    "meaning": "panas/demam",
+    "strokes": 15,
+    "examples": [
+      "熱 (ネツ)",
+      "熱 (あつい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "犯",
+    "onyomi": "ハン/ボン",
+    "kunyomi": "おかす",
+    "meaning": "kejahatan/pelaku",
+    "strokes": 5,
+    "examples": [
+      "犯 (ハン)",
+      "犯 (おかす)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "—",
+    "meaning": "kondisi/surat",
+    "strokes": 7,
+    "examples": [
+      "状 (ジョウ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "猫",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "meaning": "kucing",
+    "strokes": 11,
+    "examples": [
+      "猫 (ビョウ)",
+      "猫 (ねこ)"
+    ],
+    "category": "Hewan"
+  },
+  {
+    "kanji": "王",
+    "onyomi": "-ノウ/オウ",
+    "kunyomi": "—",
+    "meaning": "raja",
+    "strokes": 4,
+    "examples": [
+      "王 (-ノウ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "現",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわす/あらわれる/うつつ/うつつ",
+    "meaning": "sekarang/muncul",
+    "strokes": 11,
+    "examples": [
+      "現 (ゲン)",
+      "現 (あらわす)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "球",
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "meaning": "bola",
+    "strokes": 11,
+    "examples": [
+      "球 (キュウ)",
+      "球 (たま)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "産",
+    "onyomi": "サン",
+    "kunyomi": "うまれる/うむ/うぶ-/むす",
+    "meaning": "produksi/kelahiran",
+    "strokes": 11,
+    "examples": [
+      "産 (サン)",
+      "産 (うまれる)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "由",
+    "onyomi": "ユ/ユイ/ユウ",
+    "kunyomi": "よる/よし",
+    "meaning": "alasan/dari",
+    "strokes": 5,
+    "examples": [
+      "由 (ユ)",
+      "由 (よる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "申",
+    "onyomi": "シン",
+    "kunyomi": "さる/もうし-/もうす",
+    "meaning": "mengatakan/mendaftar",
+    "strokes": 5,
+    "examples": [
+      "申 (シン)",
+      "申 (さる)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "留",
+    "onyomi": "リュウ/ル",
+    "kunyomi": "とまる/とめる/とどまる/とどめる/るうぶる",
+    "meaning": "tinggal/menetap",
+    "strokes": 10,
+    "examples": [
+      "留 (リュウ)",
+      "留 (とまる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "番",
+    "onyomi": "バン",
+    "kunyomi": "つがい",
+    "meaning": "nomor/giliran",
+    "strokes": 12,
+    "examples": [
+      "番 (バン)",
+      "番 (つがい)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "疑",
+    "onyomi": "ギ",
+    "kunyomi": "うたがう",
+    "meaning": "ragu/curiga",
+    "strokes": 14,
+    "examples": [
+      "疑 (ギ)",
+      "疑 (うたがう)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "疲",
+    "onyomi": "ヒ",
+    "kunyomi": "-づかれ/つからす/つかれる",
+    "meaning": "lelah/capek",
+    "strokes": 10,
+    "examples": [
+      "疲 (ヒ)",
+      "疲 (-づかれ)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "痛",
+    "onyomi": "ツウ",
+    "kunyomi": "いたい/いたましい/いたむ/いためる",
+    "meaning": "sakit/nyeri",
+    "strokes": 12,
+    "examples": [
+      "痛 (ツウ)",
+      "痛 (いたい)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "登",
+    "onyomi": "ショウ/チョウ/ト/トウ/ドウ",
+    "kunyomi": "あがる/のぼる",
+    "meaning": "mendaki/mendaftar",
+    "strokes": 12,
+    "examples": [
+      "登 (ショウ)",
+      "登 (あがる)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "皆",
+    "onyomi": "カイ",
+    "kunyomi": "みな/みんな",
+    "meaning": "semua/semuanya",
+    "strokes": 9,
+    "examples": [
+      "皆 (カイ)",
+      "皆 (みな)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "盗",
+    "onyomi": "トウ",
+    "kunyomi": "ぬすみ/ぬすむ",
+    "meaning": "mencuri/pencurian",
+    "strokes": 11,
+    "examples": [
+      "盗 (トウ)",
+      "盗 (ぬすみ)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "直",
+    "onyomi": "ジカ/ジキ/チョク",
+    "kunyomi": "-なおす/すぐ/ただちに/なおき/なおす/なおる",
+    "meaning": "langsung/cepat",
+    "strokes": 8,
+    "examples": [
+      "直 (ジカ)",
+      "直 (-なおす)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "相",
+    "onyomi": "ショウ/ソウ",
+    "kunyomi": "あい-",
+    "meaning": "saling/masing-masing",
+    "strokes": 9,
+    "examples": [
+      "相 (ショウ)",
+      "相 (あい-)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "眠",
+    "onyomi": "ミン",
+    "kunyomi": "ねむい/ねむる",
+    "meaning": "tidur/mengantuk",
+    "strokes": 10,
+    "examples": [
+      "眠 (ミン)",
+      "眠 (ねむい)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "石",
+    "onyomi": "コク/シャク/セキ",
+    "kunyomi": "いし",
+    "meaning": "batu",
+    "strokes": 5,
+    "examples": [
+      "石 (コク)",
+      "石 (いし)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "破",
+    "onyomi": "ハ",
+    "kunyomi": "やぶる/やぶれる/われる",
+    "meaning": "pecah/menghancurkan",
+    "strokes": 10,
+    "examples": [
+      "破 (ハ)",
+      "破 (やぶる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "確",
+    "onyomi": "カク/コウ",
+    "kunyomi": "たしか/たしかめる",
+    "meaning": "yakin/pasti",
+    "strokes": 15,
+    "examples": [
+      "確 (カク)",
+      "確 (たしか)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "示",
+    "onyomi": "シ/ジ",
+    "kunyomi": "しめす",
+    "meaning": "menunjukkan/memperlihatkan",
+    "strokes": 5,
+    "examples": [
+      "示 (シ)",
+      "示 (しめす)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "礼",
+    "onyomi": "ライ/レイ",
+    "kunyomi": "—",
+    "meaning": "salam/terima kasih",
+    "strokes": 5,
+    "examples": [
+      "礼 (ライ)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "祖",
+    "onyomi": "ソ",
+    "kunyomi": "—",
+    "meaning": "leluhur/nenek moyang",
+    "strokes": 9,
+    "examples": [
+      "祖 (ソ)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "神",
+    "onyomi": "シン/ジン",
+    "kunyomi": "かみ/かん-/こう-",
+    "meaning": "dewa/roh",
+    "strokes": 9,
+    "examples": [
+      "神 (シン)",
+      "神 (かみ)"
+    ],
+    "category": "Agama & Kepercayaan"
+  },
+  {
+    "kanji": "福",
+    "onyomi": "フク",
+    "kunyomi": "—",
+    "meaning": "keberuntungan/berkat",
+    "strokes": 13,
+    "examples": [
+      "福 (フク)"
+    ],
+    "category": "Agama & Kepercayaan"
+  },
+  {
+    "kanji": "科",
+    "onyomi": "カ",
+    "kunyomi": "—",
+    "meaning": "department",
+    "strokes": 9,
+    "examples": [
+      "科 (カ)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "程",
+    "onyomi": "テイ",
+    "kunyomi": "-ほど/ほど",
+    "meaning": "tingkat/sekitar",
+    "strokes": 12,
+    "examples": [
+      "程 (テイ)",
+      "程 (-ほど)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "種",
+    "onyomi": "シュ",
+    "kunyomi": "-ぐさ/たね",
+    "meaning": "kelas",
+    "strokes": 14,
+    "examples": [
+      "種 (シュ)",
+      "種 (-ぐさ)"
+    ],
+    "category": "Pendidikan"
+  },
+  {
+    "kanji": "積",
+    "onyomi": "セキ",
+    "kunyomi": "-づみ/つむ/つもり/つもる",
+    "meaning": "muatan",
+    "strokes": 16,
+    "examples": [
+      "積 (セキ)",
+      "積 (-づみ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "突",
+    "onyomi": "カ/トツ",
+    "kunyomi": "つく",
+    "meaning": "tiba-tiba",
+    "strokes": 8,
+    "examples": [
+      "突 (カ)",
+      "突 (つく)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "窓",
+    "onyomi": "ス/ソウ",
+    "kunyomi": "けむだし/てんまど/まど",
+    "meaning": "jendela",
+    "strokes": 11,
+    "examples": [
+      "窓 (ス)",
+      "窓 (けむだし)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "笑",
+    "onyomi": "ショウ",
+    "kunyomi": "えむ/わらう",
+    "meaning": "tertawa/tersenyum",
+    "strokes": 10,
+    "examples": [
+      "笑 (ショウ)",
+      "笑 (えむ)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "等",
+    "onyomi": "トウ",
+    "kunyomi": "-ら/など/ひとしい",
+    "meaning": "sama/dan lain-lain",
+    "strokes": 12,
+    "examples": [
+      "等 (トウ)",
+      "等 (-ら)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "箱",
+    "onyomi": "ソウ",
+    "kunyomi": "はこ",
+    "meaning": "kotak/peti",
+    "strokes": 15,
+    "examples": [
+      "箱 (ソウ)",
+      "箱 (はこ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "米",
+    "onyomi": "ベイ/マイ/メエトル",
+    "kunyomi": "こめ/よね",
+    "meaning": "beras/Amerika",
+    "strokes": 6,
+    "examples": [
+      "米 (ベイ)",
+      "米 (こめ)"
+    ],
+    "category": "Makanan"
+  },
+  {
+    "kanji": "精",
+    "onyomi": "ショウ/セイ",
+    "kunyomi": "くわしい/しらげる",
+    "meaning": "refined",
+    "strokes": 14,
+    "examples": [
+      "精 (ショウ)",
+      "精 (くわしい)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "約",
+    "onyomi": "ヤク",
+    "kunyomi": "つづまる/つづめる/つづまやか",
+    "meaning": "janji/kira-kira",
+    "strokes": 9,
+    "examples": [
+      "約 (ヤク)",
+      "約 (つづまる)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "組",
+    "onyomi": "ソ",
+    "kunyomi": "-ぐみ/くむ/くみ",
+    "meaning": "kelompok/menggabungkan",
+    "strokes": 11,
+    "examples": [
+      "組 (ソ)",
+      "組 (-ぐみ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "経",
+    "onyomi": "キョウ/キン/ケイ",
+    "kunyomi": "たつ/たていと/のり/はかる/へる",
+    "meaning": "melalui/pengalaman",
+    "strokes": 11,
+    "examples": [
+      "経 (キョウ)",
+      "経 (たつ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "給",
+    "onyomi": "キュウ",
+    "kunyomi": "-たまえ/たまう/たもう",
+    "meaning": "gaji/memberikan",
+    "strokes": 12,
+    "examples": [
+      "給 (キュウ)",
+      "給 (-たまえ)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "絵",
+    "onyomi": "エ/カイ",
+    "kunyomi": "—",
+    "meaning": "gambar/lukisan",
+    "strokes": 12,
+    "examples": [
+      "絵 (エ)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "絶",
+    "onyomi": "ゼツ",
+    "kunyomi": "たえる/たつ/たやす",
+    "meaning": "putus/absolut",
+    "strokes": 12,
+    "examples": [
+      "絶 (ゼツ)",
+      "絶 (たえる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "続",
+    "onyomi": "キョウ/コウ/ショク/ゾク",
+    "kunyomi": "つぐない/つづく/つづける",
+    "meaning": "melanjutkan/berlanjut",
+    "strokes": 13,
+    "examples": [
+      "続 (キョウ)",
+      "続 (つぐない)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "緒",
+    "onyomi": "ショ/チョ",
+    "kunyomi": "いとぐち/お",
+    "meaning": "benang/awal",
+    "strokes": 14,
+    "examples": [
+      "緒 (ショ)",
+      "緒 (いとぐち)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "罪",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "meaning": "kejahatan",
+    "strokes": 13,
+    "examples": [
+      "罪 (ザイ)",
+      "罪 (つみ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "置",
+    "onyomi": "チ",
+    "kunyomi": "-おき/おく",
+    "meaning": "menaruh/meletakkan",
+    "strokes": 13,
+    "examples": [
+      "置 (チ)",
+      "置 (-おき)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "美",
+    "onyomi": "ビ/ミ",
+    "kunyomi": "うつくしい",
+    "meaning": "indah/kecantikan",
+    "strokes": 9,
+    "examples": [
+      "美 (ビ)",
+      "美 (うつくしい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "老",
+    "onyomi": "ロウ",
+    "kunyomi": "おいる/ふける",
+    "meaning": "old man",
+    "strokes": 6,
+    "examples": [
+      "老 (ロウ)",
+      "老 (おいる)"
+    ],
+    "category": "Orang"
+  },
+  {
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "meaning": "telinga",
+    "strokes": 6,
+    "examples": [
+      "耳 (ジ)",
+      "耳 (みみ)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "職",
+    "onyomi": "ショク/ソク",
+    "kunyomi": "—",
+    "meaning": "pekerjaan/jabatan",
+    "strokes": 18,
+    "examples": [
+      "職 (ショク)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "育",
+    "onyomi": "イク",
+    "kunyomi": "そだち/そだつ/そだてる/はぐくむ",
+    "meaning": "mendidik/membesarkan",
+    "strokes": 8,
+    "examples": [
+      "育 (イク)",
+      "育 (そだち)"
+    ],
+    "category": "Pendidikan"
+  },
+  {
+    "kanji": "背",
+    "onyomi": "ハイ",
+    "kunyomi": "せ/せい/そむく/そむける",
+    "meaning": "punggung/tinggi",
+    "strokes": 9,
+    "examples": [
+      "背 (ハイ)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "能",
+    "onyomi": "ノウ",
+    "kunyomi": "あたう/よく",
+    "meaning": "kemampuan/bakat",
+    "strokes": 10,
+    "examples": [
+      "能 (ノウ)",
+      "能 (あたう)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "腹",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "meaning": "perut",
+    "strokes": 13,
+    "examples": [
+      "腹 (フク)",
+      "腹 (はら)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "舞",
+    "onyomi": "ブ",
+    "kunyomi": "-まう/まう/まい",
+    "meaning": "menari/tarian",
+    "strokes": 15,
+    "examples": [
+      "舞 (ブ)",
+      "舞 (-まう)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "船",
+    "onyomi": "セン",
+    "kunyomi": "ふな-/ふね",
+    "meaning": "kapal/perahu",
+    "strokes": 11,
+    "examples": [
+      "船 (セン)",
+      "船 (ふな-)"
+    ],
+    "category": "Transportasi"
+  },
+  {
+    "kanji": "良",
+    "onyomi": "リョウ",
+    "kunyomi": "-いい/-よい/いい/よい",
+    "meaning": "baik/bagus",
+    "strokes": 7,
+    "examples": [
+      "良 (リョウ)",
+      "良 (-いい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "若",
+    "onyomi": "ジャク/ニャ/ニャク",
+    "kunyomi": "ごとし/もし/もしくは/もしくわ/わか-/わかい",
+    "meaning": "young",
+    "strokes": 8,
+    "examples": [
+      "若 (ジャク)",
+      "若 (ごとし)"
+    ],
+    "category": "Angka & Jumlah"
+  },
+  {
+    "kanji": "苦",
+    "onyomi": "ク",
+    "kunyomi": "-ぐるしい/くるしい/くるしむ/くるしめる/にがい/にがる",
+    "meaning": "pahit/menderita",
+    "strokes": 8,
+    "examples": [
+      "苦 (ク)",
+      "苦 (-ぐるしい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "草",
+    "onyomi": "ソウ",
+    "kunyomi": "-ぐさ/くさ/くさ-",
+    "meaning": "rumput",
+    "strokes": 9,
+    "examples": [
+      "草 (ソウ)",
+      "草 (-ぐさ)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "落",
+    "onyomi": "ラク",
+    "kunyomi": "おち/おちる/おとす",
+    "meaning": "jatuh/gugur",
+    "strokes": 12,
+    "examples": [
+      "落 (ラク)",
+      "落 (おち)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "葉",
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "meaning": "daun",
+    "strokes": 12,
+    "examples": [
+      "葉 (ヨウ)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "薬",
+    "onyomi": "ヤク",
+    "kunyomi": "くすり",
+    "meaning": "obat",
+    "strokes": 16,
+    "examples": [
+      "薬 (ヤク)",
+      "薬 (くすり)"
+    ],
+    "category": "Kesehatan"
+  },
+  {
+    "kanji": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "すべ",
+    "meaning": "sumber daya",
+    "strokes": 11,
+    "examples": [
+      "術 (ジュツ)",
+      "術 (すべ)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "表",
+    "onyomi": "ヒョウ",
+    "kunyomi": "-おもて/あらわす/あらわす/あらわれる/おもて",
+    "meaning": "permukaan",
+    "strokes": 8,
+    "examples": [
+      "表 (ヒョウ)",
+      "表 (-おもて)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "要",
+    "onyomi": "ヨウ",
+    "kunyomi": "いる/かなめ",
+    "meaning": "perlu/inti",
+    "strokes": 9,
+    "examples": [
+      "要 (ヨウ)",
+      "要 (いる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "規",
+    "onyomi": "キ",
+    "kunyomi": "—",
+    "meaning": "aturan/norma",
+    "strokes": 11,
+    "examples": [
+      "規 (キ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "覚",
+    "onyomi": "カク",
+    "kunyomi": "おぼえる/さます/さめる/さとる",
+    "meaning": "mengingat/sadar",
+    "strokes": 12,
+    "examples": [
+      "覚 (カク)",
+      "覚 (おぼえる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "観",
+    "onyomi": "カン",
+    "kunyomi": "しめす/みる",
+    "meaning": "pandangan/melihat",
+    "strokes": 18,
+    "examples": [
+      "観 (カン)",
+      "観 (しめす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "解",
+    "onyomi": "カイ/ゲ",
+    "kunyomi": "さとる/とかす/とく/とける/ほどく/ほどける/わかる",
+    "meaning": "menjelaskan",
+    "strokes": 13,
+    "examples": [
+      "解 (カイ)",
+      "解 (さとる)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "記",
+    "onyomi": "キ",
+    "kunyomi": "しるす",
+    "meaning": "menulis/mencatat",
+    "strokes": 10,
+    "examples": [
+      "記 (キ)",
+      "記 (しるす)"
+    ],
+    "category": "Pendidikan"
+  },
+  {
+    "kanji": "訪",
+    "onyomi": "ホウ",
+    "kunyomi": "おとずれる/たずねる/とう",
+    "meaning": "mengunjungi",
+    "strokes": 11,
+    "examples": [
+      "訪 (ホウ)",
+      "訪 (おとずれる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "許",
+    "onyomi": "キョ",
+    "kunyomi": "もと/ゆるす",
+    "meaning": "mengizinkan/maaf",
+    "strokes": 11,
+    "examples": [
+      "許 (キョ)",
+      "許 (もと)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "認",
+    "onyomi": "ニン",
+    "kunyomi": "したためる/みとめる",
+    "meaning": "mengakui/mengenali",
+    "strokes": 14,
+    "examples": [
+      "認 (ニン)",
+      "認 (したためる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "誤",
+    "onyomi": "ゴ",
+    "kunyomi": "-あやまる/あやまる",
+    "meaning": "mistake",
+    "strokes": 14,
+    "examples": [
+      "誤 (ゴ)",
+      "誤 (-あやまる)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "説",
+    "onyomi": "セツ/ゼイ",
+    "kunyomi": "とく",
+    "meaning": "penjelasan/teori",
+    "strokes": 14,
+    "examples": [
+      "説 (セツ)",
+      "説 (とく)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "調",
+    "onyomi": "チョウ",
+    "kunyomi": "しらべ/しらべる/ととのう/ととのえる",
+    "meaning": "menyelidiki/musik",
+    "strokes": 15,
+    "examples": [
+      "調 (チョウ)",
+      "調 (しらべ)"
+    ],
+    "category": "Pendidikan"
+  },
+  {
+    "kanji": "談",
+    "onyomi": "ダン",
+    "kunyomi": "—",
+    "meaning": "pembicaraan",
+    "strokes": 15,
+    "examples": [
+      "談 (ダン)"
+    ],
+    "category": "Komunikasi"
+  },
+  {
+    "kanji": "論",
+    "onyomi": "ロン",
+    "kunyomi": "あげつらう",
+    "meaning": "argumen",
+    "strokes": 15,
+    "examples": [
+      "論 (ロン)",
+      "論 (あげつらう)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "識",
+    "onyomi": "シキ",
+    "kunyomi": "しる/しるす",
+    "meaning": "discriminating",
+    "strokes": 19,
+    "examples": [
+      "識 (シキ)",
+      "識 (しる)"
+    ],
+    "category": "Pendidikan"
+  },
+  {
+    "kanji": "警",
+    "onyomi": "ケイ",
+    "kunyomi": "いましめる",
+    "meaning": "polisi/waspada",
+    "strokes": 19,
+    "examples": [
+      "警 (ケイ)",
+      "警 (いましめる)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "議",
+    "onyomi": "ギ",
+    "kunyomi": "—",
+    "meaning": "diskusi/musyawarah",
+    "strokes": 20,
+    "examples": [
+      "議 (ギ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "負",
+    "onyomi": "フ",
+    "kunyomi": "おう/まかす/まける",
+    "meaning": "kalah/beban",
+    "strokes": 9,
+    "examples": [
+      "負 (フ)",
+      "負 (おう)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "財",
+    "onyomi": "サイ/ザイ/ゾク",
+    "kunyomi": "たから",
+    "meaning": "harta/kekayaan",
+    "strokes": 10,
+    "examples": [
+      "財 (サイ)",
+      "財 (たから)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "貧",
+    "onyomi": "ヒン/ビン",
+    "kunyomi": "まずしい",
+    "meaning": "poverty",
+    "strokes": 11,
+    "examples": [
+      "貧 (ヒン)",
+      "貧 (まずしい)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "責",
+    "onyomi": "セキ",
+    "kunyomi": "せめる",
+    "meaning": "tanggung jawab/menyalahkan",
+    "strokes": 11,
+    "examples": [
+      "責 (セキ)",
+      "責 (せめる)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "費",
+    "onyomi": "ヒ",
+    "kunyomi": "ついえる/ついやす",
+    "meaning": "biaya/menghabiskan",
+    "strokes": 12,
+    "examples": [
+      "費 (ヒ)",
+      "費 (ついえる)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "資",
+    "onyomi": "シ",
+    "kunyomi": "—",
+    "meaning": "aset/sumber daya",
+    "strokes": 13,
+    "examples": [
+      "資 (シ)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "賛",
+    "onyomi": "サン",
+    "kunyomi": "たすける/たたえる",
+    "meaning": "menyetujui",
+    "strokes": 15,
+    "examples": [
+      "賛 (サン)",
+      "賛 (たすける)"
+    ],
+    "category": "Seni & Budaya"
+  },
+  {
+    "kanji": "越",
+    "onyomi": "エツ/オツ",
+    "kunyomi": "-こす/-ごえ/-ごし/こえる/こす",
+    "meaning": "melebihi",
+    "strokes": 12,
+    "examples": [
+      "越 (エツ)",
+      "越 (-こす)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "路",
+    "onyomi": "ル/ロ",
+    "kunyomi": "-じ/みち",
+    "meaning": "jalan/rute",
+    "strokes": 13,
+    "examples": [
+      "路 (ル)",
+      "路 (-じ)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "辞",
+    "onyomi": "ジ",
+    "kunyomi": "いなむ/やめる",
+    "meaning": "mengundurkan diri/kata",
+    "strokes": 13,
+    "examples": [
+      "辞 (ジ)",
+      "辞 (いなむ)"
+    ],
+    "category": "Ekonomi"
+  },
+  {
+    "kanji": "込",
+    "onyomi": "—",
+    "kunyomi": "-こみ/-こむ/こみ/こむ/こめる",
+    "meaning": "masuk/ramai",
+    "strokes": 5,
+    "examples": [
+      "込 (-こみ)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "迎",
+    "onyomi": "ゲイ",
+    "kunyomi": "むかえる",
+    "meaning": "menyambut",
+    "strokes": 7,
+    "examples": [
+      "迎 (ゲイ)",
+      "迎 (むかえる)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "返",
+    "onyomi": "ヘン",
+    "kunyomi": "-かえす/-かえる/かえす/かえる",
+    "meaning": "mengembalikan/membalas",
+    "strokes": 7,
+    "examples": [
+      "返 (ヘン)",
+      "返 (-かえす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "迷",
+    "onyomi": "メイ",
+    "kunyomi": "まよう",
+    "meaning": "astray",
+    "strokes": 9,
+    "examples": [
+      "迷 (メイ)",
+      "迷 (まよう)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "追",
+    "onyomi": "ツイ",
+    "kunyomi": "おう",
+    "meaning": "mengejar/mengikuti",
+    "strokes": 9,
+    "examples": [
+      "追 (ツイ)",
+      "追 (おう)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "退",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞく/しりぞける/どく/のく/のける/ひく",
+    "meaning": "mengundurkan diri",
+    "strokes": 9,
+    "examples": [
+      "退 (タイ)",
+      "退 (しりぞく)"
+    ],
+    "category": "Makanan"
+  },
+  {
+    "kanji": "逃",
+    "onyomi": "トウ",
+    "kunyomi": "にがす/にげる/のがす/のがれる",
+    "meaning": "menghindari",
+    "strokes": 9,
+    "examples": [
+      "逃 (トウ)",
+      "逃 (にがす)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "途",
+    "onyomi": "ト",
+    "kunyomi": "みち",
+    "meaning": "jalan di tengah",
+    "strokes": 10,
+    "examples": [
+      "途 (ト)",
+      "途 (みち)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "速",
+    "onyomi": "ソク",
+    "kunyomi": "すみやか/はや-/はやい/はやめる",
+    "meaning": "cepat/kecepatan",
+    "strokes": 10,
+    "examples": [
+      "速 (ソク)",
+      "速 (すみやか)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "連",
+    "onyomi": "レン",
+    "kunyomi": "-づれ/つれる/つらなる/つらねる",
+    "meaning": "menghubungkan/berurutan",
+    "strokes": 10,
+    "examples": [
+      "連 (レン)",
+      "連 (-づれ)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "進",
+    "onyomi": "シン",
+    "kunyomi": "すすむ/すすめる",
+    "meaning": "maju/kemajuan",
+    "strokes": 11,
+    "examples": [
+      "進 (シン)",
+      "進 (すすむ)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "遅",
+    "onyomi": "チ",
+    "kunyomi": "おくらす/おくれる/おそい",
+    "meaning": "lambat/terlambat",
+    "strokes": 12,
+    "examples": [
+      "遅 (チ)",
+      "遅 (おくらす)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "遊",
+    "onyomi": "ユ/ユウ",
+    "kunyomi": "あそばす/あそぶ",
+    "meaning": "bermain/menghibur",
+    "strokes": 12,
+    "examples": [
+      "遊 (ユ)",
+      "遊 (あそばす)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "過",
+    "onyomi": "カ",
+    "kunyomi": "あやまち/あやまつ/すぎる/すごす/よぎる/よぎる",
+    "meaning": "melewati/berlebihan",
+    "strokes": 12,
+    "examples": [
+      "過 (カ)",
+      "過 (あやまち)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "達",
+    "onyomi": "タツ/ダ",
+    "kunyomi": "-たち",
+    "meaning": "mencapai/kawan",
+    "strokes": 12,
+    "examples": [
+      "達 (タツ)",
+      "達 (-たち)"
+    ],
+    "category": "Sosial"
+  },
+  {
+    "kanji": "違",
+    "onyomi": "イ",
+    "kunyomi": "-ちがえる/たがう/たがえる/ちがい/ちがう/ちがえる",
+    "meaning": "berbeda/salah",
+    "strokes": 13,
+    "examples": [
+      "違 (イ)",
+      "違 (-ちがえる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "遠",
+    "onyomi": "エン/オン",
+    "kunyomi": "とおい",
+    "meaning": "jauh",
+    "strokes": 13,
+    "examples": [
+      "遠 (エン)",
+      "遠 (とおい)"
+    ],
+    "category": "Posisi"
+  },
+  {
+    "kanji": "適",
+    "onyomi": "テキ",
+    "kunyomi": "かなう",
+    "meaning": "cocok/sesuai",
+    "strokes": 14,
+    "examples": [
+      "適 (テキ)",
+      "適 (かなう)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "選",
+    "onyomi": "セン",
+    "kunyomi": "える/えらぶ/よる",
+    "meaning": "memilih",
+    "strokes": 15,
+    "examples": [
+      "選 (セン)",
+      "選 (える)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "部",
+    "onyomi": "ブ",
+    "kunyomi": "-べ",
+    "meaning": "bagian/departemen",
+    "strokes": 11,
+    "examples": [
+      "部 (ブ)",
+      "部 (-べ)"
+    ],
+    "category": "Pemerintah & Organisasi"
+  },
+  {
+    "kanji": "都",
+    "onyomi": "ツ/ト",
+    "kunyomi": "みやこ",
+    "meaning": "ibu kota/semua",
+    "strokes": 11,
+    "examples": [
+      "都 (ツ)",
+      "都 (みやこ)"
+    ],
+    "category": "Tempat"
+  },
+  {
+    "kanji": "配",
+    "onyomi": "ハイ",
+    "kunyomi": "くばる",
+    "meaning": "membagikan/mendistribusikan",
+    "strokes": 10,
+    "examples": [
+      "配 (ハイ)",
+      "配 (くばる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "酒",
+    "onyomi": "シュ",
+    "kunyomi": "さか-/さけ",
+    "meaning": "sake/minuman keras",
+    "strokes": 10,
+    "examples": [
+      "酒 (シュ)",
+      "酒 (さか-)"
+    ],
+    "category": "Makanan"
+  },
+  {
+    "kanji": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "しまる/しめる/たてる/とざす/とじる",
+    "meaning": "menutup",
+    "strokes": 11,
+    "examples": [
+      "閉 (ヘイ)",
+      "閉 (しまる)"
+    ],
+    "category": "Tindakan"
+  },
+  {
+    "kanji": "関",
+    "onyomi": "カン",
+    "kunyomi": "-ぜき/かかわる/からくり/かんぬき/せき",
+    "meaning": "hubungan/terkait",
+    "strokes": 14,
+    "examples": [
+      "関 (カン)",
+      "関 (-ぜき)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "降",
+    "onyomi": "コウ/ゴ",
+    "kunyomi": "おりる/おろす/くだす/くだる/ふり/ふる",
+    "meaning": "turun/hujan",
+    "strokes": 10,
+    "examples": [
+      "降 (コウ)",
+      "降 (おりる)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "限",
+    "onyomi": "ゲン",
+    "kunyomi": "-かぎり/かぎり/かぎる",
+    "meaning": "limit",
+    "strokes": 9,
+    "examples": [
+      "限 (ゲン)",
+      "限 (-かぎり)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "除",
+    "onyomi": "ジ/ジョ",
+    "kunyomi": "-よけ/のぞく",
+    "meaning": "exclude",
+    "strokes": 10,
+    "examples": [
+      "除 (ジ)",
+      "除 (-よけ)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "険",
+    "onyomi": "ケン",
+    "kunyomi": "けわしい",
+    "meaning": "curam/berbahaya",
+    "strokes": 11,
+    "examples": [
+      "険 (ケン)",
+      "険 (けわしい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "陽",
+    "onyomi": "ヨウ",
+    "kunyomi": "ひ",
+    "meaning": "matahari/positif",
+    "strokes": 12,
+    "examples": [
+      "陽 (ヨウ)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "際",
+    "onyomi": "サイ",
+    "kunyomi": "-ぎわ/きわ",
+    "meaning": "saat/tepi",
+    "strokes": 14,
+    "examples": [
+      "際 (サイ)",
+      "際 (-ぎわ)"
+    ],
+    "category": "Waktu"
+  },
+  {
+    "kanji": "雑",
+    "onyomi": "ザツ/ゾウ",
+    "kunyomi": "まじえる/まじる",
+    "meaning": "miscellaneous",
+    "strokes": 14,
+    "examples": [
+      "雑 (ザツ)",
+      "雑 (まじえる)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "難",
+    "onyomi": "ナン",
+    "kunyomi": "-がたい/-にくい/かたい/むずかしい/むつかしい/むづかしい",
+    "meaning": "sulit/masalah",
+    "strokes": 18,
+    "examples": [
+      "難 (ナン)",
+      "難 (-がたい)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "雪",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "meaning": "salju",
+    "strokes": 11,
+    "examples": [
+      "雪 (セツ)",
+      "雪 (ゆき)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "静",
+    "onyomi": "ジョウ/セイ",
+    "kunyomi": "しず-/しずか/しずまる/しずめる",
+    "meaning": "tenang/sunyi",
+    "strokes": 14,
+    "examples": [
+      "静 (ジョウ)",
+      "静 (しず-)"
+    ],
+    "category": "Sifat"
+  },
+  {
+    "kanji": "非",
+    "onyomi": "ヒ",
+    "kunyomi": "あらず",
+    "meaning": "bukan/sangat",
+    "strokes": 8,
+    "examples": [
+      "非 (ヒ)",
+      "非 (あらず)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "面",
+    "onyomi": "ベン/メン",
+    "kunyomi": "おも/おもて/つら",
+    "meaning": "wajah/permukaan",
+    "strokes": 9,
+    "examples": [
+      "面 (ベン)",
+      "面 (おも)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "靴",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "meaning": "sepatu",
+    "strokes": 13,
+    "examples": [
+      "靴 (カ)",
+      "靴 (くつ)"
+    ],
+    "category": "Pakaian"
+  },
+  {
+    "kanji": "頂",
+    "onyomi": "チョウ",
+    "kunyomi": "いただく/いただき",
+    "meaning": "puncak/terima kasih",
+    "strokes": 11,
+    "examples": [
+      "頂 (チョウ)",
+      "頂 (いただく)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "頭",
+    "onyomi": "ズ/ト/トウ",
+    "kunyomi": "-がしら/あたま/かしら/かぶり",
+    "meaning": "kepala",
+    "strokes": 16,
+    "examples": [
+      "頭 (ズ)",
+      "頭 (-がしら)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "頼",
+    "onyomi": "ライ",
+    "kunyomi": "たのむ/たのもしい/たよる",
+    "meaning": "kepercayaan",
+    "strokes": 16,
+    "examples": [
+      "頼 (ライ)",
+      "頼 (たのむ)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "顔",
+    "onyomi": "ガン",
+    "kunyomi": "かお",
+    "meaning": "wajah/raut",
+    "strokes": 18,
+    "examples": [
+      "顔 (ガン)",
+      "顔 (かお)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "願",
+    "onyomi": "ガン",
+    "kunyomi": "-ねがい/ねがう",
+    "meaning": "harapan/memohon",
+    "strokes": 19,
+    "examples": [
+      "願 (ガン)",
+      "願 (-ねがい)"
+    ],
+    "category": "Emosi"
+  },
+  {
+    "kanji": "類",
+    "onyomi": "ルイ",
+    "kunyomi": "たぐい",
+    "meaning": "jenis/tipe",
+    "strokes": 18,
+    "examples": [
+      "類 (ルイ)",
+      "類 (たぐい)"
+    ],
+    "category": "Umum"
+  },
+  {
+    "kanji": "飛",
+    "onyomi": "ヒ",
+    "kunyomi": "-とばす/とばす/とぶ",
+    "meaning": "terbang",
+    "strokes": 9,
+    "examples": [
+      "飛 (ヒ)",
+      "飛 (-とばす)"
+    ],
+    "category": "Pergerakan"
+  },
+  {
+    "kanji": "首",
+    "onyomi": "シュ",
+    "kunyomi": "くび",
+    "meaning": "leher/pemecatan",
+    "strokes": 9,
+    "examples": [
+      "首 (シュ)",
+      "首 (くび)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "馬",
+    "onyomi": "バ",
+    "kunyomi": "うま/うま-/ま",
+    "meaning": "kuda",
+    "strokes": 10,
+    "examples": [
+      "馬 (バ)",
+      "馬 (うま)"
+    ],
+    "category": "Hewan"
+  },
+  {
+    "kanji": "髪",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "meaning": "rambut",
+    "strokes": 14,
+    "examples": [
+      "髪 (ハツ)",
+      "髪 (かみ)"
+    ],
+    "category": "Tubuh"
+  },
+  {
+    "kanji": "鳴",
+    "onyomi": "メイ",
+    "kunyomi": "なく/ならす/なる",
+    "meaning": "berbunyi/berkicau",
+    "strokes": 14,
+    "examples": [
+      "鳴 (メイ)",
+      "鳴 (なく)"
+    ],
+    "category": "Hewan"
+  }
   ],
   "grammar": [
     {
