@@ -5,7 +5,7 @@ export const n3Data: LevelData = {
   "subtitle": "中級 — Menengah",
   "description": "Level menengah bahasa Jepang. Mampu memahami percakapan sehari-hari dengan kecepatan alami dan membaca artikel sederhana.",
   "color": "amber",
-  "kanjiCount": "367",
+  "kanjiCount": "370",
   "vocabCount": "2299",
   "grammarCount": "110",
   "studyHours": "~700 jam",
@@ -22179,6 +22179,44 @@ export const n3Data: LevelData = {
     ],
     "category": "Hewan"
   }
+  },
+  {
+    "kanji": "俺",
+    "onyomi": "エン",
+    "kunyomi": "おれ/われ",
+    "meaning": "aku/saya (kasual)",
+    "strokes": 10,
+    "examples": [
+      "俺 (おれ)",
+      "俺 (エン)"
+    ],
+    "category": "Pribadi"
+  },
+  {
+    "kanji": "岡",
+    "onyomi": "コウ",
+    "kunyomi": "おか",
+    "meaning": "bukit",
+    "strokes": 8,
+    "examples": [
+      "岡 (コウ)",
+      "岡 (おか)"
+    ],
+    "category": "Alam"
+  },
+  {
+    "kanji": "誰",
+    "onyomi": "スイ",
+    "kunyomi": "だれ/たれ",
+    "meaning": "siapa",
+    "strokes": 15,
+    "examples": [
+      "誰 (スイ)",
+      "誰 (だれ)"
+    ],
+    "category": "Tanya"
+  }
+
   ],
   "grammar": [
     {
