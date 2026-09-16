@@ -22178,7 +22178,6 @@ export const n3Data: LevelData = {
       "鳴 (なく)"
     ],
     "category": "Hewan"
-  }
   },
   {
     "kanji": "俺",
